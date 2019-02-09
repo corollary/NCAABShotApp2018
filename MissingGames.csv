@@ -906,6 +906,8 @@ UC Santa Barbara Gauchos,Washington Huskies
 Morgan State Bears,Virginia Cavaliers
 Troy Trojans,Florida State Seminoles
 Rutgers Scarlet Knights,Wisconsin Badgers
+UMBC Retrievers,Coppin State Eagles
+Reinhardt Eagles,East Tennessee State Buccaneers
 Vermont Catamounts,George Mason Patriots
 St. Joseph's (NY-Brooklyn) Bears,St. Francis Brooklyn Terriers
 Cairn University Highlanders,Delaware State Hornets
@@ -1219,7 +1221,6 @@ FGCU Eagles,UMBC Retrievers
 Miami (OH) RedHawks,Northern Kentucky Norse
 Mississippi Valley State Delta Devils,Hawaii Rainbow Warriors
 Longwood Lancers,Cornell Big Red
-Southeast Missouri State Redhawks,Florida State Seminoles
 Wilmington (DE) Wildcats,Morgan State Bears
 North Carolina Wesleyan Battling Bishops,High Point Panthers
 Houston Baptist Huskies,Samford Bulldogs
@@ -1259,7 +1260,6 @@ Chattanooga Mocs,UT Martin Skyhawks
 Huston-Tillotson Rams,Texas A&M-Corpus Christi Islanders
 Montana State Bobcats,Denver Pioneers
 South Dakota State Jackrabbits,Eastern Washington Eagles
-USC Trojans,Santa Clara Broncos
 Cal Poly Mustangs,Bakersfield Roadrunners
 Marist Red Foxes,New Hampshire Wildcats
 Truett-McConnell Bears,USC Upstate Spartans
@@ -1323,9 +1323,7 @@ Fairleigh Dickinson Knights,Massachusetts Minutemen
 Corban Warriors,Eastern Washington Eagles
 IUPUI Jaguars,Morehead State Eagles
 Georgia Southern Eagles,Radford Highlanders
-UC Irvine Anteaters,Butler Bulldogs
 Bethune-Cookman Wildcats,Boston University Terriers
-Illinois State Redbirds,UCF Knights
 Coastal Carolina Chanticleers,Charleston Cougars
 Navy Midshipmen,George Mason Patriots
 Princeton Tigers,Lafayette Leopards
@@ -1343,7 +1341,6 @@ Howard Payne Yellow Jackets,Lamar Cardinals
 Coppin State Eagles,Louisiana-Monroe Warhawks
 Florida A&M Rattlers,Portland Pilots
 Vermont Catamounts,Lipscomb Bisons
-Northern Arizona Lumberjacks,Utah Runnin' Utes
 UT Arlington Mavericks,Cal Poly Mustangs
 Idaho Vandals,Santa Clara Broncos
 Maryland Eastern Shore Hawks,American University Eagles
@@ -1357,7 +1354,6 @@ Rosemont College Ravens,Hofstra Pride
 Central Connecticut State Blue Devils,Maine Black Bears
 Brown Bears,Marist Red Foxes
 Fairfield Stags,New Hampshire Wildcats
-Columbia Lions,Rutgers Scarlet Knights
 Southeastern Louisiana Lions,Bradley Braves
 Presbyterian Blue Hose,Dayton Flyers
 Eastern Kentucky Colonels,Duquesne Dukes
@@ -1404,7 +1400,1474 @@ Manhattan Jaspers,St. Francis Brooklyn Terriers
 Indiana State Sycamores,UNLV Runnin' Rebels
 CSUN Matadors,Rider Broncs
 Drake Bulldogs,San Diego Toreros
-Colorado Buffaloes,Charlotte 49ers
+Detroit Titans,Youngstown State Penguins
+Kennesaw State Owls,Georgia Tech Yellow Jackets
+South Dakota State Jackrabbits,Western Illinois Leathernecks
+Oakland Golden Grizzlies,Cleveland State Vikings
+Towson Tigers,Elon Phoenix
+Delaware Fightin' Blue Hens,Hofstra Pride
+Albany Great Danes,Kent State Golden Flashes
+Loyola Maryland Greyhounds,North Carolina State Wolfpack
+Drexel Dragons,Northeastern Huskies
+Maryland Eastern Shore Hawks,Virginia Tech Hokies
+James Madison Dukes,William & Mary Tribe
+UIC Flames,Wright State Raiders
+TCU Horned Frogs,Hawaii Pacific Sharks
+IUPUI Jaguars,Northern Kentucky Norse
+UC Riverside Highlanders,Air Force Falcons
+Austin Peay Governors,Arkansas Razorbacks
+Southern University Jaguars,Marquette Golden Eagles
+UT Arlington Mavericks,Texas Longhorns
+Purdue Fort Wayne Mastodons,North Dakota Fighting Hawks
+Denver Pioneers,Omaha Mavericks
+Eastern Oregon Mountaineers,Utah State Aggies
+South Dakota Coyotes,North Dakota State Bison
+UC Davis Aggies,Loyola Marymount Lions
+BYU Cougars,Mississippi State Bulldogs
+Coppin State Eagles,Notre Dame Fighting Irish
+Wofford Terriers,Western Carolina Catamounts
+Prairie View A&M Panthers,Winthrop Eagles
+Longwood Lancers,Citadel Bulldogs
+Middle Georgia State Knights,Georgia State Panthers
+Florida A&M Rattlers,Memphis Tigers
+Fairleigh Dickinson Knights,South Florida Bulls
+Hampton Pirates,Saint Peter's Peacocks
+UAPB Golden Lions,Troy Trojans
+Purdue Fort Wayne Mastodons,North Dakota Fighting Hawks
+South Dakota Coyotes,North Dakota State Bison
+Mercer Bears,Harvard Crimson
+McMurry War Hawks,Abilene Christian Wildcats
+Delaware State Hornets,Ball State Cardinals
+Xavier Musketeers,DePaul Blue Demons
+American University Eagles,George Washington Colonials
+Marist Red Foxes,Hartford Hawks
+Dallas Christian Crusaders,Houston Baptist Huskies
+Kentucky Wildcats,Louisville Cardinals
+Northern Illinois Huskies,Michigan State Spartans
+Fayetteville State Broncos,UNC Asheville Bulldogs
+Campbellsville-Harrodsburg Tigers,Nicholls Colonels
+Texas A&M-Corpus Christi Islanders,Oklahoma State Cowboys
+Cal Poly Mustangs,Siena Saints
+Wagner Seahawks,Saint Joseph's Hawks
+St. Bonaventure Bonnies,Syracuse Orange
+Penn Quakers,Toledo Rockets
+Nevada Wolf Pack,Utah Runnin' Utes
+Purdue Northwest Pride,Valparaiso Crusaders
+Gardner-Webb Runnin' Bulldogs,Wake Forest Demon Deacons
+Santa Clara Broncos,Washington State Cougars
+Massachusetts-Lowell River Hawks,Sacred Heart Pioneers
+McKendree Bearcats,Drake Bulldogs
+Champion Baptist College Tigers,Lamar Cardinals
+Norfolk State Spartans,Niagara Purple Eagles
+Maine Black Bears,Rutgers Scarlet Knights
+VMI Keydets,Samford Bulldogs
+Georgia Southern Eagles,Dayton Flyers
+Texas Southern Tigers,Texas A&M Aggies
+Furman Paladins,East Tennessee State Buccaneers
+NJIT Highlanders,Houston Cougars
+Campbell Fighting Camels,Miami (FL) Hurricanes
+Montana Grizzlies,Northern Arizona Lumberjacks
+Hood Blazers,Robert Morris Colonials
+Montana State Bobcats,Southern Utah Thunderbirds
+Richmond Spiders,South Alabama Jaguars
+Coker Cobras,USC Upstate Spartans
+Chattanooga Mocs,UNCG Spartans
+Louisiana Ragin' Cajuns,Southeastern Louisiana Lions
+Howard Payne Yellow Jackets,Texas State Bobcats
+Weber State Wildcats,Eastern Washington Eagles
+Reinhardt Eagles,Jacksonville State Gamecocks
+Brescia Bearcats,Eastern Kentucky Colonels
+Radford Highlanders,Maryland Terrapins
+Dixie State Rebels,Wyoming Cowboys
+Buffalo Bulls,Canisius Golden Griffins
+Charleston Cougars,UNCW Seahawks
+Oregon Ducks,Boise State Broncos
+Utah Valley Wolverines,Fresno State Bulldogs
+Harding Bison,Arkansas State Red Wolves
+Seattle Redhawks,California Golden Bears
+Bryant Bulldogs,Iowa Hawkeyes
+Miles Golden Bears,Jackson State Tigers
+Bethel (TN) Wildcats,Murray State Racers
+Stony Brook Seawolves,UNI Panthers
+Brown Bears,San Diego State Aztecs
+San Jose State Spartans,Saint Mary's Gaels
+Green Bay Phoenix,Milwaukee Panthers
+St. John's Red Storm,Seton Hall Pirates
+Portland Pilots,Cal State Fullerton Titans
+Idaho State Bengals,Idaho Vandals
+Morgan State Bears,CSUN Matadors
+UC Irvine Anteaters,Pacific Tigers
+Grand Canyon Antelopes,San Diego Toreros
+San Francisco Dons,UC Santa Barbara Gauchos
+La Verne Leopards,California Baptist Lancers
+Northern Colorado Bears,Sacramento State Hornets
+Alabama A&M Bulldogs,Hawaii Rainbow Warriors
+New Hampshire Wildcats,Dartmouth Big Green
+Binghamton Bearcats,Michigan Wolverines
+IU-South Bend Titans,Central Michigan Chippewas
+Navy Midshipmen,Cornell Big Red
+Holy Cross Crusaders,Iona Gaels
+Evansville Aces,Miami (OH) RedHawks
+Carnegie Mellon Tartans,Akron Zips
+Presbyterian Blue Hose,Jacksonville Dolphins
+FIU Golden Panthers,Ohio Bobcats
+Rider Broncs,VCU Rams
+Oakland Golden Grizzlies,Youngstown State Penguins
+Wilberforce Bulldogs,North Carolina Central Eagles
+UT Martin Skyhawks,Bowling Green Falcons
+North Alabama Lions,Eastern Illinois Panthers
+Appalachian State Mountaineers,Saint Louis Billikens
+IUPUI Jaguars,Wright State Raiders
+New Mexico State Aggies,Colorado State Rams
+James Madison Dukes,Elon Phoenix
+Drexel Dragons,Hofstra Pride
+UC Riverside Highlanders,Western Michigan Broncos
+Towson Tigers,William & Mary Tribe
+New Mexico Lobos,Southwest Mustangs
+Campbellsville-Harrodsburg Tigers,McNeese State Cowboys
+Delaware Fightin' Blue Hens,Northeastern Huskies
+Champion Baptist College Tigers,Northwestern State Demons
+Lyon Scots,Central Arkansas Bears
+Purdue Fort Wayne Mastodons,North Dakota State Bison
+Piedmont International Bruins,Charleston Southern Buccaneers
+Denver Pioneers,Western Illinois Leathernecks
+Oral Roberts Golden Eagles,Omaha Mavericks
+Massachusetts Minutemen,Georgia Bulldogs
+William Woods Owls,Missouri State Bears
+Missouri Science & Technology Miners,SIUE Cougars
+UIC Flames,Northern Kentucky Norse
+Detroit Titans,Cleveland State Vikings
+LIU Brooklyn Blackbirds,Fordham Rams
+UC Davis Aggies,USC Trojans
+Centenary (NJ) Cyclones,UMBC Retrievers
+Chestnut Hill Griffins,Maryland Eastern Shore Hawks
+Monmouth Hawks,Penn Quakers
+Marshall Thundering Herd,Virginia Cavaliers
+NJIT Highlanders,Duquesne Dukes
+Oberlin College Yeomen,Kent State Golden Flashes
+Montana State Bobcats,Northern Arizona Lumberjacks
+Texas Lutheran Bulldogs,Sam Houston State Bearkats
+Albany Great Danes,Niagara Purple Eagles
+Weber State Wildcats,Idaho Vandals
+Idaho State Bengals,Eastern Washington Eagles
+Northern Colorado Bears,Portland State Vikings
+Alabama A&M Bulldogs,Pepperdine Waves
+Montana Grizzlies,Southern Utah Thunderbirds
+Mars Hill Lions,Radford Highlanders
+CSUN Matadors,San Diego State Aztecs
+Huston-Tillotson Rams,Prairie View A&M Panthers
+Presbyterian Blue Hose,South Carolina State Bulldogs
+New Orleans Privateers,Abilene Christian Wildcats
+Nebraska Cornhuskers,Maryland Terrapins
+Boston University Terriers,American University Eagles
+Bucknell Bison,Army West Point Black Knights
+Maine Black Bears,Brown Bears
+Georgetown Hoyas,Butler Bulldogs
+Allen Yellow Jackets,Campbell Fighting Camels
+Drake Bulldogs,Evansville Aces
+Lafayette Leopards,Lehigh Mountain Hawks
+Harvard Crimson,North Carolina Tar Heels
+Florida National Conquistadors,North Florida Ospreys
+Dartmouth Big Green,Vermont Catamounts
+Kennesaw State Owls,Yale Bulldogs
+Washington College Shoremen,High Point Panthers
+Columbia Lions,Binghamton Bearcats
+USC Upstate Spartans,Georgia Tech Yellow Jackets
+Nicholls Colonels,Northwestern State Demons
+Southeastern Louisiana Lions,Stephen F. Austin Lumberjacks
+UNI Panthers,Bradley Braves
+Lamar Cardinals,Houston Baptist Huskies
+East Carolina Pirates,SMU Mustangs
+Missouri State Bears,Southern Illinois Salukis
+Illinois State Redbirds,Valparaiso Crusaders
+Central Arkansas Bears,Texas A&M-Corpus Christi Islanders
+North Dakota State Bison,Omaha Mavericks
+McNeese State Cowboys,UIW Cardinals
+Northwestern Wildcats,Michigan State Spartans
+DePaul Blue Demons,Villanova Wildcats
+New Mexico Lobos,Air Force Falcons
+South Dakota Coyotes,Denver Pioneers
+Oklahoma Sooners,Kansas Jayhawks
+Indiana State Sycamores,Loyola Chicago Ramblers
+Boise State Broncos,Wyoming Cowboys
+Fresno State Bulldogs,San Jose State Spartans
+Bethesda Flames,UC Santa Barbara Gauchos
+Colorado State Rams,UNLV Runnin' Rebels
+Lincoln (PA) Lions,Morgan State Bears
+Siena Saints,Saint Peter's Peacocks
+LIU Brooklyn Blackbirds,Sacred Heart Pioneers
+Wagner Seahawks,Central Connecticut State Blue Devils
+William & Mary Tribe,Delaware Fightin' Blue Hens
+Wright State Raiders,Detroit Titans
+Elon Phoenix,Drexel Dragons
+Samford Bulldogs,East Tennessee State Buccaneers
+Rider Broncs,Fairfield Stags
+Mercer Bears,Furman Paladins
+Illinois Fighting Illini,Indiana Hoosiers
+Monmouth Hawks,Iona Gaels
+UNCW Seahawks,James Madison Dukes
+Holy Cross Crusaders,Loyola Maryland Greyhounds
+Quinnipiac Bobcats,Manhattan Jaspers
+Canisius Golden Griffins,Marist Red Foxes
+North Carolina State Wolfpack,Miami (FL) Hurricanes
+Penn State Nittany Lions,Michigan Wolverines
+Colgate Raiders,Navy Midshipmen
+Northern Kentucky Norse,Oakland Golden Grizzlies
+Fairleigh Dickinson Knights,Robert Morris Colonials
+Mount St. Mary's Mountaineers,Saint Francis U Red Flash
+Edward Waters Tigers,Stetson Hatters
+Charleston Cougars,Towson Tigers
+Coastal Carolina Chanticleers,Troy Trojans
+Chattanooga Mocs,Western Carolina Catamounts
+Citadel Bulldogs,Wofford Terriers
+St. Francis Brooklyn Terriers,Bryant Bulldogs
+George Mason Patriots,Saint Joseph's Hawks
+South Dakota State Jackrabbits,Purdue Fort Wayne Mastodons
+Utah Valley Wolverines,Grand Canyon Antelopes
+Little Rock Trojans,Louisiana-Monroe Warhawks
+North Dakota Fighting Hawks,Oral Roberts Golden Eagles
+Appalachian State Mountaineers,South Alabama Jaguars
+Arkansas State Red Wolves,Louisiana Ragin' Cajuns
+Georgia Southern Eagles,Texas State Bobcats
+Georgia State Panthers,UT Arlington Mavericks
+Youngstown State Penguins,Green Bay Phoenix
+Cleveland State Vikings,Milwaukee Panthers
+Morehead State Eagles,Murray State Racers
+UT Martin Skyhawks,Eastern Illinois Panthers
+Jacksonville State Gamecocks,Belmont Bruins
+Sacramento State Hornets,Montana Grizzlies
+Portland State Vikings,Montana State Bobcats
+Saint Mary's Gaels,San Francisco Dons
+Northern Arizona Lumberjacks,Weber State Wildcats
+Southern Utah Thunderbirds,Idaho State Bengals
+Eastern Kentucky Colonels,Austin Peay Governors
+Southeast Missouri State Redhawks,SIUE Cougars
+Tennessee Tech Golden Eagles,Tennessee State Tigers
+UT Rio Grande Valley Vaqueros,UC Irvine Anteaters
+Loyola Marymount Lions,Pepperdine Waves
+San Diego Toreros,Santa Clara Broncos
+California Golden Bears,USC Trojans
+New Mexico State Aggies,California Baptist Lancers
+Seattle Redhawks,Bakersfield Roadrunners
+Eastern Washington Eagles,Idaho Vandals
+BYU Cougars,Pacific Tigers
+Johnson & Wales (RI) Wildcats,Cornell Big Red
+IUPUI Jaguars,UIC Flames
+Holy Names Hawks,Cal Poly Mustangs
+Bethesda Flames,UC Riverside Highlanders
+Syracuse Orange,Notre Dame Fighting Irish
+Boston College Eagles,Virginia Tech Hokies
+Lafayette Leopards,Army West Point Black Knights
+Bucknell Bison,Boston University Terriers
+Northern Kentucky Norse,Detroit Titans
+Cincinnati Bearcats,East Carolina Pirates
+Fairfield Stags,Iona Gaels
+La Salle Explorers,Massachusetts Minutemen
+Maine Black Bears,UMBC Retrievers
+UNCG Spartans,VMI Keydets
+Cleveland State Vikings,Green Bay Phoenix
+Stony Brook Seawolves,Massachusetts-Lowell River Hawks
+Western Michigan Broncos,Akron Zips
+Utah Runnin' Utes,Arizona Wildcats
+VCU Rams,Fordham Rams
+Wake Forest Demon Deacons,Georgia Tech Yellow Jackets
+Bradley Braves,Indiana State Sycamores
+Central Michigan Chippewas,Miami (OH) RedHawks
+Saint Peter's Peacocks,Monmouth Hawks
+Winthrop Eagles,UNC Asheville Bulldogs
+Northern Illinois Huskies,Ohio Bobcats
+Villanova Wildcats,Providence Friars
+Maryland Terrapins,Rutgers Scarlet Knights
+Valparaiso Crusaders,Missouri State Bears
+UNCW Seahawks,Towson Tigers
+Samford Bulldogs,Western Carolina Catamounts
+New Hampshire Wildcats,Binghamton Bearcats
+North Dakota Fighting Hawks,Denver Pioneers
+Loyola Chicago Ramblers,Drake Bulldogs
+Chicago State Cougars,UMKC Kangaroos
+Arkansas State Red Wolves,Louisiana-Monroe Warhawks
+Houston Baptist Huskies,New Orleans Privateers
+Wright State Raiders,Oakland Golden Grizzlies
+Georgia Southern Eagles,UT Arlington Mavericks
+Appalachian State Mountaineers,Troy Trojans
+Georgia Bulldogs,Tennessee Volunteers
+Central Connecticut State Blue Devils,Sacred Heart Pioneers
+William & Mary Tribe,Drexel Dragons
+Chattanooga Mocs,East Tennessee State Buccaneers
+Citadel Bulldogs,Furman Paladins
+Northeastern Huskies,Hofstra Pride
+Florida A&M Rattlers,Howard Bison
+Evansville Aces,Illinois State Redbirds
+Charleston Cougars,James Madison Dukes
+Sacramento State Hornets,Montana State Bobcats
+USC Upstate Spartans,Presbyterian Blue Hose
+Coastal Carolina Chanticleers,South Alabama Jaguars
+Baylor Bears,TCU Horned Frogs
+California Golden Bears,UCLA Bruins
+St. Francis Brooklyn Terriers,Wagner Seahawks
+Kennesaw State Owls,NJIT Highlanders
+LIU Brooklyn Blackbirds,Bryant Bulldogs
+Bethune-Cookman Wildcats,North Carolina Central Eagles
+Gardner-Webb Runnin' Bulldogs,Campbell Fighting Camels
+SIUE Cougars,Eastern Illinois Panthers
+McNeese State Cowboys,Northwestern State Demons
+Longwood Lancers,Radford Highlanders
+North Carolina A&T Aggies,South Carolina State Bulldogs
+Maryland Eastern Shore Hawks,Morgan State Bears
+Savannah State Tigers,Coppin State Eagles
+Morehead State Eagles,Austin Peay Governors
+North Alabama Lions,North Florida Ospreys
+Penn Quakers,Princeton Tigers
+Mount St. Mary's Mountaineers,Robert Morris Colonials
+Central Arkansas Bears,Southeastern Louisiana Lions
+Georgia State Panthers,Texas State Bobcats
+Youngstown State Penguins,Milwaukee Panthers
+High Point Panthers,Charleston Southern Buccaneers
+Texas A&M-Corpus Christi Islanders,Lamar Cardinals
+UT Martin Skyhawks,Southeast Missouri State Redhawks
+Colorado Buffaloes,Arizona State Sun Devils
+Tennessee Tech Golden Eagles,Belmont Bruins
+Duquesne Dukes,Davidson Wildcats
+Lipscomb Bisons,Jacksonville Dolphins
+Portland Pilots,Loyola Marymount Lions
+Florida Atlantic Owls,Middle Tennessee Blue Raiders
+Idaho Vandals,Northern Colorado Bears
+Jacksonville State Gamecocks,Tennessee State Tigers
+Grambling State Tigers,Alabama State Hornets
+Texas Southern Tigers,Alcorn State Braves
+Prairie View A&M Panthers,Southern University Jaguars
+Abilene Christian Wildcats,Sam Houston State Bearkats
+Delaware State Hornets,Norfolk State Spartans
+Elon Phoenix,Delaware Fightin' Blue Hens
+Bowling Green Falcons,Kent State Golden Flashes
+Niagara Purple Eagles,Manhattan Jaspers
+Western Kentucky Hilltoppers,Old Dominion Monarchs
+Quinnipiac Bobcats,Rider Broncs
+Canisius Golden Griffins,Siena Saints
+Fairleigh Dickinson Knights,Saint Francis U Red Flash
+Mercer Bears,Wofford Terriers
+Jackson State Tigers,Alabama A&M Bulldogs
+Vermont Catamounts,Albany Great Danes
+Liberty Flames,FGCU Eagles
+FIU Golden Panthers,UAB Blazers
+Holy Names Hawks,UC Davis Aggies
+Seattle Redhawks,Grand Canyon Antelopes
+Eastern Kentucky Colonels,Murray State Racers
+Nevada Wolf Pack,New Mexico Lobos
+Southern Illinois Salukis,UNI Panthers
+Western Illinois Leathernecks,Oral Roberts Golden Eagles
+San Francisco Dons,Pepperdine Waves
+Little Rock Trojans,Louisiana Ragin' Cajuns
+Nicholls Colonels,UIW Cardinals
+Mississippi Valley State Delta Devils,UAPB Golden Lions
+Ole Miss Rebels,Vanderbilt Commodores
+Portland State Vikings,Montana Grizzlies
+Air Force Falcons,Utah State Aggies
+Southern Utah Thunderbirds,Weber State Wildcats
+Northern Arizona Lumberjacks,Idaho State Bengals
+San Diego State Aztecs,Boise State Broncos
+Colorado State Rams,Fresno State Bulldogs
+Bethesda Flames,Long Beach State 49ers
+Wyoming Cowboys,UNLV Runnin' Rebels
+Yale Bulldogs,CSUN Matadors
+UT Rio Grande Valley Vaqueros,California Baptist Lancers
+Utah Valley Wolverines,Bakersfield Roadrunners
+Pacific Tigers,San Diego Toreros
+BYU Cougars,Saint Mary's Gaels
+Richmond Spiders,Dayton Flyers
+Xavier Musketeers,Marquette Golden Eagles
+Seton Hall Pirates,DePaul Blue Demons
+Holy Cross Crusaders,Navy Midshipmen
+Illinois Fighting Illini,Northwestern Wildcats
+American University Eagles,Colgate Raiders
+McGill Redmen,Harvard Crimson
+Loyola Maryland Greyhounds,Lehigh Mountain Hawks
+George Washington Colonials,Saint Joseph's Hawks
+Dickinson State Blue Hawks,North Dakota State Bison
+St. Bonaventure Bonnies,George Mason Patriots
+Rhode Island Rams,Saint Louis Billikens
+Indiana Hoosiers,Michigan Wolverines
+South Dakota State Jackrabbits,South Dakota Coyotes
+Nebraska Cornhuskers,Iowa Hawkeyes
+Memphis Tigers,Houston Cougars
+Stanford Cardinal,USC Trojans
+Niagara Purple Eagles,Fairfield Stags
+Coppin State Eagles,Delaware State Hornets
+Howard Bison,Maryland Eastern Shore Hawks
+Savannah State Tigers,Morgan State Bears
+Florida A&M Rattlers,Norfolk State Spartans
+Jackson State Tigers,Alabama State Hornets
+Prairie View A&M Panthers,Alcorn State Braves
+Texas Southern Tigers,Southern University Jaguars
+Grambling State Tigers,Alabama A&M Bulldogs
+Eastern Washington Eagles,Northern Colorado Bears
+Eastern Michigan Eagles,Ball State Cardinals
+Ohio Bobcats,Bowling Green Falcons
+Brown Bears,Canisius Golden Griffins
+Akron Zips,Central Michigan Chippewas
+Missouri State Bears,Indiana State Sycamores
+Western Michigan Broncos,Kent State Golden Flashes
+Texas A&M Aggies,Kentucky Wildcats
+Manhattan Jaspers,Marist Red Foxes
+Northern Illinois Huskies,Miami (OH) RedHawks
+Maryland Terrapins,Minnesota Golden Gophers
+Tennessee Volunteers,Missouri Tigers
+St. John's Red Storm,Villanova Wildcats
+Skidmore Thoroughbreds,Yale Bulldogs
+Mid-Atlantic Christian Mustangs,North Carolina A&T Aggies
+Southern Illinois Salukis,Drake Bulldogs
+Loyola Chicago Ramblers,Evansville Aces
+UNI Panthers,Illinois State Redbirds
+Bradley Braves,Valparaiso Crusaders
+Air Force Falcons,Colorado State Rams
+FGCU Eagles,North Alabama Lions
+Wyoming Cowboys,San Diego State Aztecs
+UNLV Runnin' Rebels,New Mexico Lobos
+Vanderbilt Commodores,Georgia Bulldogs
+Georgetown Hoyas,Xavier Musketeers
+Navy Midshipmen,American University Eagles
+Army West Point Black Knights,Boston University Terriers
+Colgate Raiders,Bucknell Bison
+Dayton Flyers,George Washington Colonials
+Davidson Wildcats,George Mason Patriots
+Virginia Tech Hokies,Georgia Tech Yellow Jackets
+UMBC Retrievers,Hartford Hawks
+West Virginia Mountaineers,Kansas State Wildcats
+Loyola Maryland Greyhounds,Lafayette Leopards
+Vermont Catamounts,Maine Black Bears
+Massachusetts-Lowell River Hawks,New Hampshire Wildcats
+Rhode Island Rams,Richmond Spiders
+Ohio State Buckeyes,Rutgers Scarlet Knights
+Tulane Green Wave,South Florida Bulls
+Saint Joseph's Hawks,St. Bonaventure Bonnies
+Liberty Flames,Stetson Hatters
+Binghamton Bearcats,Stony Brook Seawolves
+Cornell Big Red,Towson Tigers
+La Salle Explorers,VCU Rams
+Jacksonville Dolphins,Kennesaw State Owls
+Lehigh Mountain Hawks,Holy Cross Crusaders
+Abilene Christian Wildcats,McNeese State Cowboys
+Texas A&M-Corpus Christi Islanders,Northwestern State Demons
+North Florida Ospreys,Lipscomb Bisons
+Fordham Rams,Duquesne Dukes
+New Orleans Privateers,Lamar Cardinals
+Stephen F. Austin Lumberjacks,Nicholls Colonels
+Louisville Cardinals,Pittsburgh Panthers
+Sam Houston State Bearkats,Central Arkansas Bears
+Florida Gators,Arkansas Razorbacks
+Butler Bulldogs,Seton Hall Pirates
+Arizona State Sun Devils,California Golden Bears
+Miami (FL) Hurricanes,Florida State Seminoles
+TCU Horned Frogs,Kansas Jayhawks
+Massachusetts Minutemen,Saint Louis Billikens
+Fresno State Bulldogs,Utah State Aggies
+Cal Poly Mustangs,UC Santa Barbara Gauchos
+CSUN Matadors,UC Riverside Highlanders
+Arizona Wildcats,Stanford Cardinal
+Cal State Fullerton Titans,Hawaii Rainbow Warriors
+UT Arlington Mavericks,Appalachian State Mountaineers
+Winthrop Eagles,Campbell Fighting Camels
+Drexel Dragons,Charleston Cougars
+Texas State Bobcats,Coastal Carolina Chanticleers
+East Tennessee State Buccaneers,Citadel Bulldogs
+Green Bay Phoenix,Detroit Titans
+Northeastern Huskies,Elon Phoenix
+Central Connecticut State Blue Devils,Fairleigh Dickinson Knights
+Saint Peter's Peacocks,Fairfield Stags
+Charlotte 49ers,FIU Golden Panthers
+Louisiana-Monroe Warhawks,Georgia Southern Eagles
+Louisiana Ragin' Cajuns,Georgia State Panthers
+Saint Francis U Red Flash,LIU Brooklyn Blackbirds
+Western Carolina Catamounts,Mercer Bears
+California Baptist Lancers,UMKC Kangaroos
+Bryant Bulldogs,Mount St. Mary's Mountaineers
+Wofford Terriers,UNCG Spartans
+Delaware Fightin' Blue Hens,UNCW Seahawks
+Milwaukee Panthers,Oakland Golden Grizzlies
+Furman Paladins,VMI Keydets
+Sacred Heart Pioneers,Wagner Seahawks
+Hofstra Pride,William & Mary Tribe
+Oral Roberts Golden Eagles,Purdue Fort Wayne Mastodons
+Cleveland State Vikings,IUPUI Jaguars
+Presbyterian Blue Hose,High Point Panthers
+Monmouth Hawks,Quinnipiac Bobcats
+Radford Highlanders,USC Upstate Spartans
+UNC Asheville Bulldogs,Longwood Lancers
+Charleston Southern Buccaneers,Hampton Pirates
+Troy Trojans,Little Rock Trojans
+Morehead State Eagles,Belmont Bruins
+UAB Blazers,Louisiana Tech Bulldogs
+South Alabama Jaguars,Arkansas State Red Wolves
+Michigan Wolverines,Illinois Fighting Illini
+Youngstown State Penguins,UIC Flames
+Middle Tennessee Blue Raiders,Southern Miss Golden Eagles
+Bakersfield Roadrunners,UT Rio Grande Valley Vaqueros
+Omaha Mavericks,North Dakota Fighting Hawks
+Western Illinois Leathernecks,North Dakota State Bison
+Denver Pioneers,South Dakota State Jackrabbits
+Murray State Racers,UT Martin Skyhawks
+Eastern Illinois Panthers,Jacksonville State Gamecocks
+Austin Peay Governors,Southeast Missouri State Redhawks
+Eastern Kentucky Colonels,Tennessee State Tigers
+SIUE Cougars,Tennessee Tech Golden Eagles
+Portland Pilots,BYU Cougars
+Washington State Cougars,Colorado Buffaloes
+Grand Canyon Antelopes,New Mexico State Aggies
+Robert Morris Colonials,St. Francis Brooklyn Terriers
+North Texas Mean Green,UTEP Miners
+Montana Grizzlies,Eastern Washington Eagles
+UC Davis Aggies,UC Irvine Anteaters
+Montana State Bobcats,Idaho Vandals
+Pacific Tigers,Gonzaga Bulldogs
+USC Trojans,Oregon State Beavers
+Pepperdine Waves,Santa Clara Broncos
+Rider Broncs,Canisius Golden Griffins
+Siena Saints,Marist Red Foxes
+Indiana Hoosiers,Maryland Terrapins
+Iona Gaels,Niagara Purple Eagles
+Wright State Raiders,Northern Kentucky Norse
+Purdue Boilermakers,Wisconsin Badgers
+Ohio Bobcats,Ball State Cardinals
+American University Eagles,Bucknell Bison
+Kent State Golden Flashes,Eastern Michigan Eagles
+Louisville Cardinals,North Carolina Tar Heels
+Boston College Eagles,Notre Dame Fighting Irish
+Western Carolina Catamounts,Citadel Bulldogs
+Milwaukee Panthers,Detroit Titans
+Louisiana-Monroe Warhawks,Georgia State Panthers
+Missouri Tigers,South Carolina Gamecocks
+Wofford Terriers,VMI Keydets
+Youngstown State Penguins,IUPUI Jaguars
+Texas State Bobcats,Appalachian State Mountaineers
+UT Arlington Mavericks,Coastal Carolina Chanticleers
+Elmira Soaring Eagles,Columbia Lions
+VCU Rams,Davidson Wildcats
+Indiana State Sycamores,Evansville Aces
+Jacksonville Dolphins,Liberty Flames
+Illinois State Redbirds,Loyola Chicago Ramblers
+Army West Point Black Knights,Loyola Maryland Greyhounds
+Seton Hall Pirates,Marquette Golden Eagles
+Wake Forest Demon Deacons,Miami (FL) Hurricanes
+Manhattan Jaspers,Monmouth Hawks
+Boston University Terriers,Navy Midshipmen
+Drexel Dragons,UNCW Seahawks
+Princeton Tigers,Penn Quakers
+Toledo Rockets,Western Michigan Broncos
+High Point Panthers,Winthrop Eagles
+Bryant Bulldogs,Sacred Heart Pioneers
+Ohio State Buckeyes,Iowa Hawkeyes
+Green Bay Phoenix,Oakland Golden Grizzlies
+Boise State Broncos,San Jose State Spartans
+Maine Black Bears,Albany Great Danes
+Charleston Southern Buccaneers,Longwood Lancers
+Western Illinois Leathernecks,North Dakota Fighting Hawks
+California Baptist Lancers,Chicago State Cougars
+Lafayette Leopards,Holy Cross Crusaders
+Texas A&M Aggies,Alabama Crimson Tide
+San Diego State Aztecs,Air Force Falcons
+South Alabama Jaguars,Little Rock Trojans
+Delaware Fightin' Blue Hens,Charleston Cougars
+Lehigh Mountain Hawks,Colgate Raiders
+New Mexico Lobos,Colorado State Rams
+Saint Joseph's Hawks,Duquesne Dukes
+Savannah State Tigers,Florida A&M Rattlers
+Charlotte 49ers,Florida Atlantic Owls
+Richmond Spiders,George Washington Colonials
+Bethune-Cookman Wildcats,Howard Bison
+Towson Tigers,James Madison Dukes
+Central Connecticut State Blue Devils,Mount St. Mary's Mountaineers
+Montana Grizzlies,Northern Colorado Bears
+Pepperdine Waves,San Diego Toreros
+Northern Arizona Lumberjacks,Southern Utah Thunderbirds
+Valparaiso Crusaders,Southern Illinois Salukis
+Saint Francis U Red Flash,St. Francis Brooklyn Terriers
+Fairleigh Dickinson Knights,Wagner Seahawks
+Northeastern Huskies,William & Mary Tribe
+UNC Asheville Bulldogs,Hampton Pirates
+Lamar Cardinals,Central Arkansas Bears
+North Carolina Central Eagles,Maryland Eastern Shore Hawks
+Cleveland State Vikings,UIC Flames
+North Carolina A&T Aggies,Delaware State Hornets
+Bowling Green Falcons,Central Michigan Chippewas
+Norfolk State Spartans,Coppin State Eagles
+Robert Morris Colonials,LIU Brooklyn Blackbirds
+South Carolina State Bulldogs,Morgan State Bears
+Houston Baptist Huskies,Nicholls Colonels
+Presbyterian Blue Hose,Radford Highlanders
+Fordham Rams,St. Bonaventure Bonnies
+Austin Peay Governors,UT Martin Skyhawks
+Samford Bulldogs,Chattanooga Mocs
+NJIT Highlanders,North Alabama Lions
+East Tennessee State Buccaneers,Mercer Bears
+Akron Zips,Northern Illinois Huskies
+Troy Trojans,Arkansas State Red Wolves
+Louisiana Ragin' Cajuns,Georgia Southern Eagles
+SIUE Cougars,Jacksonville State Gamecocks
+Furman Paladins,UNCG Spartans
+FGCU Eagles,North Florida Ospreys
+Abilene Christian Wildcats,Southeastern Louisiana Lions
+USC Upstate Spartans,Gardner-Webb Runnin' Bulldogs
+Stetson Hatters,Lipscomb Bisons
+McNeese State Cowboys,New Orleans Privateers
+Oral Roberts Golden Eagles,South Dakota State Jackrabbits
+Alabama A&M Bulldogs,Mississippi Valley State Delta Devils
+Murray State Racers,Southeast Missouri State Redhawks
+Northwestern State Demons,Stephen F. Austin Lumberjacks
+UMBC Retrievers,Massachusetts-Lowell River Hawks
+LSU Tigers,Arkansas Razorbacks
+Eastern Kentucky Colonels,Belmont Bruins
+Southern University Jaguars,Grambling State Tigers
+Saint Louis Billikens,La Salle Explorers
+Bakersfield Roadrunners,New Mexico State Aggies
+Texas Southern Tigers,Prairie View A&M Panthers
+Arizona State Sun Devils,Stanford Cardinal
+Georgia Tech Yellow Jackets,Syracuse Orange
+Utah State Aggies,Wyoming Cowboys
+Alcorn State Braves,Jackson State Tigers
+UIW Cardinals,Sam Houston State Bearkats
+Harvard Crimson,Dartmouth Big Green
+Hofstra Pride,Elon Phoenix
+UC Davis Aggies,Long Beach State 49ers
+Western Kentucky Hilltoppers,Marshall Thundering Herd
+New Hampshire Wildcats,Stony Brook Seawolves
+Hartford Hawks,Vermont Catamounts
+Missouri State Bears,Bradley Braves
+Connecticut Huskies,Cincinnati Bearcats
+Wichita State Shockers,Houston Cougars
+Grand Canyon Antelopes,UT Rio Grande Valley Vaqueros
+Washington State Cougars,Utah Runnin' Utes
+Alabama State Hornets,UAPB Golden Lions
+Vanderbilt Commodores,Kentucky Wildcats
+Morehead State Eagles,Tennessee State Tigers
+Eastern Illinois Panthers,Tennessee Tech Golden Eagles
+Santa Clara Broncos,BYU Cougars
+UC Irvine Anteaters,Cal State Fullerton Titans
+Seattle Redhawks,Utah Valley Wolverines
+CSUN Matadors,Cal Poly Mustangs
+Washington Huskies,Colorado Buffaloes
+Saint Mary's Gaels,Loyola Marymount Lions
+Pacific Tigers,Portland Pilots
+UC Riverside Highlanders,UC Santa Barbara Gauchos
+Idaho State Bengals,Sacramento State Hornets
+Weber State Wildcats,Portland State Vikings
+Marist Red Foxes,Saint Peter's Peacocks
+Iona Gaels,Canisius Golden Griffins
+Rider Broncs,Niagara Purple Eagles
+Fairfield Stags,Quinnipiac Bobcats
+Purdue Fort Wayne Mastodons,South Dakota Coyotes
+Massachusetts Minutemen,Dayton Flyers
+East Carolina Pirates,UCF Knights
+Drake Bulldogs,UNI Panthers
+George Mason Patriots,Rhode Island Rams
+Memphis Tigers,Tulane Green Wave
+Northwestern Wildcats,Michigan Wolverines
+Johnson & Wales (RI) Wildcats,Brown Bears
+Holy Cross Crusaders,Bucknell Bison
+Monmouth Hawks,Siena Saints
+Morgan State Bears,Howard Bison
+South Carolina State Bulldogs,Coppin State Eagles
+North Carolina A&T Aggies,Maryland Eastern Shore Hawks
+Bethune-Cookman Wildcats,Norfolk State Spartans
+North Carolina Central Eagles,Delaware State Hornets
+Alabama A&M Bulldogs,UAPB Golden Lions
+Alcorn State Braves,Grambling State Tigers
+Southern University Jaguars,Jackson State Tigers
+Alabama State Hornets,Mississippi Valley State Delta Devils
+Northern Colorado Bears,Montana State Bobcats
+Baylor Bears,Oklahoma State Cowboys
+Seton Hall Pirates,Providence Friars
+Eastern Michigan Eagles,Akron Zips
+Ball State Cardinals,Bowling Green Falcons
+South Florida Bulls,Cincinnati Bearcats
+Saint Louis Billikens,Fordham Rams
+Kentucky Wildcats,Georgia Bulldogs
+Southern Illinois Salukis,Illinois State Redbirds
+Kent State Golden Flashes,Ohio Bobcats
+Rutgers Scarlet Knights,Purdue Boilermakers
+Miami (OH) RedHawks,Toledo Rockets
+Morgan State Bears,Howard Bison
+Valparaiso Crusaders,Loyola Chicago Ramblers
+Central Michigan Chippewas,Northern Illinois Huskies
+Marquette Golden Eagles,Georgetown Hoyas
+Nevada Wolf Pack,Boise State Broncos
+LSU Tigers,Ole Miss Rebels
+Davidson Wildcats,Saint Joseph's Hawks
+New Mexico Lobos,San Diego State Aztecs
+St. Bonaventure Bonnies,Rhode Island Rams
+Colgate Raiders,Army West Point Black Knights
+North Alabama Lions,Jacksonville Dolphins
+Navy Midshipmen,Lafayette Leopards
+American University Eagles,Lehigh Mountain Hawks
+Boston University Terriers,Loyola Maryland Greyhounds
+Hartford Hawks,Maine Black Bears
+George Mason Patriots,Massachusetts Minutemen
+Binghamton Bearcats,UMBC Retrievers
+Campbell Fighting Camels,UNC Asheville Bulldogs
+Vermont Catamounts,New Hampshire Wildcats
+Iowa Hawkeyes,Penn State Nittany Lions
+Hampton Pirates,Presbyterian Blue Hose
+Duquesne Dukes,Richmond Spiders
+North Florida Ospreys,Stetson Hatters
+Auburn Tigers,Texas A&M Aggies
+Longwood Lancers,Winthrop Eagles
+USC Upstate Spartans,High Point Panthers
+Lipscomb Bisons,NJIT Highlanders
+Liberty Flames,Kennesaw State Owls
+Albany Great Danes,Massachusetts-Lowell River Hawks
+Nicholls Colonels,McNeese State Cowboys
+Texas A&M-Corpus Christi Islanders,Sam Houston State Bearkats
+Houston Baptist Huskies,Abilene Christian Wildcats
+Drake Bulldogs,Bradley Braves
+George Washington Colonials,La Salle Explorers
+Stephen F. Austin Lumberjacks,New Orleans Privateers
+Indiana State Sycamores,UNI Panthers
+Lamar Cardinals,Southeastern Louisiana Lions
+Evansville Aces,Missouri State Bears
+Dayton Flyers,VCU Rams
+South Dakota State Jackrabbits,North Dakota Fighting Hawks
+Central Arkansas Bears,UIW Cardinals
+Butler Bulldogs,DePaul Blue Demons
+North Dakota State Bison,Denver Pioneers
+Long Beach State 49ers,UC Irvine Anteaters
+Utah State Aggies,San Jose State Spartans
+UCF Knights,Wichita State Shockers
+UNLV Runnin' Rebels,Air Force Falcons
+Northern Kentucky Norse,Cleveland State Vikings
+James Madison Dukes,Delaware Fightin' Blue Hens
+Towson Tigers,Drexel Dragons
+VMI Keydets,East Tennessee State Buccaneers
+UNCW Seahawks,Hofstra Pride
+Florida Atlantic Owls,Marshall Thundering Herd
+Fairfield Stags,Monmouth Hawks
+Southern Miss Golden Eagles,Charlotte 49ers
+Charleston Cougars,Northeastern Huskies
+Louisiana Tech Bulldogs,Old Dominion Monarchs
+Niagara Purple Eagles,Siena Saints
+Manhattan Jaspers,Saint Peter's Peacocks
+Tennessee State Tigers,Tennessee Tech Golden Eagles
+Georgia Southern Eagles,Troy Trojans
+Wright State Raiders,Youngstown State Penguins
+Canisius Golden Griffins,Quinnipiac Bobcats
+UT Martin Skyhawks,Eastern Kentucky Colonels
+UTSA Roadrunners,Middle Tennessee Blue Raiders
+Citadel Bulldogs,Samford Bulldogs
+UNCG Spartans,Western Carolina Catamounts
+Southeast Missouri State Redhawks,Morehead State Eagles
+Murray State Racers,Eastern Illinois Panthers
+South Dakota Coyotes,Oral Roberts Golden Eagles
+Georgia State Panthers,South Alabama Jaguars
+Little Rock Trojans,Texas State Bobcats
+Mercer Bears,Chattanooga Mocs
+Arkansas State Red Wolves,UT Arlington Mavericks
+Omaha Mavericks,Western Illinois Leathernecks
+FIU Golden Panthers,Western Kentucky Hilltoppers
+IUPUI Jaguars,Green Bay Phoenix
+UIC Flames,Milwaukee Panthers
+Belmont Bruins,Jacksonville State Gamecocks
+Sacramento State Hornets,Northern Arizona Lumberjacks
+Portland State Vikings,Southern Utah Thunderbirds
+Austin Peay Governors,SIUE Cougars
+Chicago State Cougars,Grand Canyon Antelopes
+San Francisco Dons,Pacific Tigers
+Gardner-Webb Runnin' Bulldogs,Radford Highlanders
+Idaho State Bengals,Weber State Wildcats
+UT Rio Grande Valley Vaqueros,Utah Valley Wolverines
+Oregon State Beavers,Arizona State Sun Devils
+UC Santa Barbara Gauchos,UC Davis Aggies
+UC Riverside Highlanders,Cal State Fullerton Titans
+Hawaii Rainbow Warriors,CSUN Matadors
+San Diego Toreros,Portland Pilots
+New Mexico State Aggies,Seattle Redhawks
+UMKC Kangaroos,Bakersfield Roadrunners
+BYU Cougars,Pepperdine Waves
+Santa Clara Broncos,Saint Mary's Gaels
+Marist Red Foxes,Iona Gaels
+Northwestern Wildcats,Rutgers Scarlet Knights
+Saint Joseph's Hawks,Saint Louis Billikens
+Ohio Bobcats,Toledo Rockets
+Bucknell Bison,Lehigh Mountain Hawks
+UNCW Seahawks,Northeastern Huskies
+Loyola Maryland Greyhounds,Holy Cross Crusaders
+Richmond Spiders,Davidson Wildcats
+Colgate Raiders,Boston University Terriers
+Wright State Raiders,Cleveland State Vikings
+Canisius Golden Griffins,Fairfield Stags
+Stony Brook Seawolves,Maine Black Bears
+Albany Great Danes,UMBC Retrievers
+Binghamton Bearcats,Vermont Catamounts
+Western Carolina Catamounts,VMI Keydets
+UIC Flames,Green Bay Phoenix
+Northern Kentucky Norse,Youngstown State Penguins
+Columbia Lions,Cornell Big Red
+Lafayette Leopards,American University Eagles
+Appalachian State Mountaineers,Coastal Carolina Chanticleers
+Oakland Golden Grizzlies,Detroit Titans
+James Madison Dukes,Drexel Dragons
+Illinois State Redbirds,Evansville Aces
+Massachusetts-Lowell River Hawks,Hartford Hawks
+Loyola Chicago Ramblers,Indiana State Sycamores
+Niagara Purple Eagles,Quinnipiac Bobcats
+Navy Midshipmen,Army West Point Black Knights
+Western Michigan Broncos,Bowling Green Falcons
+Northern Illinois Huskies,Kent State Golden Flashes
+Rhode Island Rams,La Salle Explorers
+Southeastern Louisiana Lions,McNeese State Cowboys
+Louisiana Ragin' Cajuns,Louisiana-Monroe Warhawks
+Mercer Bears,Samford Bulldogs
+Sacramento State Hornets,Southern Utah Thunderbirds
+Little Rock Trojans,UT Arlington Mavericks
+Georgia State Panthers,Troy Trojans
+North Dakota Fighting Hawks,North Dakota State Bison
+Yale Bulldogs,Brown Bears
+Saint Francis U Red Flash,Central Connecticut State Blue Devils
+Akron Zips,Miami (OH) RedHawks
+UNCG Spartans,East Tennessee State Buccaneers
+Charleston Cougars,Hofstra Pride
+TCU Horned Frogs,Kansas State Wildcats
+Pepperdine Waves,Loyola Marymount Lions
+Portland State Vikings,Northern Arizona Lumberjacks
+Longwood Lancers,Presbyterian Blue Hose
+Georgia Southern Eagles,South Alabama Jaguars
+Sacred Heart Pioneers,St. Francis Brooklyn Terriers
+UNI Panthers,Valparaiso Crusaders
+Mount St. Mary's Mountaineers,Wagner Seahawks
+Elon Phoenix,William & Mary Tribe
+Jacksonville Dolphins,NJIT Highlanders
+Robert Morris Colonials,Bryant Bulldogs
+Morgan State Bears,North Carolina A&T Aggies
+Stephen F. Austin Lumberjacks,UIW Cardinals
+Austin Peay Governors,Eastern Illinois Panthers
+Maryland Eastern Shore Hawks,Florida A&M Rattlers
+St. John's Red Storm,Butler Bulldogs
+Ball State Cardinals,Central Michigan Chippewas
+Fairleigh Dickinson Knights,LIU Brooklyn Blackbirds
+Dayton Flyers,St. Bonaventure Bonnies
+Citadel Bulldogs,Chattanooga Mocs
+Winthrop Eagles,USC Upstate Spartans
+Stetson Hatters,North Alabama Lions
+FGCU Eagles,Kennesaw State Owls
+Delaware State Hornets,Bethune-Cookman Wildcats
+Coppin State Eagles,North Carolina Central Eagles
+Radford Highlanders,UNC Asheville Bulldogs
+Arkansas State Red Wolves,Texas State Bobcats
+California Golden Bears,Washington Huskies
+Montana State Bobcats,Eastern Washington Eagles
+Howard Bison,South Carolina State Bulldogs
+Fresno State Bulldogs,Boise State Broncos
+Campbell Fighting Camels,Charleston Southern Buccaneers
+Nicholls Colonels,Central Arkansas Bears
+Wyoming Cowboys,New Mexico Lobos
+UC Irvine Anteaters,CSUN Matadors
+Jackson State Tigers,Prairie View A&M Panthers
+Alabama State Hornets,Alabama A&M Bulldogs
+New Orleans Privateers,Texas A&M-Corpus Christi Islanders
+Norfolk State Spartans,Savannah State Tigers
+Mississippi Valley State Delta Devils,Alcorn State Braves
+Massachusetts Minutemen,VCU Rams
+UT Martin Skyhawks,Morehead State Eagles
+Tennessee State Tigers,Belmont Bruins
+UAPB Golden Lions,Southern University Jaguars
+Northwestern State Demons,Abilene Christian Wildcats
+Towson Tigers,Delaware Fightin' Blue Hens
+Southeast Missouri State Redhawks,Eastern Kentucky Colonels
+Fordham Rams,George Mason Patriots
+North Florida Ospreys,Liberty Flames
+Manhattan Jaspers,Rider Broncs
+IUPUI Jaguars,Milwaukee Panthers
+Furman Paladins,Wofford Terriers
+Hampton Pirates,Gardner-Webb Runnin' Bulldogs
+San Jose State Spartans,UNLV Runnin' Rebels
+Cal Poly Mustangs,UC Davis Aggies
+Sam Houston State Bearkats,Houston Baptist Huskies
+Purdue Fort Wayne Mastodons,Western Illinois Leathernecks
+Murray State Racers,SIUE Cougars
+Hawaii Rainbow Warriors,UC Riverside Highlanders
+Tennessee Tech Golden Eagles,Jacksonville State Gamecocks
+UMKC Kangaroos,Grand Canyon Antelopes
+San Diego Toreros,Saint Mary's Gaels
+Colorado State Rams,Utah State Aggies
+Northern Colorado Bears,Weber State Wildcats
+New Mexico State Aggies,Utah Valley Wolverines
+Grambling State Tigers,Texas Southern Tigers
+Montana Grizzlies,Idaho Vandals
+Cal State Fullerton Titans,Long Beach State 49ers
+Santa Clara Broncos,Pacific Tigers
+UT Rio Grande Valley Vaqueros,Seattle Redhawks
+Chicago State Cougars,Bakersfield Roadrunners
+BYU Cougars,San Francisco Dons
+Iona Gaels,Monmouth Hawks
+Missouri State Bears,Drake Bulldogs
+Duquesne Dukes,George Washington Colonials
+Bradley Braves,Southern Illinois Salukis
+Oral Roberts Golden Eagles,Denver Pioneers
+South Dakota Coyotes,Omaha Mavericks
+Harvard Crimson,Howard Bison
+Mount St. Mary's Mountaineers,Fairleigh Dickinson Knights
+UNC Asheville Bulldogs,Winthrop Eagles
+St. Francis Brooklyn Terriers,LIU Brooklyn Blackbirds
+Robert Morris Colonials,Central Connecticut State Blue Devils
+Wagner Seahawks,Sacred Heart Pioneers
+Presbyterian Blue Hose,USC Upstate Spartans
+Maryland Eastern Shore Hawks,Bethune-Cookman Wildcats
+Morgan State Bears,North Carolina Central Eagles
+Delaware State Hornets,Florida A&M Rattlers
+Saint Francis U Red Flash,Bryant Bulldogs
+American University Eagles,Boston University Terriers
+North Alabama Lions,Liberty Flames
+Marist Red Foxes,Manhattan Jaspers
+NJIT Highlanders,North Florida Ospreys
+Grambling State Tigers,Prairie View A&M Panthers
+Jackson State Tigers,Texas Southern Tigers
+Radford Highlanders,Longwood Lancers
+Stetson Hatters,FGCU Eagles
+Kennesaw State Owls,Lipscomb Bisons
+Coppin State Eagles,North Carolina A&T Aggies
+Norfolk State Spartans,South Carolina State Bulldogs
+UAPB Golden Lions,Alcorn State Braves
+Mississippi Valley State Delta Devils,Southern University Jaguars
+Northern Colorado Bears,Idaho State Bengals
+Central Michigan Chippewas,Akron Zips
+Miami (OH) RedHawks,Ball State Cardinals
+Bowling Green Falcons,Eastern Michigan Eagles
+Toledo Rockets,Kent State Golden Flashes
+Western Michigan Broncos,Ohio Bobcats
+Saint Peter's Peacocks,Niagara Purple Eagles
+Boise State Broncos,Air Force Falcons
+New Mexico Lobos,UNLV Runnin' Rebels
+San Diego State Aztecs,Fresno State Bulldogs
+American University Eagles,Boston University Terriers
+Holy Cross Crusaders,Army West Point Black Knights
+Illinois State Redbirds,Bradley Braves
+Loyola Maryland Greyhounds,Bucknell Bison
+Lafayette Leopards,Colgate Raiders
+George Washington Colonials,Davidson Wildcats
+George Mason Patriots,Dayton Flyers
+La Salle Explorers,Fordham Rams
+New Hampshire Wildcats,Hartford Hawks
+Valparaiso Crusaders,Indiana State Sycamores
+St. Bonaventure Bonnies,Massachusetts Minutemen
+Lehigh Mountain Hawks,Navy Midshipmen
+VCU Rams,Rhode Island Rams
+Richmond Spiders,Saint Joseph's Hawks
+UMBC Retrievers,Vermont Catamounts
+Stony Brook Seawolves,Albany Great Danes
+Massachusetts-Lowell River Hawks,Binghamton Bearcats
+Sam Houston State Bearkats,Northwestern State Demons
+Abilene Christian Wildcats,Stephen F. Austin Lumberjacks
+Evansville Aces,Drake Bulldogs
+Saint Louis Billikens,Duquesne Dukes
+Southeastern Louisiana Lions,Houston Baptist Huskies
+UIW Cardinals,Lamar Cardinals
+UNI Panthers,Southern Illinois Salukis
+Nicholls Colonels,Texas A&M-Corpus Christi Islanders
+New Orleans Privateers,Central Arkansas Bears
+South Dakota Coyotes,North Dakota Fighting Hawks
+Loyola Chicago Ramblers,Missouri State Bears
+San Jose State Spartans,Wyoming Cowboys
+UC Riverside Highlanders,Cal Poly Mustangs
+Long Beach State 49ers,CSUN Matadors
+UC Irvine Anteaters,Hawaii Rainbow Warriors
+Oakland Golden Grizzlies,IUPUI Jaguars
+Presbyterian Blue Hose,Campbell Fighting Camels
+Monmouth Hawks,Canisius Golden Griffins
+Elon Phoenix,Charleston Cougars
+St. Francis Brooklyn Terriers,Fairleigh Dickinson Knights
+Siena Saints,Fairfield Stags
+Chattanooga Mocs,Furman Paladins
+UT Arlington Mavericks,Georgia Southern Eagles
+Texas State Bobcats,Georgia State Panthers
+Hofstra Pride,James Madison Dukes
+Utah Valley Wolverines,UMKC Kangaroos
+LIU Brooklyn Blackbirds,Mount St. Mary's Mountaineers
+Citadel Bulldogs,UNCG Spartans
+William & Mary Tribe,UNCW Seahawks
+Jacksonville Dolphins,North Florida Ospreys
+Charleston Southern Buccaneers,Radford Highlanders
+Sacred Heart Pioneers,Robert Morris Colonials
+Wagner Seahawks,Saint Francis U Red Flash
+NJIT Highlanders,Stetson Hatters
+Northeastern Huskies,Towson Tigers
+Gardner-Webb Runnin' Bulldogs,Winthrop Eagles
+Samford Bulldogs,Wofford Terriers
+Milwaukee Panthers,Wright State Raiders
+USC Upstate Spartans,Hampton Pirates
+High Point Panthers,Longwood Lancers
+Kennesaw State Owls,North Alabama Lions
+Green Bay Phoenix,Northern Kentucky Norse
+Central Connecticut State Blue Devils,Bryant Bulldogs
+Coastal Carolina Chanticleers,Little Rock Trojans
+Jacksonville State Gamecocks,Eastern Kentucky Colonels
+VMI Keydets,Mercer Bears
+Omaha Mavericks,Purdue Fort Wayne Mastodons
+FGCU Eagles,Lipscomb Bisons
+Tennessee Tech Golden Eagles,Morehead State Eagles
+Appalachian State Mountaineers,Arkansas State Red Wolves
+Detroit Titans,UIC Flames
+Troy Trojans,Louisiana-Monroe Warhawks
+South Alabama Jaguars,Louisiana Ragin' Cajuns
+North Dakota State Bison,South Dakota State Jackrabbits
+Seattle Redhawks,Chicago State Cougars
+Eastern Illinois Panthers,UT Martin Skyhawks
+SIUE Cougars,Southeast Missouri State Redhawks
+Tennessee State Tigers,Austin Peay Governors
+Idaho State Bengals,Montana Grizzlies
+Weber State Wildcats,Montana State Bobcats
+Belmont Bruins,Murray State Racers
+Southern Utah Thunderbirds,Northern Colorado Bears
+UC Santa Barbara Gauchos,Cal State Fullerton Titans
+Loyola Marymount Lions,San Diego Toreros
+Portland Pilots,San Francisco Dons
+Bakersfield Roadrunners,California Baptist Lancers
+Idaho Vandals,Sacramento State Hornets
+Eastern Washington Eagles,Portland State Vikings
+Saint Mary's Gaels,BYU Cougars
+Rider Broncs,Iona Gaels
+Quinnipiac Bobcats,Marist Red Foxes
+Brown Bears,Yale Bulldogs
+Colgate Raiders,Loyola Maryland Greyhounds
+LIU Brooklyn Blackbirds,Central Connecticut State Blue Devils
+VMI Keydets,Citadel Bulldogs
+UT Arlington Mavericks,Georgia State Panthers
+UMBC Retrievers,New Hampshire Wildcats
+Detroit Titans,IUPUI Jaguars
+Maine Black Bears,Binghamton Bearcats
+Drexel Dragons,Delaware Fightin' Blue Hens
+VCU Rams,Duquesne Dukes
+Dayton Flyers,Fordham Rams
+Dartmouth Big Green,Harvard Crimson
+Army West Point Black Knights,Lafayette Leopards
+Boston University Terriers,Lehigh Mountain Hawks
+Ball State Cardinals,Ohio Bobcats
+Davidson Wildcats,Saint Louis Billikens
+Hofstra Pride,Towson Tigers
+Eastern Michigan Eagles,Western Michigan Broncos
+South Alabama Jaguars,Louisiana-Monroe Warhawks
+Monmouth Hawks,Niagara Purple Eagles
+Hartford Hawks,Albany Great Danes
+Utah Valley Wolverines,Chicago State Cougars
+Navy Midshipmen,Holy Cross Crusaders
+Bowling Green Falcons,Miami (OH) RedHawks
+Jacksonville State Gamecocks,Morehead State Eagles
+Bucknell Bison,American University Eagles
+Appalachian State Mountaineers,Little Rock Trojans
+Wyoming Cowboys,Boise State Broncos
+William & Mary Tribe,Charleston Cougars
+Fresno State Bulldogs,Colorado State Rams
+Delaware State Hornets,Howard Bison
+Northeastern Huskies,James Madison Dukes
+Idaho State Bengals,Montana State Bobcats
+Bethune-Cookman Wildcats,Morgan State Bears
+Elon Phoenix,UNCW Seahawks
+Utah State Aggies,New Mexico Lobos
+Portland Pilots,Pacific Tigers
+Winthrop Eagles,Presbyterian Blue Hose
+Bradley Braves,Missouri State Bears
+New Orleans Privateers,UIW Cardinals
+Fairleigh Dickinson Knights,Bryant Bulldogs
+Oakland Golden Grizzlies,UIC Flames
+Southeastern Louisiana Lions,Northwestern State Demons
+Central Arkansas Bears,Abilene Christian Wildcats
+Samford Bulldogs,Furman Paladins
+Western Illinois Leathernecks,South Dakota Coyotes
+Florida A&M Rattlers,Coppin State Eagles
+North Carolina A&T Aggies,North Carolina Central Eagles
+SIUE Cougars,UT Martin Skyhawks
+Longwood Lancers,USC Upstate Spartans
+Belmont Bruins,Austin Peay Governors
+Houston Baptist Huskies,McNeese State Cowboys
+Northern Illinois Huskies,Akron Zips
+Coastal Carolina Chanticleers,Arkansas State Red Wolves
+Texas State Bobcats,Georgia Southern Eagles
+St. Francis Brooklyn Terriers,Mount St. Mary's Mountaineers
+Mercer Bears,UNCG Spartans
+Wagner Seahawks,Robert Morris Colonials
+Omaha Mavericks,South Dakota State Jackrabbits
+Gardner-Webb Runnin' Bulldogs,Charleston Southern Buccaneers
+Eastern Illinois Panthers,Southeast Missouri State Redhawks
+Prairie View A&M Panthers,Mississippi Valley State Delta Devils
+Jackson State Tigers,Grambling State Tigers
+St. Bonaventure Bonnies,Richmond Spiders
+Alcorn State Braves,Alabama State Hornets
+South Carolina State Bulldogs,Savannah State Tigers
+Maryland Eastern Shore Hawks,Norfolk State Spartans
+Lamar Cardinals,Sam Houston State Bearkats
+Campbell Fighting Camels,Hampton Pirates
+Youngstown State Penguins,Cleveland State Vikings
+Cornell Big Red,Columbia Lions
+Tennessee Tech Golden Eagles,Eastern Kentucky Colonels
+George Washington Colonials,George Mason Patriots
+Seattle Redhawks,UMKC Kangaroos
+Penn Quakers,Saint Joseph's Hawks
+Manhattan Jaspers,Siena Saints
+Sacred Heart Pioneers,Saint Francis U Red Flash
+Vermont Catamounts,Stony Brook Seawolves
+Central Michigan Chippewas,Toledo Rockets
+East Tennessee State Buccaneers,Western Carolina Catamounts
+Chattanooga Mocs,Wofford Terriers
+Green Bay Phoenix,Wright State Raiders
+Denver Pioneers,Purdue Fort Wayne Mastodons
+Southern University Jaguars,Alabama A&M Bulldogs
+UNC Asheville Bulldogs,High Point Panthers
+Milwaukee Panthers,Northern Kentucky Norse
+Tennessee State Tigers,Murray State Racers
+Evansville Aces,UNI Panthers
+Northern Colorado Bears,Northern Arizona Lumberjacks
+North Dakota State Bison,Oral Roberts Golden Eagles
+Saint Mary's Gaels,Pepperdine Waves
+UNLV Runnin' Rebels,San Diego State Aztecs
+Troy Trojans,Louisiana Ragin' Cajuns
+New Mexico State Aggies,UT Rio Grande Valley Vaqueros
+Drake Bulldogs,Valparaiso Crusaders
+Texas Southern Tigers,UAPB Golden Lions
+Weber State Wildcats,Montana Grizzlies
+Air Force Falcons,San Jose State Spartans
+Loyola Marymount Lions,Santa Clara Broncos
+UC Riverside Highlanders,UC Irvine Anteaters
+Cal State Fullerton Titans,Cal Poly Mustangs
+UC Santa Barbara Gauchos,Long Beach State 49ers
+San Francisco Dons,San Diego Toreros
+Grand Canyon Antelopes,California Baptist Lancers
+Eastern Washington Eagles,Sacramento State Hornets
+Idaho Vandals,Portland State Vikings
+UC Davis Aggies,Hawaii Rainbow Warriors
+Wesley College Wolverines,Princeton Tigers
+Iona Gaels,Fairfield Stags
+Indiana State Sycamores,Illinois State Redbirds
+Liberty Flames,Jacksonville Dolphins
+Rhode Island Rams,Massachusetts Minutemen
+Marist Red Foxes,Rider Broncs
+Saint Peter's Peacocks,Quinnipiac Bobcats
+Southern Illinois Salukis,Loyola Chicago Ramblers
+Lipscomb Bisons,Stetson Hatters
+North Alabama Lions,NJIT Highlanders
+North Florida Ospreys,FGCU Eagles
+Southern Utah Thunderbirds,Northern Arizona Lumberjacks
+Maryland Eastern Shore Hawks,Howard Bison
+Bethune-Cookman Wildcats,Coppin State Eagles
+North Carolina Central Eagles,Savannah State Tigers
+Southern University Jaguars,Alabama State Hornets
+Prairie View A&M Panthers,UAPB Golden Lions
+Texas Southern Tigers,Mississippi Valley State Delta Devils
+Alcorn State Braves,Alabama A&M Bulldogs
+Florida A&M Rattlers,Morgan State Bears
+Ohio Bobcats,Northern Illinois Huskies
+Eastern Michigan Eagles,Central Michigan Chippewas
+Lipscomb Bisons,Liberty Flames
+Toledo Rockets,Miami (OH) RedHawks
+Kent State Golden Flashes,Western Michigan Broncos
+Saint Joseph's Hawks,Dayton Flyers
+Missouri State Bears,Valparaiso Crusaders
+Boise State Broncos,Colorado State Rams
+California-Santa Cruz Banana Slugs,Bakersfield Roadrunners
+Holy Cross Crusaders,Boston University Terriers
+Navy Midshipmen,Bucknell Bison
+Army West Point Black Knights,Colgate Raiders
+Rhode Island Rams,Duquesne Dukes
+Bradley Braves,Evansville Aces
+Fordham Rams,George Washington Colonials
+Binghamton Bearcats,Hartford Hawks
+Stetson Hatters,Jacksonville Dolphins
+Massachusetts Minutemen,La Salle Explorers
+UNI Panthers,Loyola Chicago Ramblers
+American University Eagles,Loyola Maryland Greyhounds
+Stony Brook Seawolves,UMBC Retrievers
+USC Upstate Spartans,UNC Asheville Bulldogs
+Albany Great Danes,New Hampshire Wildcats
+Canisius Golden Griffins,Niagara Purple Eagles
+Campbell Fighting Camels,Radford Highlanders
+Richmond Spiders,Saint Louis Billikens
+South Dakota Coyotes,Purdue Fort Wayne Mastodons
+High Point Panthers,Gardner-Webb Runnin' Bulldogs
+FGCU Eagles,NJIT Highlanders
+Hampton Pirates,Longwood Lancers
+North Florida Ospreys,Kennesaw State Owls
+Maine Black Bears,Massachusetts-Lowell River Hawks
+Presbyterian Blue Hose,Charleston Southern Buccaneers
+Central Arkansas Bears,Stephen F. Austin Lumberjacks
+Texas A&M-Corpus Christi Islanders,Abilene Christian Wildcats
+Illinois State Redbirds,Drake Bulldogs
+Northwestern State Demons,New Orleans Privateers
+Lamar Cardinals,Nicholls Colonels
+Sam Houston State Bearkats,Southeastern Louisiana Lions
+Houston Baptist Huskies,UIW Cardinals
+Lehigh Mountain Hawks,Lafayette Leopards
+Indiana State Sycamores,Southern Illinois Salukis
+San Jose State Spartans,Utah State Aggies
+Fresno State Bulldogs,Wyoming Cowboys
+California Baptist Lancers,Utah Valley Wolverines
+CSUN Matadors,Cal State Fullerton Titans
+Air Force Falcons,San Diego State Aztecs
+LIU Brooklyn Blackbirds,Fairleigh Dickinson Knights
+Kent State Golden Flashes,Western Michigan Broncos
+Louisiana Ragin' Cajuns,Appalachian State Mountaineers
+St. Francis Brooklyn Terriers,Central Connecticut State Blue Devils
+James Madison Dukes,Charleston Cougars
+Louisiana-Monroe Warhawks,Coastal Carolina Chanticleers
+Furman Paladins,Citadel Bulldogs
+Cleveland State Vikings,Detroit Titans
+Delaware Fightin' Blue Hens,Elon Phoenix
+Fairfield Stags,Manhattan Jaspers
+Iona Gaels,Marist Red Foxes
+Wofford Terriers,Mercer Bears
+Siena Saints,Monmouth Hawks
+Sacred Heart Pioneers,Mount St. Mary's Mountaineers
+VMI Keydets,UNCG Spartans
+Towson Tigers,UNCW Seahawks
+Youngstown State Penguins,Oakland Golden Grizzlies
+Saint Peter's Peacocks,Rider Broncs
+Saint Francis U Red Flash,Robert Morris Colonials
+Austin Peay Governors,Tennessee Tech Golden Eagles
+Bryant Bulldogs,Wagner Seahawks
+Drexel Dragons,William & Mary Tribe
+East Tennessee State Buccaneers,Samford Bulldogs
+Southeast Missouri State Redhawks,Belmont Bruins
+South Dakota State Jackrabbits,Oral Roberts Golden Eagles
+Western Carolina Catamounts,Chattanooga Mocs
+Chicago State Cougars,UT Rio Grande Valley Vaqueros
+North Dakota Fighting Hawks,Western Illinois Leathernecks
+Morehead State Eagles,SIUE Cougars
+Murray State Racers,Jacksonville State Gamecocks
+Eastern Kentucky Colonels,Eastern Illinois Panthers
+UT Martin Skyhawks,Tennessee State Tigers
+UMKC Kangaroos,New Mexico State Aggies
+Portland State Vikings,Weber State Wildcats
+Sacramento State Hornets,Idaho State Bengals
+Pepperdine Waves,Portland Pilots
+Cal Poly Mustangs,UC Riverside Highlanders
+Pacific Tigers,Loyola Marymount Lions
+UC Irvine Anteaters,UC Santa Barbara Gauchos
+Long Beach State 49ers,Hawaii Rainbow Warriors
+Penn Quakers,Cornell Big Red
+North Dakota Fighting Hawks,Western Illinois Leathernecks
+Quinnipiac Bobcats,Canisius Golden Griffins
+Princeton Tigers,Columbia Lions
+Brown Bears,Dartmouth Big Green
+Yale Bulldogs,Harvard Crimson
+Davidson Wildcats,St. Bonaventure Bonnies
+Northern Kentucky Norse,IUPUI Jaguars
+Milwaukee Panthers,Green Bay Phoenix
+Wright State Raiders,UIC Flames
+Kent State Golden Flashes,Ball State Cardinals
+Miami (OH) RedHawks,Eastern Michigan Eagles
+Lehigh Mountain Hawks,Army West Point Black Knights
+Boston University Terriers,Colgate Raiders
+Wofford Terriers,Citadel Bulldogs
+Youngstown State Penguins,Detroit Titans
+Georgia Southern Eagles,Georgia State Panthers
+Siena Saints,Iona Gaels
+Holy Cross Crusaders,American University Eagles
+Louisiana-Monroe Warhawks,Appalachian State Mountaineers
+Southern Illinois Salukis,Bradley Braves
+Longwood Lancers,Campbell Fighting Camels
+Louisiana Ragin' Cajuns,Coastal Carolina Chanticleers
+Duquesne Dukes,Dayton Flyers
+Valparaiso Crusaders,Evansville Aces
+Drake Bulldogs,Indiana State Sycamores
+Bucknell Bison,Lafayette Leopards
+Rider Broncs,Monmouth Hawks
+Loyola Maryland Greyhounds,Navy Midshipmen
+Radford Highlanders,Winthrop Eagles
+Cleveland State Vikings,Oakland Golden Grizzlies
+Western Carolina Catamounts,Samford Bulldogs
+UNC Asheville Bulldogs,Gardner-Webb Runnin' Bulldogs
+Toledo Rockets,Northern Illinois Huskies
+Bryant Bulldogs,Central Connecticut State Blue Devils
+Akron Zips,Ohio Bobcats
+St. Francis Brooklyn Terriers,Sacred Heart Pioneers
+Colorado State Rams,Air Force Falcons
+Towson Tigers,Charleston Cougars
+Norfolk State Spartans,Howard Bison
+South Carolina State Bulldogs,Maryland Eastern Shore Hawks
+Furman Paladins,Mercer Bears
+Saint Francis U Red Flash,Mount St. Mary's Mountaineers
+Saint Louis Billikens,Rhode Island Rams
+San Francisco Dons,Saint Mary's Gaels
+Kennesaw State Owls,Stetson Hatters
+LIU Brooklyn Blackbirds,Wagner Seahawks
+Delaware Fightin' Blue Hens,William & Mary Tribe
+Morgan State Bears,Coppin State Eagles
+Morehead State Eagles,Eastern Illinois Panthers
+Western Michigan Broncos,Central Michigan Chippewas
+Robert Morris Colonials,Fairleigh Dickinson Knights
+Hofstra Pride,Northeastern Huskies
+Massachusetts Minutemen,Saint Joseph's Hawks
+East Tennessee State Buccaneers,Chattanooga Mocs
+UNLV Runnin' Rebels,Utah State Aggies
+Charleston Southern Buccaneers,USC Upstate Spartans
+North Carolina A&T Aggies,Florida A&M Rattlers
+Lamar Cardinals,McNeese State Cowboys
+North Carolina Central Eagles,Bethune-Cookman Wildcats
+Savannah State Tigers,Delaware State Hornets
+Chicago State Cougars,New Mexico State Aggies
+Nicholls Colonels,Southeastern Louisiana Lions
+UT Arlington Mavericks,Texas State Bobcats
+North Alabama Lions,Lipscomb Bisons
+Southern Utah Thunderbirds,Eastern Washington Eagles
+UIW Cardinals,New Orleans Privateers
+Vermont Catamounts,Massachusetts-Lowell River Hawks
+Austin Peay Governors,Jacksonville State Gamecocks
+Northwestern State Demons,Central Arkansas Bears
+UAPB Golden Lions,Grambling State Tigers
+Alabama A&M Bulldogs,Prairie View A&M Panthers
+La Salle Explorers,Richmond Spiders
+Southern University Jaguars,Alcorn State Braves
+Arkansas State Red Wolves,Little Rock Trojans
+George Mason Patriots,VCU Rams
+Mississippi Valley State Delta Devils,Jackson State Tigers
+UT Martin Skyhawks,Belmont Bruins
+Troy Trojans,South Alabama Jaguars
+Yale Bulldogs,Dartmouth Big Green
+Drexel Dragons,Elon Phoenix
+Brown Bears,Harvard Crimson
+NJIT Highlanders,Liberty Flames
+Saint Peter's Peacocks,Manhattan Jaspers
+Fairfield Stags,Marist Red Foxes
+James Madison Dukes,UNCW Seahawks
+Hartford Hawks,Stony Brook Seawolves
+Hampton Pirates,High Point Panthers
+Binghamton Bearcats,Albany Great Danes
+Jacksonville Dolphins,FGCU Eagles
+Princeton Tigers,Cornell Big Red
+Penn Quakers,Columbia Lions
+Texas A&M-Corpus Christi Islanders,Houston Baptist Huskies
+Missouri State Bears,UNI Panthers
+Purdue Fort Wayne Mastodons,Oral Roberts Golden Eagles
+UMKC Kangaroos,UT Rio Grande Valley Vaqueros
+North Dakota State Bison,Western Illinois Leathernecks
+Eastern Kentucky Colonels,SIUE Cougars
+Stephen F. Austin Lumberjacks,Sam Houston State Bearkats
+Southeast Missouri State Redhawks,Tennessee State Tigers
+Murray State Racers,Tennessee Tech Golden Eagles
+Alabama State Hornets,Texas Southern Tigers
+Loyola Marymount Lions,BYU Cougars
+Montana Grizzlies,Montana State Bobcats
+San Diego State Aztecs,San Jose State Spartans
+Portland Pilots,Santa Clara Broncos
+Sacramento State Hornets,Weber State Wildcats
+UC Davis Aggies,UC Riverside Highlanders
+Portland State Vikings,Idaho State Bengals
+New Mexico Lobos,Fresno State Bulldogs
+Northern Arizona Lumberjacks,Idaho Vandals
+Loyola Chicago Ramblers,Illinois State Redbirds
+UC Irvine Anteaters,Long Beach State 49ers
+Cal Poly Mustangs,CSUN Matadors
+Pepperdine Waves,Pacific Tigers
+California Baptist Lancers,Seattle Redhawks
+Grand Canyon Antelopes,Bakersfield Roadrunners
+UC Santa Barbara Gauchos,Hawaii Rainbow Warriors
+New Hampshire Wildcats,Maine Black Bears
+Wright State Raiders,IUPUI Jaguars
+North Dakota Fighting Hawks,Omaha Mavericks
+Quinnipiac Bobcats,Niagara Purple Eagles
+South Dakota State Jackrabbits,Denver Pioneers
+Northern Kentucky Norse,UIC Flames
+Marist Red Foxes,Canisius Golden Griffins
+North Carolina Central Eagles,Florida A&M Rattlers
+Colgate Raiders,Lehigh Mountain Hawks
+Fairfield Stags,Siena Saints
+Savannah State Tigers,Maryland Eastern Shore Hawks
+North Carolina A&T Aggies,Bethune-Cookman Wildcats
+South Carolina State Bulldogs,Delaware State Hornets
+UAPB Golden Lions,Jackson State Tigers
+Alabama State Hornets,Prairie View A&M Panthers
+Alabama A&M Bulldogs,Texas Southern Tigers
+Montana State Bobcats,Northern Colorado Bears
+Northern Arizona Lumberjacks,Eastern Washington Eagles
+Mississippi Valley State Delta Devils,Grambling State Tigers
+Southern Utah Thunderbirds,Idaho Vandals
+Miami (OH) RedHawks,Kent State Golden Flashes
+Saint Joseph's Hawks,La Salle Explorers
+Stetson Hatters,Liberty Flames
+Drake Bulldogs,Loyola Chicago Ramblers
+Rider Broncs,Manhattan Jaspers
+Akron Zips,Toledo Rockets
+Bowling Green Falcons,Western Michigan Broncos
+Valparaiso Crusaders,Illinois State Redbirds
+Ball State Cardinals,Northern Illinois Huskies
+Dayton Flyers,Saint Louis Billikens
+Utah State Aggies,Fresno State Bulldogs
+San Diego State Aztecs,New Mexico Lobos
+Lafayette Leopards,Boston University Terriers
+Rhode Island Rams,Davidson Wildcats
+VCU Rams,George Washington Colonials
+Evansville Aces,Indiana State Sycamores
+Kennesaw State Owls,Jacksonville Dolphins
+Bucknell Bison,Loyola Maryland Greyhounds
+Fordham Rams,Massachusetts Minutemen
+Hartford Hawks,UMBC Retrievers
+American University Eagles,Navy Midshipmen
+Lipscomb Bisons,North Florida Ospreys
+George Mason Patriots,Richmond Spiders
+Maine Black Bears,Vermont Catamounts
+Stony Brook Seawolves,Binghamton Bearcats
+North Alabama Lions,FGCU Eagles
+New Hampshire Wildcats,Massachusetts-Lowell River Hawks
+Army West Point Black Knights,Holy Cross Crusaders
+St. Bonaventure Bonnies,Duquesne Dukes
+New Orleans Privateers,Northwestern State Demons
+McNeese State Cowboys,Sam Houston State Bearkats
+Stephen F. Austin Lumberjacks,Houston Baptist Huskies
+Abilene Christian Wildcats,Lamar Cardinals
+Georgia State Panthers,Louisiana-Monroe Warhawks
+Bradley Braves,UNI Panthers
+Georgia Southern Eagles,Louisiana Ragin' Cajuns
+Southern Illinois Salukis,Missouri State Bears
+Southeastern Louisiana Lions,Texas A&M-Corpus Christi Islanders
+North Dakota State Bison,North Dakota Fighting Hawks
+Wyoming Cowboys,Air Force Falcons
+Cal State Fullerton Titans,UC Irvine Anteaters
+CSUN Matadors,UC Santa Barbara Gauchos
+UNLV Runnin' Rebels,Boise State Broncos
+Central Connecticut State Blue Devils,Saint Francis U Red Flash
+Fairleigh Dickinson Knights,Sacred Heart Pioneers
+Green Bay Phoenix,Cleveland State Vikings
+Charleston Cougars,Delaware Fightin' Blue Hens
+UNCW Seahawks,Drexel Dragons
+Wofford Terriers,East Tennessee State Buccaneers
+Elon Phoenix,Hofstra Pride
+Mount St. Mary's Mountaineers,LIU Brooklyn Blackbirds
+Samford Bulldogs,UNCG Spartans
+William & Mary Tribe,Northeastern Huskies
+UNC Asheville Bulldogs,Presbyterian Blue Hose
+Bryant Bulldogs,Robert Morris Colonials
+Wagner Seahawks,St. Francis Brooklyn Terriers
+Monmouth Hawks,Saint Peter's Peacocks
+Little Rock Trojans,Troy Trojans
+Chattanooga Mocs,VMI Keydets
+Oakland Golden Grizzlies,Wright State Raiders
+Milwaukee Panthers,Youngstown State Penguins
+Radford Highlanders,Hampton Pirates
+Western Illinois Leathernecks,Purdue Fort Wayne Mastodons
+Campbell Fighting Camels,High Point Panthers
+Gardner-Webb Runnin' Bulldogs,Longwood Lancers
+Detroit Titans,Northern Kentucky Norse
+Winthrop Eagles,Charleston Southern Buccaneers
+Belmont Bruins,Eastern Kentucky Colonels
+Furman Paladins,Western Carolina Catamounts
+Tennessee State Tigers,Morehead State Eagles
+Eastern Illinois Panthers,Murray State Racers
+Denver Pioneers,Oral Roberts Golden Eagles
+Arkansas State Red Wolves,South Alabama Jaguars
+Appalachian State Mountaineers,Texas State Bobcats
+Coastal Carolina Chanticleers,UT Arlington Mavericks
+Omaha Mavericks,South Dakota Coyotes
+SIUE Cougars,Austin Peay Governors
+Idaho State Bengals,Northern Arizona Lumberjacks
+Weber State Wildcats,Southern Utah Thunderbirds
+Jacksonville State Gamecocks,UT Martin Skyhawks
+Tennessee Tech Golden Eagles,Southeast Missouri State Redhawks
+UT Rio Grande Valley Vaqueros,Grand Canyon Antelopes
+Idaho Vandals,Montana Grizzlies
+Eastern Washington Eagles,Montana State Bobcats
+Portland State Vikings,Northern Colorado Bears
+UC Davis Aggies,Cal Poly Mustangs
+Hawaii Rainbow Warriors,Long Beach State 49ers
+San Diego Toreros,Loyola Marymount Lions
+Santa Clara Broncos,Pepperdine Waves
+Chicago State Cougars,California Baptist Lancers
+New Mexico State Aggies,Bakersfield Roadrunners
+BYU Cougars,Portland Pilots
+Pacific Tigers,Saint Mary's Gaels
 Green Bay Phoenix,Wisconsin Lutheran Warriors
 Buffalo Bulls,Saint Francis U Red Flash
 Eastern Michigan Eagles,Rochester (MI) Warriors
@@ -2312,6 +3775,8 @@ Washington Huskies,UC Santa Barbara Gauchos
 Virginia Cavaliers,Morgan State Bears
 Florida State Seminoles,Troy Trojans
 Wisconsin Badgers,Rutgers Scarlet Knights
+Coppin State Eagles,UMBC Retrievers
+East Tennessee State Buccaneers,Reinhardt Eagles
 George Mason Patriots,Vermont Catamounts
 St. Francis Brooklyn Terriers,St. Joseph's (NY-Brooklyn) Bears
 Delaware State Hornets,Cairn University Highlanders
@@ -2625,7 +4090,6 @@ UMBC Retrievers,FGCU Eagles
 Northern Kentucky Norse,Miami (OH) RedHawks
 Hawaii Rainbow Warriors,Mississippi Valley State Delta Devils
 Cornell Big Red,Longwood Lancers
-Florida State Seminoles,Southeast Missouri State Redhawks
 Morgan State Bears,Wilmington (DE) Wildcats
 High Point Panthers,North Carolina Wesleyan Battling Bishops
 Samford Bulldogs,Houston Baptist Huskies
@@ -2665,7 +4129,6 @@ UT Martin Skyhawks,Chattanooga Mocs
 Texas A&M-Corpus Christi Islanders,Huston-Tillotson Rams
 Denver Pioneers,Montana State Bobcats
 Eastern Washington Eagles,South Dakota State Jackrabbits
-Santa Clara Broncos,USC Trojans
 Bakersfield Roadrunners,Cal Poly Mustangs
 New Hampshire Wildcats,Marist Red Foxes
 USC Upstate Spartans,Truett-McConnell Bears
@@ -2729,9 +4192,7 @@ Massachusetts Minutemen,Fairleigh Dickinson Knights
 Eastern Washington Eagles,Corban Warriors
 Morehead State Eagles,IUPUI Jaguars
 Radford Highlanders,Georgia Southern Eagles
-Butler Bulldogs,UC Irvine Anteaters
 Boston University Terriers,Bethune-Cookman Wildcats
-UCF Knights,Illinois State Redbirds
 Charleston Cougars,Coastal Carolina Chanticleers
 George Mason Patriots,Navy Midshipmen
 Lafayette Leopards,Princeton Tigers
@@ -2749,7 +4210,6 @@ Lamar Cardinals,Howard Payne Yellow Jackets
 Louisiana-Monroe Warhawks,Coppin State Eagles
 Portland Pilots,Florida A&M Rattlers
 Lipscomb Bisons,Vermont Catamounts
-Utah Runnin' Utes,Northern Arizona Lumberjacks
 Cal Poly Mustangs,UT Arlington Mavericks
 Santa Clara Broncos,Idaho Vandals
 American University Eagles,Maryland Eastern Shore Hawks
@@ -2763,7 +4223,6 @@ Hofstra Pride,Rosemont College Ravens
 Maine Black Bears,Central Connecticut State Blue Devils
 Marist Red Foxes,Brown Bears
 New Hampshire Wildcats,Fairfield Stags
-Rutgers Scarlet Knights,Columbia Lions
 Bradley Braves,Southeastern Louisiana Lions
 Dayton Flyers,Presbyterian Blue Hose
 Duquesne Dukes,Eastern Kentucky Colonels
@@ -2810,4 +4269,1471 @@ St. Francis Brooklyn Terriers,Manhattan Jaspers
 UNLV Runnin' Rebels,Indiana State Sycamores
 Rider Broncs,CSUN Matadors
 San Diego Toreros,Drake Bulldogs
-Charlotte 49ers,Colorado Buffaloes
+Youngstown State Penguins,Detroit Titans
+Georgia Tech Yellow Jackets,Kennesaw State Owls
+Western Illinois Leathernecks,South Dakota State Jackrabbits
+Cleveland State Vikings,Oakland Golden Grizzlies
+Elon Phoenix,Towson Tigers
+Hofstra Pride,Delaware Fightin' Blue Hens
+Kent State Golden Flashes,Albany Great Danes
+North Carolina State Wolfpack,Loyola Maryland Greyhounds
+Northeastern Huskies,Drexel Dragons
+Virginia Tech Hokies,Maryland Eastern Shore Hawks
+William & Mary Tribe,James Madison Dukes
+Wright State Raiders,UIC Flames
+Hawaii Pacific Sharks,TCU Horned Frogs
+Northern Kentucky Norse,IUPUI Jaguars
+Air Force Falcons,UC Riverside Highlanders
+Arkansas Razorbacks,Austin Peay Governors
+Marquette Golden Eagles,Southern University Jaguars
+Texas Longhorns,UT Arlington Mavericks
+North Dakota Fighting Hawks,Purdue Fort Wayne Mastodons
+Omaha Mavericks,Denver Pioneers
+Utah State Aggies,Eastern Oregon Mountaineers
+North Dakota State Bison,South Dakota Coyotes
+Loyola Marymount Lions,UC Davis Aggies
+Mississippi State Bulldogs,BYU Cougars
+Notre Dame Fighting Irish,Coppin State Eagles
+Western Carolina Catamounts,Wofford Terriers
+Winthrop Eagles,Prairie View A&M Panthers
+Citadel Bulldogs,Longwood Lancers
+Georgia State Panthers,Middle Georgia State Knights
+Memphis Tigers,Florida A&M Rattlers
+South Florida Bulls,Fairleigh Dickinson Knights
+Saint Peter's Peacocks,Hampton Pirates
+Troy Trojans,UAPB Golden Lions
+North Dakota Fighting Hawks,Purdue Fort Wayne Mastodons
+North Dakota State Bison,South Dakota Coyotes
+Harvard Crimson,Mercer Bears
+Abilene Christian Wildcats,McMurry War Hawks
+Ball State Cardinals,Delaware State Hornets
+DePaul Blue Demons,Xavier Musketeers
+George Washington Colonials,American University Eagles
+Hartford Hawks,Marist Red Foxes
+Houston Baptist Huskies,Dallas Christian Crusaders
+Louisville Cardinals,Kentucky Wildcats
+Michigan State Spartans,Northern Illinois Huskies
+UNC Asheville Bulldogs,Fayetteville State Broncos
+Nicholls Colonels,Campbellsville-Harrodsburg Tigers
+Oklahoma State Cowboys,Texas A&M-Corpus Christi Islanders
+Siena Saints,Cal Poly Mustangs
+Saint Joseph's Hawks,Wagner Seahawks
+Syracuse Orange,St. Bonaventure Bonnies
+Toledo Rockets,Penn Quakers
+Utah Runnin' Utes,Nevada Wolf Pack
+Valparaiso Crusaders,Purdue Northwest Pride
+Wake Forest Demon Deacons,Gardner-Webb Runnin' Bulldogs
+Washington State Cougars,Santa Clara Broncos
+Sacred Heart Pioneers,Massachusetts-Lowell River Hawks
+Drake Bulldogs,McKendree Bearcats
+Lamar Cardinals,Champion Baptist College Tigers
+Niagara Purple Eagles,Norfolk State Spartans
+Rutgers Scarlet Knights,Maine Black Bears
+Samford Bulldogs,VMI Keydets
+Dayton Flyers,Georgia Southern Eagles
+Texas A&M Aggies,Texas Southern Tigers
+East Tennessee State Buccaneers,Furman Paladins
+Houston Cougars,NJIT Highlanders
+Miami (FL) Hurricanes,Campbell Fighting Camels
+Northern Arizona Lumberjacks,Montana Grizzlies
+Robert Morris Colonials,Hood Blazers
+Southern Utah Thunderbirds,Montana State Bobcats
+South Alabama Jaguars,Richmond Spiders
+USC Upstate Spartans,Coker Cobras
+UNCG Spartans,Chattanooga Mocs
+Southeastern Louisiana Lions,Louisiana Ragin' Cajuns
+Texas State Bobcats,Howard Payne Yellow Jackets
+Eastern Washington Eagles,Weber State Wildcats
+Jacksonville State Gamecocks,Reinhardt Eagles
+Eastern Kentucky Colonels,Brescia Bearcats
+Maryland Terrapins,Radford Highlanders
+Wyoming Cowboys,Dixie State Rebels
+Canisius Golden Griffins,Buffalo Bulls
+UNCW Seahawks,Charleston Cougars
+Boise State Broncos,Oregon Ducks
+Fresno State Bulldogs,Utah Valley Wolverines
+Arkansas State Red Wolves,Harding Bison
+California Golden Bears,Seattle Redhawks
+Iowa Hawkeyes,Bryant Bulldogs
+Jackson State Tigers,Miles Golden Bears
+Murray State Racers,Bethel (TN) Wildcats
+UNI Panthers,Stony Brook Seawolves
+San Diego State Aztecs,Brown Bears
+Saint Mary's Gaels,San Jose State Spartans
+Milwaukee Panthers,Green Bay Phoenix
+Seton Hall Pirates,St. John's Red Storm
+Cal State Fullerton Titans,Portland Pilots
+Idaho Vandals,Idaho State Bengals
+CSUN Matadors,Morgan State Bears
+Pacific Tigers,UC Irvine Anteaters
+San Diego Toreros,Grand Canyon Antelopes
+UC Santa Barbara Gauchos,San Francisco Dons
+California Baptist Lancers,La Verne Leopards
+Sacramento State Hornets,Northern Colorado Bears
+Hawaii Rainbow Warriors,Alabama A&M Bulldogs
+Dartmouth Big Green,New Hampshire Wildcats
+Michigan Wolverines,Binghamton Bearcats
+Central Michigan Chippewas,IU-South Bend Titans
+Cornell Big Red,Navy Midshipmen
+Iona Gaels,Holy Cross Crusaders
+Miami (OH) RedHawks,Evansville Aces
+Akron Zips,Carnegie Mellon Tartans
+Jacksonville Dolphins,Presbyterian Blue Hose
+Ohio Bobcats,FIU Golden Panthers
+VCU Rams,Rider Broncs
+Youngstown State Penguins,Oakland Golden Grizzlies
+North Carolina Central Eagles,Wilberforce Bulldogs
+Bowling Green Falcons,UT Martin Skyhawks
+Eastern Illinois Panthers,North Alabama Lions
+Saint Louis Billikens,Appalachian State Mountaineers
+Wright State Raiders,IUPUI Jaguars
+Colorado State Rams,New Mexico State Aggies
+Elon Phoenix,James Madison Dukes
+Hofstra Pride,Drexel Dragons
+Western Michigan Broncos,UC Riverside Highlanders
+William & Mary Tribe,Towson Tigers
+Southwest Mustangs,New Mexico Lobos
+McNeese State Cowboys,Campbellsville-Harrodsburg Tigers
+Northeastern Huskies,Delaware Fightin' Blue Hens
+Northwestern State Demons,Champion Baptist College Tigers
+Central Arkansas Bears,Lyon Scots
+North Dakota State Bison,Purdue Fort Wayne Mastodons
+Charleston Southern Buccaneers,Piedmont International Bruins
+Western Illinois Leathernecks,Denver Pioneers
+Omaha Mavericks,Oral Roberts Golden Eagles
+Georgia Bulldogs,Massachusetts Minutemen
+Missouri State Bears,William Woods Owls
+SIUE Cougars,Missouri Science & Technology Miners
+Northern Kentucky Norse,UIC Flames
+Cleveland State Vikings,Detroit Titans
+Fordham Rams,LIU Brooklyn Blackbirds
+USC Trojans,UC Davis Aggies
+UMBC Retrievers,Centenary (NJ) Cyclones
+Maryland Eastern Shore Hawks,Chestnut Hill Griffins
+Penn Quakers,Monmouth Hawks
+Virginia Cavaliers,Marshall Thundering Herd
+Duquesne Dukes,NJIT Highlanders
+Kent State Golden Flashes,Oberlin College Yeomen
+Northern Arizona Lumberjacks,Montana State Bobcats
+Sam Houston State Bearkats,Texas Lutheran Bulldogs
+Niagara Purple Eagles,Albany Great Danes
+Idaho Vandals,Weber State Wildcats
+Eastern Washington Eagles,Idaho State Bengals
+Portland State Vikings,Northern Colorado Bears
+Pepperdine Waves,Alabama A&M Bulldogs
+Southern Utah Thunderbirds,Montana Grizzlies
+Radford Highlanders,Mars Hill Lions
+San Diego State Aztecs,CSUN Matadors
+Prairie View A&M Panthers,Huston-Tillotson Rams
+South Carolina State Bulldogs,Presbyterian Blue Hose
+Abilene Christian Wildcats,New Orleans Privateers
+Maryland Terrapins,Nebraska Cornhuskers
+American University Eagles,Boston University Terriers
+Army West Point Black Knights,Bucknell Bison
+Brown Bears,Maine Black Bears
+Butler Bulldogs,Georgetown Hoyas
+Campbell Fighting Camels,Allen Yellow Jackets
+Evansville Aces,Drake Bulldogs
+Lehigh Mountain Hawks,Lafayette Leopards
+North Carolina Tar Heels,Harvard Crimson
+North Florida Ospreys,Florida National Conquistadors
+Vermont Catamounts,Dartmouth Big Green
+Yale Bulldogs,Kennesaw State Owls
+High Point Panthers,Washington College Shoremen
+Binghamton Bearcats,Columbia Lions
+Georgia Tech Yellow Jackets,USC Upstate Spartans
+Northwestern State Demons,Nicholls Colonels
+Stephen F. Austin Lumberjacks,Southeastern Louisiana Lions
+Bradley Braves,UNI Panthers
+Houston Baptist Huskies,Lamar Cardinals
+SMU Mustangs,East Carolina Pirates
+Southern Illinois Salukis,Missouri State Bears
+Valparaiso Crusaders,Illinois State Redbirds
+Texas A&M-Corpus Christi Islanders,Central Arkansas Bears
+Omaha Mavericks,North Dakota State Bison
+UIW Cardinals,McNeese State Cowboys
+Michigan State Spartans,Northwestern Wildcats
+Villanova Wildcats,DePaul Blue Demons
+Air Force Falcons,New Mexico Lobos
+Denver Pioneers,South Dakota Coyotes
+Kansas Jayhawks,Oklahoma Sooners
+Loyola Chicago Ramblers,Indiana State Sycamores
+Wyoming Cowboys,Boise State Broncos
+San Jose State Spartans,Fresno State Bulldogs
+UC Santa Barbara Gauchos,Bethesda Flames
+UNLV Runnin' Rebels,Colorado State Rams
+Morgan State Bears,Lincoln (PA) Lions
+Saint Peter's Peacocks,Siena Saints
+Sacred Heart Pioneers,LIU Brooklyn Blackbirds
+Central Connecticut State Blue Devils,Wagner Seahawks
+Delaware Fightin' Blue Hens,William & Mary Tribe
+Detroit Titans,Wright State Raiders
+Drexel Dragons,Elon Phoenix
+East Tennessee State Buccaneers,Samford Bulldogs
+Fairfield Stags,Rider Broncs
+Furman Paladins,Mercer Bears
+Indiana Hoosiers,Illinois Fighting Illini
+Iona Gaels,Monmouth Hawks
+James Madison Dukes,UNCW Seahawks
+Loyola Maryland Greyhounds,Holy Cross Crusaders
+Manhattan Jaspers,Quinnipiac Bobcats
+Marist Red Foxes,Canisius Golden Griffins
+Miami (FL) Hurricanes,North Carolina State Wolfpack
+Michigan Wolverines,Penn State Nittany Lions
+Navy Midshipmen,Colgate Raiders
+Oakland Golden Grizzlies,Northern Kentucky Norse
+Robert Morris Colonials,Fairleigh Dickinson Knights
+Saint Francis U Red Flash,Mount St. Mary's Mountaineers
+Stetson Hatters,Edward Waters Tigers
+Towson Tigers,Charleston Cougars
+Troy Trojans,Coastal Carolina Chanticleers
+Western Carolina Catamounts,Chattanooga Mocs
+Wofford Terriers,Citadel Bulldogs
+Bryant Bulldogs,St. Francis Brooklyn Terriers
+Saint Joseph's Hawks,George Mason Patriots
+Purdue Fort Wayne Mastodons,South Dakota State Jackrabbits
+Grand Canyon Antelopes,Utah Valley Wolverines
+Louisiana-Monroe Warhawks,Little Rock Trojans
+Oral Roberts Golden Eagles,North Dakota Fighting Hawks
+South Alabama Jaguars,Appalachian State Mountaineers
+Louisiana Ragin' Cajuns,Arkansas State Red Wolves
+Texas State Bobcats,Georgia Southern Eagles
+UT Arlington Mavericks,Georgia State Panthers
+Green Bay Phoenix,Youngstown State Penguins
+Milwaukee Panthers,Cleveland State Vikings
+Murray State Racers,Morehead State Eagles
+Eastern Illinois Panthers,UT Martin Skyhawks
+Belmont Bruins,Jacksonville State Gamecocks
+Montana Grizzlies,Sacramento State Hornets
+Montana State Bobcats,Portland State Vikings
+San Francisco Dons,Saint Mary's Gaels
+Weber State Wildcats,Northern Arizona Lumberjacks
+Idaho State Bengals,Southern Utah Thunderbirds
+Austin Peay Governors,Eastern Kentucky Colonels
+SIUE Cougars,Southeast Missouri State Redhawks
+Tennessee State Tigers,Tennessee Tech Golden Eagles
+UC Irvine Anteaters,UT Rio Grande Valley Vaqueros
+Pepperdine Waves,Loyola Marymount Lions
+Santa Clara Broncos,San Diego Toreros
+USC Trojans,California Golden Bears
+California Baptist Lancers,New Mexico State Aggies
+Bakersfield Roadrunners,Seattle Redhawks
+Idaho Vandals,Eastern Washington Eagles
+Pacific Tigers,BYU Cougars
+Cornell Big Red,Johnson & Wales (RI) Wildcats
+UIC Flames,IUPUI Jaguars
+Cal Poly Mustangs,Holy Names Hawks
+UC Riverside Highlanders,Bethesda Flames
+Notre Dame Fighting Irish,Syracuse Orange
+Virginia Tech Hokies,Boston College Eagles
+Army West Point Black Knights,Lafayette Leopards
+Boston University Terriers,Bucknell Bison
+Detroit Titans,Northern Kentucky Norse
+East Carolina Pirates,Cincinnati Bearcats
+Iona Gaels,Fairfield Stags
+Massachusetts Minutemen,La Salle Explorers
+UMBC Retrievers,Maine Black Bears
+VMI Keydets,UNCG Spartans
+Green Bay Phoenix,Cleveland State Vikings
+Massachusetts-Lowell River Hawks,Stony Brook Seawolves
+Akron Zips,Western Michigan Broncos
+Arizona Wildcats,Utah Runnin' Utes
+Fordham Rams,VCU Rams
+Georgia Tech Yellow Jackets,Wake Forest Demon Deacons
+Indiana State Sycamores,Bradley Braves
+Miami (OH) RedHawks,Central Michigan Chippewas
+Monmouth Hawks,Saint Peter's Peacocks
+UNC Asheville Bulldogs,Winthrop Eagles
+Ohio Bobcats,Northern Illinois Huskies
+Providence Friars,Villanova Wildcats
+Rutgers Scarlet Knights,Maryland Terrapins
+Missouri State Bears,Valparaiso Crusaders
+Towson Tigers,UNCW Seahawks
+Western Carolina Catamounts,Samford Bulldogs
+Binghamton Bearcats,New Hampshire Wildcats
+Denver Pioneers,North Dakota Fighting Hawks
+Drake Bulldogs,Loyola Chicago Ramblers
+UMKC Kangaroos,Chicago State Cougars
+Louisiana-Monroe Warhawks,Arkansas State Red Wolves
+New Orleans Privateers,Houston Baptist Huskies
+Oakland Golden Grizzlies,Wright State Raiders
+UT Arlington Mavericks,Georgia Southern Eagles
+Troy Trojans,Appalachian State Mountaineers
+Tennessee Volunteers,Georgia Bulldogs
+Sacred Heart Pioneers,Central Connecticut State Blue Devils
+Drexel Dragons,William & Mary Tribe
+East Tennessee State Buccaneers,Chattanooga Mocs
+Furman Paladins,Citadel Bulldogs
+Hofstra Pride,Northeastern Huskies
+Howard Bison,Florida A&M Rattlers
+Illinois State Redbirds,Evansville Aces
+James Madison Dukes,Charleston Cougars
+Montana State Bobcats,Sacramento State Hornets
+Presbyterian Blue Hose,USC Upstate Spartans
+South Alabama Jaguars,Coastal Carolina Chanticleers
+TCU Horned Frogs,Baylor Bears
+UCLA Bruins,California Golden Bears
+Wagner Seahawks,St. Francis Brooklyn Terriers
+NJIT Highlanders,Kennesaw State Owls
+Bryant Bulldogs,LIU Brooklyn Blackbirds
+North Carolina Central Eagles,Bethune-Cookman Wildcats
+Campbell Fighting Camels,Gardner-Webb Runnin' Bulldogs
+Eastern Illinois Panthers,SIUE Cougars
+Northwestern State Demons,McNeese State Cowboys
+Radford Highlanders,Longwood Lancers
+South Carolina State Bulldogs,North Carolina A&T Aggies
+Morgan State Bears,Maryland Eastern Shore Hawks
+Coppin State Eagles,Savannah State Tigers
+Austin Peay Governors,Morehead State Eagles
+North Florida Ospreys,North Alabama Lions
+Princeton Tigers,Penn Quakers
+Robert Morris Colonials,Mount St. Mary's Mountaineers
+Southeastern Louisiana Lions,Central Arkansas Bears
+Texas State Bobcats,Georgia State Panthers
+Milwaukee Panthers,Youngstown State Penguins
+Charleston Southern Buccaneers,High Point Panthers
+Lamar Cardinals,Texas A&M-Corpus Christi Islanders
+Southeast Missouri State Redhawks,UT Martin Skyhawks
+Arizona State Sun Devils,Colorado Buffaloes
+Belmont Bruins,Tennessee Tech Golden Eagles
+Davidson Wildcats,Duquesne Dukes
+Jacksonville Dolphins,Lipscomb Bisons
+Loyola Marymount Lions,Portland Pilots
+Middle Tennessee Blue Raiders,Florida Atlantic Owls
+Northern Colorado Bears,Idaho Vandals
+Tennessee State Tigers,Jacksonville State Gamecocks
+Alabama State Hornets,Grambling State Tigers
+Alcorn State Braves,Texas Southern Tigers
+Southern University Jaguars,Prairie View A&M Panthers
+Sam Houston State Bearkats,Abilene Christian Wildcats
+Norfolk State Spartans,Delaware State Hornets
+Delaware Fightin' Blue Hens,Elon Phoenix
+Kent State Golden Flashes,Bowling Green Falcons
+Manhattan Jaspers,Niagara Purple Eagles
+Old Dominion Monarchs,Western Kentucky Hilltoppers
+Rider Broncs,Quinnipiac Bobcats
+Siena Saints,Canisius Golden Griffins
+Saint Francis U Red Flash,Fairleigh Dickinson Knights
+Wofford Terriers,Mercer Bears
+Alabama A&M Bulldogs,Jackson State Tigers
+Albany Great Danes,Vermont Catamounts
+FGCU Eagles,Liberty Flames
+UAB Blazers,FIU Golden Panthers
+UC Davis Aggies,Holy Names Hawks
+Grand Canyon Antelopes,Seattle Redhawks
+Murray State Racers,Eastern Kentucky Colonels
+New Mexico Lobos,Nevada Wolf Pack
+UNI Panthers,Southern Illinois Salukis
+Oral Roberts Golden Eagles,Western Illinois Leathernecks
+Pepperdine Waves,San Francisco Dons
+Louisiana Ragin' Cajuns,Little Rock Trojans
+UIW Cardinals,Nicholls Colonels
+UAPB Golden Lions,Mississippi Valley State Delta Devils
+Vanderbilt Commodores,Ole Miss Rebels
+Montana Grizzlies,Portland State Vikings
+Utah State Aggies,Air Force Falcons
+Weber State Wildcats,Southern Utah Thunderbirds
+Idaho State Bengals,Northern Arizona Lumberjacks
+Boise State Broncos,San Diego State Aztecs
+Fresno State Bulldogs,Colorado State Rams
+Long Beach State 49ers,Bethesda Flames
+UNLV Runnin' Rebels,Wyoming Cowboys
+CSUN Matadors,Yale Bulldogs
+California Baptist Lancers,UT Rio Grande Valley Vaqueros
+Bakersfield Roadrunners,Utah Valley Wolverines
+San Diego Toreros,Pacific Tigers
+Saint Mary's Gaels,BYU Cougars
+Dayton Flyers,Richmond Spiders
+Marquette Golden Eagles,Xavier Musketeers
+DePaul Blue Demons,Seton Hall Pirates
+Navy Midshipmen,Holy Cross Crusaders
+Northwestern Wildcats,Illinois Fighting Illini
+Colgate Raiders,American University Eagles
+Harvard Crimson,McGill Redmen
+Lehigh Mountain Hawks,Loyola Maryland Greyhounds
+Saint Joseph's Hawks,George Washington Colonials
+North Dakota State Bison,Dickinson State Blue Hawks
+George Mason Patriots,St. Bonaventure Bonnies
+Saint Louis Billikens,Rhode Island Rams
+Michigan Wolverines,Indiana Hoosiers
+South Dakota Coyotes,South Dakota State Jackrabbits
+Iowa Hawkeyes,Nebraska Cornhuskers
+Houston Cougars,Memphis Tigers
+USC Trojans,Stanford Cardinal
+Fairfield Stags,Niagara Purple Eagles
+Delaware State Hornets,Coppin State Eagles
+Maryland Eastern Shore Hawks,Howard Bison
+Morgan State Bears,Savannah State Tigers
+Norfolk State Spartans,Florida A&M Rattlers
+Alabama State Hornets,Jackson State Tigers
+Alcorn State Braves,Prairie View A&M Panthers
+Southern University Jaguars,Texas Southern Tigers
+Alabama A&M Bulldogs,Grambling State Tigers
+Northern Colorado Bears,Eastern Washington Eagles
+Ball State Cardinals,Eastern Michigan Eagles
+Bowling Green Falcons,Ohio Bobcats
+Canisius Golden Griffins,Brown Bears
+Central Michigan Chippewas,Akron Zips
+Indiana State Sycamores,Missouri State Bears
+Kent State Golden Flashes,Western Michigan Broncos
+Kentucky Wildcats,Texas A&M Aggies
+Marist Red Foxes,Manhattan Jaspers
+Miami (OH) RedHawks,Northern Illinois Huskies
+Minnesota Golden Gophers,Maryland Terrapins
+Missouri Tigers,Tennessee Volunteers
+Villanova Wildcats,St. John's Red Storm
+Yale Bulldogs,Skidmore Thoroughbreds
+North Carolina A&T Aggies,Mid-Atlantic Christian Mustangs
+Drake Bulldogs,Southern Illinois Salukis
+Evansville Aces,Loyola Chicago Ramblers
+Illinois State Redbirds,UNI Panthers
+Valparaiso Crusaders,Bradley Braves
+Colorado State Rams,Air Force Falcons
+North Alabama Lions,FGCU Eagles
+San Diego State Aztecs,Wyoming Cowboys
+New Mexico Lobos,UNLV Runnin' Rebels
+Georgia Bulldogs,Vanderbilt Commodores
+Xavier Musketeers,Georgetown Hoyas
+American University Eagles,Navy Midshipmen
+Boston University Terriers,Army West Point Black Knights
+Bucknell Bison,Colgate Raiders
+George Washington Colonials,Dayton Flyers
+George Mason Patriots,Davidson Wildcats
+Georgia Tech Yellow Jackets,Virginia Tech Hokies
+Hartford Hawks,UMBC Retrievers
+Kansas State Wildcats,West Virginia Mountaineers
+Lafayette Leopards,Loyola Maryland Greyhounds
+Maine Black Bears,Vermont Catamounts
+New Hampshire Wildcats,Massachusetts-Lowell River Hawks
+Richmond Spiders,Rhode Island Rams
+Rutgers Scarlet Knights,Ohio State Buckeyes
+South Florida Bulls,Tulane Green Wave
+St. Bonaventure Bonnies,Saint Joseph's Hawks
+Stetson Hatters,Liberty Flames
+Stony Brook Seawolves,Binghamton Bearcats
+Towson Tigers,Cornell Big Red
+VCU Rams,La Salle Explorers
+Kennesaw State Owls,Jacksonville Dolphins
+Holy Cross Crusaders,Lehigh Mountain Hawks
+McNeese State Cowboys,Abilene Christian Wildcats
+Northwestern State Demons,Texas A&M-Corpus Christi Islanders
+Lipscomb Bisons,North Florida Ospreys
+Duquesne Dukes,Fordham Rams
+Lamar Cardinals,New Orleans Privateers
+Nicholls Colonels,Stephen F. Austin Lumberjacks
+Pittsburgh Panthers,Louisville Cardinals
+Central Arkansas Bears,Sam Houston State Bearkats
+Arkansas Razorbacks,Florida Gators
+Seton Hall Pirates,Butler Bulldogs
+California Golden Bears,Arizona State Sun Devils
+Florida State Seminoles,Miami (FL) Hurricanes
+Kansas Jayhawks,TCU Horned Frogs
+Saint Louis Billikens,Massachusetts Minutemen
+Utah State Aggies,Fresno State Bulldogs
+UC Santa Barbara Gauchos,Cal Poly Mustangs
+UC Riverside Highlanders,CSUN Matadors
+Stanford Cardinal,Arizona Wildcats
+Hawaii Rainbow Warriors,Cal State Fullerton Titans
+Appalachian State Mountaineers,UT Arlington Mavericks
+Campbell Fighting Camels,Winthrop Eagles
+Charleston Cougars,Drexel Dragons
+Coastal Carolina Chanticleers,Texas State Bobcats
+Citadel Bulldogs,East Tennessee State Buccaneers
+Detroit Titans,Green Bay Phoenix
+Elon Phoenix,Northeastern Huskies
+Fairleigh Dickinson Knights,Central Connecticut State Blue Devils
+Fairfield Stags,Saint Peter's Peacocks
+FIU Golden Panthers,Charlotte 49ers
+Georgia Southern Eagles,Louisiana-Monroe Warhawks
+Georgia State Panthers,Louisiana Ragin' Cajuns
+LIU Brooklyn Blackbirds,Saint Francis U Red Flash
+Mercer Bears,Western Carolina Catamounts
+UMKC Kangaroos,California Baptist Lancers
+Mount St. Mary's Mountaineers,Bryant Bulldogs
+UNCG Spartans,Wofford Terriers
+UNCW Seahawks,Delaware Fightin' Blue Hens
+Oakland Golden Grizzlies,Milwaukee Panthers
+VMI Keydets,Furman Paladins
+Wagner Seahawks,Sacred Heart Pioneers
+William & Mary Tribe,Hofstra Pride
+Purdue Fort Wayne Mastodons,Oral Roberts Golden Eagles
+IUPUI Jaguars,Cleveland State Vikings
+High Point Panthers,Presbyterian Blue Hose
+Quinnipiac Bobcats,Monmouth Hawks
+USC Upstate Spartans,Radford Highlanders
+Longwood Lancers,UNC Asheville Bulldogs
+Hampton Pirates,Charleston Southern Buccaneers
+Little Rock Trojans,Troy Trojans
+Belmont Bruins,Morehead State Eagles
+Louisiana Tech Bulldogs,UAB Blazers
+Arkansas State Red Wolves,South Alabama Jaguars
+Illinois Fighting Illini,Michigan Wolverines
+UIC Flames,Youngstown State Penguins
+Southern Miss Golden Eagles,Middle Tennessee Blue Raiders
+UT Rio Grande Valley Vaqueros,Bakersfield Roadrunners
+North Dakota Fighting Hawks,Omaha Mavericks
+North Dakota State Bison,Western Illinois Leathernecks
+South Dakota State Jackrabbits,Denver Pioneers
+UT Martin Skyhawks,Murray State Racers
+Jacksonville State Gamecocks,Eastern Illinois Panthers
+Southeast Missouri State Redhawks,Austin Peay Governors
+Tennessee State Tigers,Eastern Kentucky Colonels
+Tennessee Tech Golden Eagles,SIUE Cougars
+BYU Cougars,Portland Pilots
+Colorado Buffaloes,Washington State Cougars
+New Mexico State Aggies,Grand Canyon Antelopes
+St. Francis Brooklyn Terriers,Robert Morris Colonials
+UTEP Miners,North Texas Mean Green
+Eastern Washington Eagles,Montana Grizzlies
+UC Irvine Anteaters,UC Davis Aggies
+Idaho Vandals,Montana State Bobcats
+Gonzaga Bulldogs,Pacific Tigers
+Oregon State Beavers,USC Trojans
+Santa Clara Broncos,Pepperdine Waves
+Canisius Golden Griffins,Rider Broncs
+Marist Red Foxes,Siena Saints
+Maryland Terrapins,Indiana Hoosiers
+Niagara Purple Eagles,Iona Gaels
+Northern Kentucky Norse,Wright State Raiders
+Wisconsin Badgers,Purdue Boilermakers
+Ball State Cardinals,Ohio Bobcats
+Bucknell Bison,American University Eagles
+Eastern Michigan Eagles,Kent State Golden Flashes
+North Carolina Tar Heels,Louisville Cardinals
+Notre Dame Fighting Irish,Boston College Eagles
+Citadel Bulldogs,Western Carolina Catamounts
+Detroit Titans,Milwaukee Panthers
+Georgia State Panthers,Louisiana-Monroe Warhawks
+South Carolina Gamecocks,Missouri Tigers
+VMI Keydets,Wofford Terriers
+IUPUI Jaguars,Youngstown State Penguins
+Appalachian State Mountaineers,Texas State Bobcats
+Coastal Carolina Chanticleers,UT Arlington Mavericks
+Columbia Lions,Elmira Soaring Eagles
+Davidson Wildcats,VCU Rams
+Evansville Aces,Indiana State Sycamores
+Liberty Flames,Jacksonville Dolphins
+Loyola Chicago Ramblers,Illinois State Redbirds
+Loyola Maryland Greyhounds,Army West Point Black Knights
+Marquette Golden Eagles,Seton Hall Pirates
+Miami (FL) Hurricanes,Wake Forest Demon Deacons
+Monmouth Hawks,Manhattan Jaspers
+Navy Midshipmen,Boston University Terriers
+UNCW Seahawks,Drexel Dragons
+Penn Quakers,Princeton Tigers
+Western Michigan Broncos,Toledo Rockets
+Winthrop Eagles,High Point Panthers
+Sacred Heart Pioneers,Bryant Bulldogs
+Iowa Hawkeyes,Ohio State Buckeyes
+Oakland Golden Grizzlies,Green Bay Phoenix
+San Jose State Spartans,Boise State Broncos
+Albany Great Danes,Maine Black Bears
+Longwood Lancers,Charleston Southern Buccaneers
+North Dakota Fighting Hawks,Western Illinois Leathernecks
+Chicago State Cougars,California Baptist Lancers
+Holy Cross Crusaders,Lafayette Leopards
+Alabama Crimson Tide,Texas A&M Aggies
+Air Force Falcons,San Diego State Aztecs
+Little Rock Trojans,South Alabama Jaguars
+Charleston Cougars,Delaware Fightin' Blue Hens
+Colgate Raiders,Lehigh Mountain Hawks
+Colorado State Rams,New Mexico Lobos
+Duquesne Dukes,Saint Joseph's Hawks
+Florida A&M Rattlers,Savannah State Tigers
+Florida Atlantic Owls,Charlotte 49ers
+George Washington Colonials,Richmond Spiders
+Howard Bison,Bethune-Cookman Wildcats
+James Madison Dukes,Towson Tigers
+Mount St. Mary's Mountaineers,Central Connecticut State Blue Devils
+Northern Colorado Bears,Montana Grizzlies
+San Diego Toreros,Pepperdine Waves
+Southern Utah Thunderbirds,Northern Arizona Lumberjacks
+Southern Illinois Salukis,Valparaiso Crusaders
+St. Francis Brooklyn Terriers,Saint Francis U Red Flash
+Wagner Seahawks,Fairleigh Dickinson Knights
+William & Mary Tribe,Northeastern Huskies
+Hampton Pirates,UNC Asheville Bulldogs
+Central Arkansas Bears,Lamar Cardinals
+Maryland Eastern Shore Hawks,North Carolina Central Eagles
+UIC Flames,Cleveland State Vikings
+Delaware State Hornets,North Carolina A&T Aggies
+Central Michigan Chippewas,Bowling Green Falcons
+Coppin State Eagles,Norfolk State Spartans
+LIU Brooklyn Blackbirds,Robert Morris Colonials
+Morgan State Bears,South Carolina State Bulldogs
+Nicholls Colonels,Houston Baptist Huskies
+Radford Highlanders,Presbyterian Blue Hose
+St. Bonaventure Bonnies,Fordham Rams
+UT Martin Skyhawks,Austin Peay Governors
+Chattanooga Mocs,Samford Bulldogs
+North Alabama Lions,NJIT Highlanders
+Mercer Bears,East Tennessee State Buccaneers
+Northern Illinois Huskies,Akron Zips
+Arkansas State Red Wolves,Troy Trojans
+Georgia Southern Eagles,Louisiana Ragin' Cajuns
+Jacksonville State Gamecocks,SIUE Cougars
+UNCG Spartans,Furman Paladins
+North Florida Ospreys,FGCU Eagles
+Southeastern Louisiana Lions,Abilene Christian Wildcats
+Gardner-Webb Runnin' Bulldogs,USC Upstate Spartans
+Lipscomb Bisons,Stetson Hatters
+New Orleans Privateers,McNeese State Cowboys
+South Dakota State Jackrabbits,Oral Roberts Golden Eagles
+Mississippi Valley State Delta Devils,Alabama A&M Bulldogs
+Southeast Missouri State Redhawks,Murray State Racers
+Stephen F. Austin Lumberjacks,Northwestern State Demons
+Massachusetts-Lowell River Hawks,UMBC Retrievers
+Arkansas Razorbacks,LSU Tigers
+Belmont Bruins,Eastern Kentucky Colonels
+Grambling State Tigers,Southern University Jaguars
+La Salle Explorers,Saint Louis Billikens
+New Mexico State Aggies,Bakersfield Roadrunners
+Prairie View A&M Panthers,Texas Southern Tigers
+Stanford Cardinal,Arizona State Sun Devils
+Syracuse Orange,Georgia Tech Yellow Jackets
+Wyoming Cowboys,Utah State Aggies
+Jackson State Tigers,Alcorn State Braves
+Sam Houston State Bearkats,UIW Cardinals
+Dartmouth Big Green,Harvard Crimson
+Elon Phoenix,Hofstra Pride
+Long Beach State 49ers,UC Davis Aggies
+Marshall Thundering Herd,Western Kentucky Hilltoppers
+Stony Brook Seawolves,New Hampshire Wildcats
+Vermont Catamounts,Hartford Hawks
+Bradley Braves,Missouri State Bears
+Cincinnati Bearcats,Connecticut Huskies
+Houston Cougars,Wichita State Shockers
+UT Rio Grande Valley Vaqueros,Grand Canyon Antelopes
+Utah Runnin' Utes,Washington State Cougars
+UAPB Golden Lions,Alabama State Hornets
+Kentucky Wildcats,Vanderbilt Commodores
+Tennessee State Tigers,Morehead State Eagles
+Tennessee Tech Golden Eagles,Eastern Illinois Panthers
+BYU Cougars,Santa Clara Broncos
+Cal State Fullerton Titans,UC Irvine Anteaters
+Utah Valley Wolverines,Seattle Redhawks
+Cal Poly Mustangs,CSUN Matadors
+Colorado Buffaloes,Washington Huskies
+Loyola Marymount Lions,Saint Mary's Gaels
+Portland Pilots,Pacific Tigers
+UC Santa Barbara Gauchos,UC Riverside Highlanders
+Sacramento State Hornets,Idaho State Bengals
+Portland State Vikings,Weber State Wildcats
+Saint Peter's Peacocks,Marist Red Foxes
+Canisius Golden Griffins,Iona Gaels
+Niagara Purple Eagles,Rider Broncs
+Quinnipiac Bobcats,Fairfield Stags
+South Dakota Coyotes,Purdue Fort Wayne Mastodons
+Dayton Flyers,Massachusetts Minutemen
+UCF Knights,East Carolina Pirates
+UNI Panthers,Drake Bulldogs
+Rhode Island Rams,George Mason Patriots
+Tulane Green Wave,Memphis Tigers
+Michigan Wolverines,Northwestern Wildcats
+Brown Bears,Johnson & Wales (RI) Wildcats
+Bucknell Bison,Holy Cross Crusaders
+Siena Saints,Monmouth Hawks
+Howard Bison,Morgan State Bears
+Coppin State Eagles,South Carolina State Bulldogs
+Maryland Eastern Shore Hawks,North Carolina A&T Aggies
+Norfolk State Spartans,Bethune-Cookman Wildcats
+Delaware State Hornets,North Carolina Central Eagles
+UAPB Golden Lions,Alabama A&M Bulldogs
+Grambling State Tigers,Alcorn State Braves
+Jackson State Tigers,Southern University Jaguars
+Mississippi Valley State Delta Devils,Alabama State Hornets
+Montana State Bobcats,Northern Colorado Bears
+Oklahoma State Cowboys,Baylor Bears
+Providence Friars,Seton Hall Pirates
+Akron Zips,Eastern Michigan Eagles
+Bowling Green Falcons,Ball State Cardinals
+Cincinnati Bearcats,South Florida Bulls
+Fordham Rams,Saint Louis Billikens
+Georgia Bulldogs,Kentucky Wildcats
+Illinois State Redbirds,Southern Illinois Salukis
+Ohio Bobcats,Kent State Golden Flashes
+Purdue Boilermakers,Rutgers Scarlet Knights
+Toledo Rockets,Miami (OH) RedHawks
+Howard Bison,Morgan State Bears
+Loyola Chicago Ramblers,Valparaiso Crusaders
+Northern Illinois Huskies,Central Michigan Chippewas
+Georgetown Hoyas,Marquette Golden Eagles
+Boise State Broncos,Nevada Wolf Pack
+Ole Miss Rebels,LSU Tigers
+Saint Joseph's Hawks,Davidson Wildcats
+San Diego State Aztecs,New Mexico Lobos
+Rhode Island Rams,St. Bonaventure Bonnies
+Army West Point Black Knights,Colgate Raiders
+Jacksonville Dolphins,North Alabama Lions
+Lafayette Leopards,Navy Midshipmen
+Lehigh Mountain Hawks,American University Eagles
+Loyola Maryland Greyhounds,Boston University Terriers
+Maine Black Bears,Hartford Hawks
+Massachusetts Minutemen,George Mason Patriots
+UMBC Retrievers,Binghamton Bearcats
+UNC Asheville Bulldogs,Campbell Fighting Camels
+New Hampshire Wildcats,Vermont Catamounts
+Penn State Nittany Lions,Iowa Hawkeyes
+Presbyterian Blue Hose,Hampton Pirates
+Richmond Spiders,Duquesne Dukes
+Stetson Hatters,North Florida Ospreys
+Texas A&M Aggies,Auburn Tigers
+Winthrop Eagles,Longwood Lancers
+High Point Panthers,USC Upstate Spartans
+NJIT Highlanders,Lipscomb Bisons
+Kennesaw State Owls,Liberty Flames
+Massachusetts-Lowell River Hawks,Albany Great Danes
+McNeese State Cowboys,Nicholls Colonels
+Sam Houston State Bearkats,Texas A&M-Corpus Christi Islanders
+Abilene Christian Wildcats,Houston Baptist Huskies
+Bradley Braves,Drake Bulldogs
+La Salle Explorers,George Washington Colonials
+New Orleans Privateers,Stephen F. Austin Lumberjacks
+UNI Panthers,Indiana State Sycamores
+Southeastern Louisiana Lions,Lamar Cardinals
+Missouri State Bears,Evansville Aces
+VCU Rams,Dayton Flyers
+North Dakota Fighting Hawks,South Dakota State Jackrabbits
+UIW Cardinals,Central Arkansas Bears
+DePaul Blue Demons,Butler Bulldogs
+Denver Pioneers,North Dakota State Bison
+UC Irvine Anteaters,Long Beach State 49ers
+San Jose State Spartans,Utah State Aggies
+Wichita State Shockers,UCF Knights
+Air Force Falcons,UNLV Runnin' Rebels
+Cleveland State Vikings,Northern Kentucky Norse
+Delaware Fightin' Blue Hens,James Madison Dukes
+Drexel Dragons,Towson Tigers
+East Tennessee State Buccaneers,VMI Keydets
+Hofstra Pride,UNCW Seahawks
+Marshall Thundering Herd,Florida Atlantic Owls
+Monmouth Hawks,Fairfield Stags
+Charlotte 49ers,Southern Miss Golden Eagles
+Northeastern Huskies,Charleston Cougars
+Old Dominion Monarchs,Louisiana Tech Bulldogs
+Siena Saints,Niagara Purple Eagles
+Saint Peter's Peacocks,Manhattan Jaspers
+Tennessee Tech Golden Eagles,Tennessee State Tigers
+Troy Trojans,Georgia Southern Eagles
+Youngstown State Penguins,Wright State Raiders
+Quinnipiac Bobcats,Canisius Golden Griffins
+Eastern Kentucky Colonels,UT Martin Skyhawks
+Middle Tennessee Blue Raiders,UTSA Roadrunners
+Samford Bulldogs,Citadel Bulldogs
+Western Carolina Catamounts,UNCG Spartans
+Morehead State Eagles,Southeast Missouri State Redhawks
+Eastern Illinois Panthers,Murray State Racers
+Oral Roberts Golden Eagles,South Dakota Coyotes
+South Alabama Jaguars,Georgia State Panthers
+Texas State Bobcats,Little Rock Trojans
+Chattanooga Mocs,Mercer Bears
+UT Arlington Mavericks,Arkansas State Red Wolves
+Western Illinois Leathernecks,Omaha Mavericks
+Western Kentucky Hilltoppers,FIU Golden Panthers
+Green Bay Phoenix,IUPUI Jaguars
+Milwaukee Panthers,UIC Flames
+Jacksonville State Gamecocks,Belmont Bruins
+Northern Arizona Lumberjacks,Sacramento State Hornets
+Southern Utah Thunderbirds,Portland State Vikings
+SIUE Cougars,Austin Peay Governors
+Grand Canyon Antelopes,Chicago State Cougars
+Pacific Tigers,San Francisco Dons
+Radford Highlanders,Gardner-Webb Runnin' Bulldogs
+Weber State Wildcats,Idaho State Bengals
+Utah Valley Wolverines,UT Rio Grande Valley Vaqueros
+Arizona State Sun Devils,Oregon State Beavers
+UC Davis Aggies,UC Santa Barbara Gauchos
+Cal State Fullerton Titans,UC Riverside Highlanders
+CSUN Matadors,Hawaii Rainbow Warriors
+Portland Pilots,San Diego Toreros
+Seattle Redhawks,New Mexico State Aggies
+Bakersfield Roadrunners,UMKC Kangaroos
+Pepperdine Waves,BYU Cougars
+Saint Mary's Gaels,Santa Clara Broncos
+Iona Gaels,Marist Red Foxes
+Rutgers Scarlet Knights,Northwestern Wildcats
+Saint Louis Billikens,Saint Joseph's Hawks
+Toledo Rockets,Ohio Bobcats
+Lehigh Mountain Hawks,Bucknell Bison
+Northeastern Huskies,UNCW Seahawks
+Holy Cross Crusaders,Loyola Maryland Greyhounds
+Davidson Wildcats,Richmond Spiders
+Boston University Terriers,Colgate Raiders
+Cleveland State Vikings,Wright State Raiders
+Fairfield Stags,Canisius Golden Griffins
+Maine Black Bears,Stony Brook Seawolves
+UMBC Retrievers,Albany Great Danes
+Vermont Catamounts,Binghamton Bearcats
+VMI Keydets,Western Carolina Catamounts
+Green Bay Phoenix,UIC Flames
+Youngstown State Penguins,Northern Kentucky Norse
+Cornell Big Red,Columbia Lions
+American University Eagles,Lafayette Leopards
+Coastal Carolina Chanticleers,Appalachian State Mountaineers
+Detroit Titans,Oakland Golden Grizzlies
+Drexel Dragons,James Madison Dukes
+Evansville Aces,Illinois State Redbirds
+Hartford Hawks,Massachusetts-Lowell River Hawks
+Indiana State Sycamores,Loyola Chicago Ramblers
+Quinnipiac Bobcats,Niagara Purple Eagles
+Army West Point Black Knights,Navy Midshipmen
+Bowling Green Falcons,Western Michigan Broncos
+Kent State Golden Flashes,Northern Illinois Huskies
+La Salle Explorers,Rhode Island Rams
+McNeese State Cowboys,Southeastern Louisiana Lions
+Louisiana-Monroe Warhawks,Louisiana Ragin' Cajuns
+Samford Bulldogs,Mercer Bears
+Southern Utah Thunderbirds,Sacramento State Hornets
+UT Arlington Mavericks,Little Rock Trojans
+Troy Trojans,Georgia State Panthers
+North Dakota State Bison,North Dakota Fighting Hawks
+Brown Bears,Yale Bulldogs
+Central Connecticut State Blue Devils,Saint Francis U Red Flash
+Miami (OH) RedHawks,Akron Zips
+East Tennessee State Buccaneers,UNCG Spartans
+Hofstra Pride,Charleston Cougars
+Kansas State Wildcats,TCU Horned Frogs
+Loyola Marymount Lions,Pepperdine Waves
+Northern Arizona Lumberjacks,Portland State Vikings
+Presbyterian Blue Hose,Longwood Lancers
+South Alabama Jaguars,Georgia Southern Eagles
+St. Francis Brooklyn Terriers,Sacred Heart Pioneers
+Valparaiso Crusaders,UNI Panthers
+Wagner Seahawks,Mount St. Mary's Mountaineers
+William & Mary Tribe,Elon Phoenix
+NJIT Highlanders,Jacksonville Dolphins
+Bryant Bulldogs,Robert Morris Colonials
+North Carolina A&T Aggies,Morgan State Bears
+UIW Cardinals,Stephen F. Austin Lumberjacks
+Eastern Illinois Panthers,Austin Peay Governors
+Florida A&M Rattlers,Maryland Eastern Shore Hawks
+Butler Bulldogs,St. John's Red Storm
+Central Michigan Chippewas,Ball State Cardinals
+LIU Brooklyn Blackbirds,Fairleigh Dickinson Knights
+St. Bonaventure Bonnies,Dayton Flyers
+Chattanooga Mocs,Citadel Bulldogs
+USC Upstate Spartans,Winthrop Eagles
+North Alabama Lions,Stetson Hatters
+Kennesaw State Owls,FGCU Eagles
+Bethune-Cookman Wildcats,Delaware State Hornets
+North Carolina Central Eagles,Coppin State Eagles
+UNC Asheville Bulldogs,Radford Highlanders
+Texas State Bobcats,Arkansas State Red Wolves
+Washington Huskies,California Golden Bears
+Eastern Washington Eagles,Montana State Bobcats
+South Carolina State Bulldogs,Howard Bison
+Boise State Broncos,Fresno State Bulldogs
+Charleston Southern Buccaneers,Campbell Fighting Camels
+Central Arkansas Bears,Nicholls Colonels
+New Mexico Lobos,Wyoming Cowboys
+CSUN Matadors,UC Irvine Anteaters
+Prairie View A&M Panthers,Jackson State Tigers
+Alabama A&M Bulldogs,Alabama State Hornets
+Texas A&M-Corpus Christi Islanders,New Orleans Privateers
+Savannah State Tigers,Norfolk State Spartans
+Alcorn State Braves,Mississippi Valley State Delta Devils
+VCU Rams,Massachusetts Minutemen
+Morehead State Eagles,UT Martin Skyhawks
+Belmont Bruins,Tennessee State Tigers
+Southern University Jaguars,UAPB Golden Lions
+Abilene Christian Wildcats,Northwestern State Demons
+Delaware Fightin' Blue Hens,Towson Tigers
+Eastern Kentucky Colonels,Southeast Missouri State Redhawks
+George Mason Patriots,Fordham Rams
+Liberty Flames,North Florida Ospreys
+Rider Broncs,Manhattan Jaspers
+Milwaukee Panthers,IUPUI Jaguars
+Wofford Terriers,Furman Paladins
+Gardner-Webb Runnin' Bulldogs,Hampton Pirates
+UNLV Runnin' Rebels,San Jose State Spartans
+UC Davis Aggies,Cal Poly Mustangs
+Houston Baptist Huskies,Sam Houston State Bearkats
+Western Illinois Leathernecks,Purdue Fort Wayne Mastodons
+SIUE Cougars,Murray State Racers
+UC Riverside Highlanders,Hawaii Rainbow Warriors
+Jacksonville State Gamecocks,Tennessee Tech Golden Eagles
+Grand Canyon Antelopes,UMKC Kangaroos
+Saint Mary's Gaels,San Diego Toreros
+Utah State Aggies,Colorado State Rams
+Weber State Wildcats,Northern Colorado Bears
+Utah Valley Wolverines,New Mexico State Aggies
+Texas Southern Tigers,Grambling State Tigers
+Idaho Vandals,Montana Grizzlies
+Long Beach State 49ers,Cal State Fullerton Titans
+Pacific Tigers,Santa Clara Broncos
+Seattle Redhawks,UT Rio Grande Valley Vaqueros
+Bakersfield Roadrunners,Chicago State Cougars
+San Francisco Dons,BYU Cougars
+Monmouth Hawks,Iona Gaels
+Drake Bulldogs,Missouri State Bears
+George Washington Colonials,Duquesne Dukes
+Southern Illinois Salukis,Bradley Braves
+Denver Pioneers,Oral Roberts Golden Eagles
+Omaha Mavericks,South Dakota Coyotes
+Howard Bison,Harvard Crimson
+Fairleigh Dickinson Knights,Mount St. Mary's Mountaineers
+Winthrop Eagles,UNC Asheville Bulldogs
+LIU Brooklyn Blackbirds,St. Francis Brooklyn Terriers
+Central Connecticut State Blue Devils,Robert Morris Colonials
+Sacred Heart Pioneers,Wagner Seahawks
+USC Upstate Spartans,Presbyterian Blue Hose
+Bethune-Cookman Wildcats,Maryland Eastern Shore Hawks
+North Carolina Central Eagles,Morgan State Bears
+Florida A&M Rattlers,Delaware State Hornets
+Bryant Bulldogs,Saint Francis U Red Flash
+Boston University Terriers,American University Eagles
+Liberty Flames,North Alabama Lions
+Manhattan Jaspers,Marist Red Foxes
+North Florida Ospreys,NJIT Highlanders
+Prairie View A&M Panthers,Grambling State Tigers
+Texas Southern Tigers,Jackson State Tigers
+Longwood Lancers,Radford Highlanders
+FGCU Eagles,Stetson Hatters
+Lipscomb Bisons,Kennesaw State Owls
+North Carolina A&T Aggies,Coppin State Eagles
+South Carolina State Bulldogs,Norfolk State Spartans
+Alcorn State Braves,UAPB Golden Lions
+Southern University Jaguars,Mississippi Valley State Delta Devils
+Idaho State Bengals,Northern Colorado Bears
+Akron Zips,Central Michigan Chippewas
+Ball State Cardinals,Miami (OH) RedHawks
+Eastern Michigan Eagles,Bowling Green Falcons
+Kent State Golden Flashes,Toledo Rockets
+Ohio Bobcats,Western Michigan Broncos
+Niagara Purple Eagles,Saint Peter's Peacocks
+Air Force Falcons,Boise State Broncos
+UNLV Runnin' Rebels,New Mexico Lobos
+Fresno State Bulldogs,San Diego State Aztecs
+Boston University Terriers,American University Eagles
+Army West Point Black Knights,Holy Cross Crusaders
+Bradley Braves,Illinois State Redbirds
+Bucknell Bison,Loyola Maryland Greyhounds
+Colgate Raiders,Lafayette Leopards
+Davidson Wildcats,George Washington Colonials
+Dayton Flyers,George Mason Patriots
+Fordham Rams,La Salle Explorers
+Hartford Hawks,New Hampshire Wildcats
+Indiana State Sycamores,Valparaiso Crusaders
+Massachusetts Minutemen,St. Bonaventure Bonnies
+Navy Midshipmen,Lehigh Mountain Hawks
+Rhode Island Rams,VCU Rams
+Saint Joseph's Hawks,Richmond Spiders
+Vermont Catamounts,UMBC Retrievers
+Albany Great Danes,Stony Brook Seawolves
+Binghamton Bearcats,Massachusetts-Lowell River Hawks
+Northwestern State Demons,Sam Houston State Bearkats
+Stephen F. Austin Lumberjacks,Abilene Christian Wildcats
+Drake Bulldogs,Evansville Aces
+Duquesne Dukes,Saint Louis Billikens
+Houston Baptist Huskies,Southeastern Louisiana Lions
+Lamar Cardinals,UIW Cardinals
+Southern Illinois Salukis,UNI Panthers
+Texas A&M-Corpus Christi Islanders,Nicholls Colonels
+Central Arkansas Bears,New Orleans Privateers
+North Dakota Fighting Hawks,South Dakota Coyotes
+Missouri State Bears,Loyola Chicago Ramblers
+Wyoming Cowboys,San Jose State Spartans
+Cal Poly Mustangs,UC Riverside Highlanders
+CSUN Matadors,Long Beach State 49ers
+Hawaii Rainbow Warriors,UC Irvine Anteaters
+IUPUI Jaguars,Oakland Golden Grizzlies
+Campbell Fighting Camels,Presbyterian Blue Hose
+Canisius Golden Griffins,Monmouth Hawks
+Charleston Cougars,Elon Phoenix
+Fairleigh Dickinson Knights,St. Francis Brooklyn Terriers
+Fairfield Stags,Siena Saints
+Furman Paladins,Chattanooga Mocs
+Georgia Southern Eagles,UT Arlington Mavericks
+Georgia State Panthers,Texas State Bobcats
+James Madison Dukes,Hofstra Pride
+UMKC Kangaroos,Utah Valley Wolverines
+Mount St. Mary's Mountaineers,LIU Brooklyn Blackbirds
+UNCG Spartans,Citadel Bulldogs
+UNCW Seahawks,William & Mary Tribe
+North Florida Ospreys,Jacksonville Dolphins
+Radford Highlanders,Charleston Southern Buccaneers
+Robert Morris Colonials,Sacred Heart Pioneers
+Saint Francis U Red Flash,Wagner Seahawks
+Stetson Hatters,NJIT Highlanders
+Towson Tigers,Northeastern Huskies
+Winthrop Eagles,Gardner-Webb Runnin' Bulldogs
+Wofford Terriers,Samford Bulldogs
+Wright State Raiders,Milwaukee Panthers
+Hampton Pirates,USC Upstate Spartans
+Longwood Lancers,High Point Panthers
+North Alabama Lions,Kennesaw State Owls
+Northern Kentucky Norse,Green Bay Phoenix
+Bryant Bulldogs,Central Connecticut State Blue Devils
+Little Rock Trojans,Coastal Carolina Chanticleers
+Eastern Kentucky Colonels,Jacksonville State Gamecocks
+Mercer Bears,VMI Keydets
+Purdue Fort Wayne Mastodons,Omaha Mavericks
+Lipscomb Bisons,FGCU Eagles
+Morehead State Eagles,Tennessee Tech Golden Eagles
+Arkansas State Red Wolves,Appalachian State Mountaineers
+UIC Flames,Detroit Titans
+Louisiana-Monroe Warhawks,Troy Trojans
+Louisiana Ragin' Cajuns,South Alabama Jaguars
+South Dakota State Jackrabbits,North Dakota State Bison
+Chicago State Cougars,Seattle Redhawks
+UT Martin Skyhawks,Eastern Illinois Panthers
+Southeast Missouri State Redhawks,SIUE Cougars
+Austin Peay Governors,Tennessee State Tigers
+Montana Grizzlies,Idaho State Bengals
+Montana State Bobcats,Weber State Wildcats
+Murray State Racers,Belmont Bruins
+Northern Colorado Bears,Southern Utah Thunderbirds
+Cal State Fullerton Titans,UC Santa Barbara Gauchos
+San Diego Toreros,Loyola Marymount Lions
+San Francisco Dons,Portland Pilots
+California Baptist Lancers,Bakersfield Roadrunners
+Sacramento State Hornets,Idaho Vandals
+Portland State Vikings,Eastern Washington Eagles
+BYU Cougars,Saint Mary's Gaels
+Iona Gaels,Rider Broncs
+Marist Red Foxes,Quinnipiac Bobcats
+Yale Bulldogs,Brown Bears
+Loyola Maryland Greyhounds,Colgate Raiders
+Central Connecticut State Blue Devils,LIU Brooklyn Blackbirds
+Citadel Bulldogs,VMI Keydets
+Georgia State Panthers,UT Arlington Mavericks
+New Hampshire Wildcats,UMBC Retrievers
+IUPUI Jaguars,Detroit Titans
+Binghamton Bearcats,Maine Black Bears
+Delaware Fightin' Blue Hens,Drexel Dragons
+Duquesne Dukes,VCU Rams
+Fordham Rams,Dayton Flyers
+Harvard Crimson,Dartmouth Big Green
+Lafayette Leopards,Army West Point Black Knights
+Lehigh Mountain Hawks,Boston University Terriers
+Ohio Bobcats,Ball State Cardinals
+Saint Louis Billikens,Davidson Wildcats
+Towson Tigers,Hofstra Pride
+Western Michigan Broncos,Eastern Michigan Eagles
+Louisiana-Monroe Warhawks,South Alabama Jaguars
+Niagara Purple Eagles,Monmouth Hawks
+Albany Great Danes,Hartford Hawks
+Chicago State Cougars,Utah Valley Wolverines
+Holy Cross Crusaders,Navy Midshipmen
+Miami (OH) RedHawks,Bowling Green Falcons
+Morehead State Eagles,Jacksonville State Gamecocks
+American University Eagles,Bucknell Bison
+Little Rock Trojans,Appalachian State Mountaineers
+Boise State Broncos,Wyoming Cowboys
+Charleston Cougars,William & Mary Tribe
+Colorado State Rams,Fresno State Bulldogs
+Howard Bison,Delaware State Hornets
+James Madison Dukes,Northeastern Huskies
+Montana State Bobcats,Idaho State Bengals
+Morgan State Bears,Bethune-Cookman Wildcats
+UNCW Seahawks,Elon Phoenix
+New Mexico Lobos,Utah State Aggies
+Pacific Tigers,Portland Pilots
+Presbyterian Blue Hose,Winthrop Eagles
+Missouri State Bears,Bradley Braves
+UIW Cardinals,New Orleans Privateers
+Bryant Bulldogs,Fairleigh Dickinson Knights
+UIC Flames,Oakland Golden Grizzlies
+Northwestern State Demons,Southeastern Louisiana Lions
+Abilene Christian Wildcats,Central Arkansas Bears
+Furman Paladins,Samford Bulldogs
+South Dakota Coyotes,Western Illinois Leathernecks
+Coppin State Eagles,Florida A&M Rattlers
+North Carolina Central Eagles,North Carolina A&T Aggies
+UT Martin Skyhawks,SIUE Cougars
+USC Upstate Spartans,Longwood Lancers
+Austin Peay Governors,Belmont Bruins
+McNeese State Cowboys,Houston Baptist Huskies
+Akron Zips,Northern Illinois Huskies
+Arkansas State Red Wolves,Coastal Carolina Chanticleers
+Georgia Southern Eagles,Texas State Bobcats
+Mount St. Mary's Mountaineers,St. Francis Brooklyn Terriers
+UNCG Spartans,Mercer Bears
+Robert Morris Colonials,Wagner Seahawks
+South Dakota State Jackrabbits,Omaha Mavericks
+Charleston Southern Buccaneers,Gardner-Webb Runnin' Bulldogs
+Southeast Missouri State Redhawks,Eastern Illinois Panthers
+Mississippi Valley State Delta Devils,Prairie View A&M Panthers
+Grambling State Tigers,Jackson State Tigers
+Richmond Spiders,St. Bonaventure Bonnies
+Alabama State Hornets,Alcorn State Braves
+Savannah State Tigers,South Carolina State Bulldogs
+Norfolk State Spartans,Maryland Eastern Shore Hawks
+Sam Houston State Bearkats,Lamar Cardinals
+Hampton Pirates,Campbell Fighting Camels
+Cleveland State Vikings,Youngstown State Penguins
+Columbia Lions,Cornell Big Red
+Eastern Kentucky Colonels,Tennessee Tech Golden Eagles
+George Mason Patriots,George Washington Colonials
+UMKC Kangaroos,Seattle Redhawks
+Saint Joseph's Hawks,Penn Quakers
+Siena Saints,Manhattan Jaspers
+Saint Francis U Red Flash,Sacred Heart Pioneers
+Stony Brook Seawolves,Vermont Catamounts
+Toledo Rockets,Central Michigan Chippewas
+Western Carolina Catamounts,East Tennessee State Buccaneers
+Wofford Terriers,Chattanooga Mocs
+Wright State Raiders,Green Bay Phoenix
+Purdue Fort Wayne Mastodons,Denver Pioneers
+Alabama A&M Bulldogs,Southern University Jaguars
+High Point Panthers,UNC Asheville Bulldogs
+Northern Kentucky Norse,Milwaukee Panthers
+Murray State Racers,Tennessee State Tigers
+UNI Panthers,Evansville Aces
+Northern Arizona Lumberjacks,Northern Colorado Bears
+Oral Roberts Golden Eagles,North Dakota State Bison
+Pepperdine Waves,Saint Mary's Gaels
+San Diego State Aztecs,UNLV Runnin' Rebels
+Louisiana Ragin' Cajuns,Troy Trojans
+UT Rio Grande Valley Vaqueros,New Mexico State Aggies
+Valparaiso Crusaders,Drake Bulldogs
+UAPB Golden Lions,Texas Southern Tigers
+Montana Grizzlies,Weber State Wildcats
+San Jose State Spartans,Air Force Falcons
+Santa Clara Broncos,Loyola Marymount Lions
+UC Irvine Anteaters,UC Riverside Highlanders
+Cal Poly Mustangs,Cal State Fullerton Titans
+Long Beach State 49ers,UC Santa Barbara Gauchos
+San Diego Toreros,San Francisco Dons
+California Baptist Lancers,Grand Canyon Antelopes
+Sacramento State Hornets,Eastern Washington Eagles
+Portland State Vikings,Idaho Vandals
+Hawaii Rainbow Warriors,UC Davis Aggies
+Princeton Tigers,Wesley College Wolverines
+Fairfield Stags,Iona Gaels
+Illinois State Redbirds,Indiana State Sycamores
+Jacksonville Dolphins,Liberty Flames
+Massachusetts Minutemen,Rhode Island Rams
+Rider Broncs,Marist Red Foxes
+Quinnipiac Bobcats,Saint Peter's Peacocks
+Loyola Chicago Ramblers,Southern Illinois Salukis
+Stetson Hatters,Lipscomb Bisons
+NJIT Highlanders,North Alabama Lions
+FGCU Eagles,North Florida Ospreys
+Northern Arizona Lumberjacks,Southern Utah Thunderbirds
+Howard Bison,Maryland Eastern Shore Hawks
+Coppin State Eagles,Bethune-Cookman Wildcats
+Savannah State Tigers,North Carolina Central Eagles
+Alabama State Hornets,Southern University Jaguars
+UAPB Golden Lions,Prairie View A&M Panthers
+Mississippi Valley State Delta Devils,Texas Southern Tigers
+Alabama A&M Bulldogs,Alcorn State Braves
+Morgan State Bears,Florida A&M Rattlers
+Northern Illinois Huskies,Ohio Bobcats
+Central Michigan Chippewas,Eastern Michigan Eagles
+Liberty Flames,Lipscomb Bisons
+Miami (OH) RedHawks,Toledo Rockets
+Western Michigan Broncos,Kent State Golden Flashes
+Dayton Flyers,Saint Joseph's Hawks
+Valparaiso Crusaders,Missouri State Bears
+Colorado State Rams,Boise State Broncos
+Bakersfield Roadrunners,California-Santa Cruz Banana Slugs
+Boston University Terriers,Holy Cross Crusaders
+Bucknell Bison,Navy Midshipmen
+Colgate Raiders,Army West Point Black Knights
+Duquesne Dukes,Rhode Island Rams
+Evansville Aces,Bradley Braves
+George Washington Colonials,Fordham Rams
+Hartford Hawks,Binghamton Bearcats
+Jacksonville Dolphins,Stetson Hatters
+La Salle Explorers,Massachusetts Minutemen
+Loyola Chicago Ramblers,UNI Panthers
+Loyola Maryland Greyhounds,American University Eagles
+UMBC Retrievers,Stony Brook Seawolves
+UNC Asheville Bulldogs,USC Upstate Spartans
+New Hampshire Wildcats,Albany Great Danes
+Niagara Purple Eagles,Canisius Golden Griffins
+Radford Highlanders,Campbell Fighting Camels
+Saint Louis Billikens,Richmond Spiders
+Purdue Fort Wayne Mastodons,South Dakota Coyotes
+Gardner-Webb Runnin' Bulldogs,High Point Panthers
+NJIT Highlanders,FGCU Eagles
+Longwood Lancers,Hampton Pirates
+Kennesaw State Owls,North Florida Ospreys
+Massachusetts-Lowell River Hawks,Maine Black Bears
+Charleston Southern Buccaneers,Presbyterian Blue Hose
+Stephen F. Austin Lumberjacks,Central Arkansas Bears
+Abilene Christian Wildcats,Texas A&M-Corpus Christi Islanders
+Drake Bulldogs,Illinois State Redbirds
+New Orleans Privateers,Northwestern State Demons
+Nicholls Colonels,Lamar Cardinals
+Southeastern Louisiana Lions,Sam Houston State Bearkats
+UIW Cardinals,Houston Baptist Huskies
+Lafayette Leopards,Lehigh Mountain Hawks
+Southern Illinois Salukis,Indiana State Sycamores
+Utah State Aggies,San Jose State Spartans
+Wyoming Cowboys,Fresno State Bulldogs
+Utah Valley Wolverines,California Baptist Lancers
+Cal State Fullerton Titans,CSUN Matadors
+San Diego State Aztecs,Air Force Falcons
+Fairleigh Dickinson Knights,LIU Brooklyn Blackbirds
+Western Michigan Broncos,Kent State Golden Flashes
+Appalachian State Mountaineers,Louisiana Ragin' Cajuns
+Central Connecticut State Blue Devils,St. Francis Brooklyn Terriers
+Charleston Cougars,James Madison Dukes
+Coastal Carolina Chanticleers,Louisiana-Monroe Warhawks
+Citadel Bulldogs,Furman Paladins
+Detroit Titans,Cleveland State Vikings
+Elon Phoenix,Delaware Fightin' Blue Hens
+Manhattan Jaspers,Fairfield Stags
+Marist Red Foxes,Iona Gaels
+Mercer Bears,Wofford Terriers
+Monmouth Hawks,Siena Saints
+Mount St. Mary's Mountaineers,Sacred Heart Pioneers
+UNCG Spartans,VMI Keydets
+UNCW Seahawks,Towson Tigers
+Oakland Golden Grizzlies,Youngstown State Penguins
+Rider Broncs,Saint Peter's Peacocks
+Robert Morris Colonials,Saint Francis U Red Flash
+Tennessee Tech Golden Eagles,Austin Peay Governors
+Wagner Seahawks,Bryant Bulldogs
+William & Mary Tribe,Drexel Dragons
+Samford Bulldogs,East Tennessee State Buccaneers
+Belmont Bruins,Southeast Missouri State Redhawks
+Oral Roberts Golden Eagles,South Dakota State Jackrabbits
+Chattanooga Mocs,Western Carolina Catamounts
+UT Rio Grande Valley Vaqueros,Chicago State Cougars
+Western Illinois Leathernecks,North Dakota Fighting Hawks
+SIUE Cougars,Morehead State Eagles
+Jacksonville State Gamecocks,Murray State Racers
+Eastern Illinois Panthers,Eastern Kentucky Colonels
+Tennessee State Tigers,UT Martin Skyhawks
+New Mexico State Aggies,UMKC Kangaroos
+Weber State Wildcats,Portland State Vikings
+Idaho State Bengals,Sacramento State Hornets
+Portland Pilots,Pepperdine Waves
+UC Riverside Highlanders,Cal Poly Mustangs
+Loyola Marymount Lions,Pacific Tigers
+UC Santa Barbara Gauchos,UC Irvine Anteaters
+Hawaii Rainbow Warriors,Long Beach State 49ers
+Cornell Big Red,Penn Quakers
+Western Illinois Leathernecks,North Dakota Fighting Hawks
+Canisius Golden Griffins,Quinnipiac Bobcats
+Columbia Lions,Princeton Tigers
+Dartmouth Big Green,Brown Bears
+Harvard Crimson,Yale Bulldogs
+St. Bonaventure Bonnies,Davidson Wildcats
+IUPUI Jaguars,Northern Kentucky Norse
+Green Bay Phoenix,Milwaukee Panthers
+UIC Flames,Wright State Raiders
+Ball State Cardinals,Kent State Golden Flashes
+Eastern Michigan Eagles,Miami (OH) RedHawks
+Army West Point Black Knights,Lehigh Mountain Hawks
+Colgate Raiders,Boston University Terriers
+Citadel Bulldogs,Wofford Terriers
+Detroit Titans,Youngstown State Penguins
+Georgia State Panthers,Georgia Southern Eagles
+Iona Gaels,Siena Saints
+American University Eagles,Holy Cross Crusaders
+Appalachian State Mountaineers,Louisiana-Monroe Warhawks
+Bradley Braves,Southern Illinois Salukis
+Campbell Fighting Camels,Longwood Lancers
+Coastal Carolina Chanticleers,Louisiana Ragin' Cajuns
+Dayton Flyers,Duquesne Dukes
+Evansville Aces,Valparaiso Crusaders
+Indiana State Sycamores,Drake Bulldogs
+Lafayette Leopards,Bucknell Bison
+Monmouth Hawks,Rider Broncs
+Navy Midshipmen,Loyola Maryland Greyhounds
+Winthrop Eagles,Radford Highlanders
+Oakland Golden Grizzlies,Cleveland State Vikings
+Samford Bulldogs,Western Carolina Catamounts
+Gardner-Webb Runnin' Bulldogs,UNC Asheville Bulldogs
+Northern Illinois Huskies,Toledo Rockets
+Central Connecticut State Blue Devils,Bryant Bulldogs
+Ohio Bobcats,Akron Zips
+Sacred Heart Pioneers,St. Francis Brooklyn Terriers
+Air Force Falcons,Colorado State Rams
+Charleston Cougars,Towson Tigers
+Howard Bison,Norfolk State Spartans
+Maryland Eastern Shore Hawks,South Carolina State Bulldogs
+Mercer Bears,Furman Paladins
+Mount St. Mary's Mountaineers,Saint Francis U Red Flash
+Rhode Island Rams,Saint Louis Billikens
+Saint Mary's Gaels,San Francisco Dons
+Stetson Hatters,Kennesaw State Owls
+Wagner Seahawks,LIU Brooklyn Blackbirds
+William & Mary Tribe,Delaware Fightin' Blue Hens
+Coppin State Eagles,Morgan State Bears
+Eastern Illinois Panthers,Morehead State Eagles
+Central Michigan Chippewas,Western Michigan Broncos
+Fairleigh Dickinson Knights,Robert Morris Colonials
+Northeastern Huskies,Hofstra Pride
+Saint Joseph's Hawks,Massachusetts Minutemen
+Chattanooga Mocs,East Tennessee State Buccaneers
+Utah State Aggies,UNLV Runnin' Rebels
+USC Upstate Spartans,Charleston Southern Buccaneers
+Florida A&M Rattlers,North Carolina A&T Aggies
+McNeese State Cowboys,Lamar Cardinals
+Bethune-Cookman Wildcats,North Carolina Central Eagles
+Delaware State Hornets,Savannah State Tigers
+New Mexico State Aggies,Chicago State Cougars
+Southeastern Louisiana Lions,Nicholls Colonels
+Texas State Bobcats,UT Arlington Mavericks
+Lipscomb Bisons,North Alabama Lions
+Eastern Washington Eagles,Southern Utah Thunderbirds
+New Orleans Privateers,UIW Cardinals
+Massachusetts-Lowell River Hawks,Vermont Catamounts
+Jacksonville State Gamecocks,Austin Peay Governors
+Central Arkansas Bears,Northwestern State Demons
+Grambling State Tigers,UAPB Golden Lions
+Prairie View A&M Panthers,Alabama A&M Bulldogs
+Richmond Spiders,La Salle Explorers
+Alcorn State Braves,Southern University Jaguars
+Little Rock Trojans,Arkansas State Red Wolves
+VCU Rams,George Mason Patriots
+Jackson State Tigers,Mississippi Valley State Delta Devils
+Belmont Bruins,UT Martin Skyhawks
+South Alabama Jaguars,Troy Trojans
+Dartmouth Big Green,Yale Bulldogs
+Elon Phoenix,Drexel Dragons
+Harvard Crimson,Brown Bears
+Liberty Flames,NJIT Highlanders
+Manhattan Jaspers,Saint Peter's Peacocks
+Marist Red Foxes,Fairfield Stags
+UNCW Seahawks,James Madison Dukes
+Stony Brook Seawolves,Hartford Hawks
+High Point Panthers,Hampton Pirates
+Albany Great Danes,Binghamton Bearcats
+FGCU Eagles,Jacksonville Dolphins
+Cornell Big Red,Princeton Tigers
+Columbia Lions,Penn Quakers
+Houston Baptist Huskies,Texas A&M-Corpus Christi Islanders
+UNI Panthers,Missouri State Bears
+Oral Roberts Golden Eagles,Purdue Fort Wayne Mastodons
+UT Rio Grande Valley Vaqueros,UMKC Kangaroos
+Western Illinois Leathernecks,North Dakota State Bison
+SIUE Cougars,Eastern Kentucky Colonels
+Sam Houston State Bearkats,Stephen F. Austin Lumberjacks
+Tennessee State Tigers,Southeast Missouri State Redhawks
+Tennessee Tech Golden Eagles,Murray State Racers
+Texas Southern Tigers,Alabama State Hornets
+BYU Cougars,Loyola Marymount Lions
+Montana State Bobcats,Montana Grizzlies
+San Jose State Spartans,San Diego State Aztecs
+Santa Clara Broncos,Portland Pilots
+Weber State Wildcats,Sacramento State Hornets
+UC Riverside Highlanders,UC Davis Aggies
+Idaho State Bengals,Portland State Vikings
+Fresno State Bulldogs,New Mexico Lobos
+Idaho Vandals,Northern Arizona Lumberjacks
+Illinois State Redbirds,Loyola Chicago Ramblers
+Long Beach State 49ers,UC Irvine Anteaters
+CSUN Matadors,Cal Poly Mustangs
+Pacific Tigers,Pepperdine Waves
+Seattle Redhawks,California Baptist Lancers
+Bakersfield Roadrunners,Grand Canyon Antelopes
+Hawaii Rainbow Warriors,UC Santa Barbara Gauchos
+Maine Black Bears,New Hampshire Wildcats
+IUPUI Jaguars,Wright State Raiders
+Omaha Mavericks,North Dakota Fighting Hawks
+Niagara Purple Eagles,Quinnipiac Bobcats
+Denver Pioneers,South Dakota State Jackrabbits
+UIC Flames,Northern Kentucky Norse
+Canisius Golden Griffins,Marist Red Foxes
+Florida A&M Rattlers,North Carolina Central Eagles
+Lehigh Mountain Hawks,Colgate Raiders
+Siena Saints,Fairfield Stags
+Maryland Eastern Shore Hawks,Savannah State Tigers
+Bethune-Cookman Wildcats,North Carolina A&T Aggies
+Delaware State Hornets,South Carolina State Bulldogs
+Jackson State Tigers,UAPB Golden Lions
+Prairie View A&M Panthers,Alabama State Hornets
+Texas Southern Tigers,Alabama A&M Bulldogs
+Northern Colorado Bears,Montana State Bobcats
+Eastern Washington Eagles,Northern Arizona Lumberjacks
+Grambling State Tigers,Mississippi Valley State Delta Devils
+Idaho Vandals,Southern Utah Thunderbirds
+Kent State Golden Flashes,Miami (OH) RedHawks
+La Salle Explorers,Saint Joseph's Hawks
+Liberty Flames,Stetson Hatters
+Loyola Chicago Ramblers,Drake Bulldogs
+Manhattan Jaspers,Rider Broncs
+Toledo Rockets,Akron Zips
+Western Michigan Broncos,Bowling Green Falcons
+Illinois State Redbirds,Valparaiso Crusaders
+Northern Illinois Huskies,Ball State Cardinals
+Saint Louis Billikens,Dayton Flyers
+Fresno State Bulldogs,Utah State Aggies
+New Mexico Lobos,San Diego State Aztecs
+Boston University Terriers,Lafayette Leopards
+Davidson Wildcats,Rhode Island Rams
+George Washington Colonials,VCU Rams
+Indiana State Sycamores,Evansville Aces
+Jacksonville Dolphins,Kennesaw State Owls
+Loyola Maryland Greyhounds,Bucknell Bison
+Massachusetts Minutemen,Fordham Rams
+UMBC Retrievers,Hartford Hawks
+Navy Midshipmen,American University Eagles
+North Florida Ospreys,Lipscomb Bisons
+Richmond Spiders,George Mason Patriots
+Vermont Catamounts,Maine Black Bears
+Binghamton Bearcats,Stony Brook Seawolves
+FGCU Eagles,North Alabama Lions
+Massachusetts-Lowell River Hawks,New Hampshire Wildcats
+Holy Cross Crusaders,Army West Point Black Knights
+Duquesne Dukes,St. Bonaventure Bonnies
+Northwestern State Demons,New Orleans Privateers
+Sam Houston State Bearkats,McNeese State Cowboys
+Houston Baptist Huskies,Stephen F. Austin Lumberjacks
+Lamar Cardinals,Abilene Christian Wildcats
+Louisiana-Monroe Warhawks,Georgia State Panthers
+UNI Panthers,Bradley Braves
+Louisiana Ragin' Cajuns,Georgia Southern Eagles
+Missouri State Bears,Southern Illinois Salukis
+Texas A&M-Corpus Christi Islanders,Southeastern Louisiana Lions
+North Dakota Fighting Hawks,North Dakota State Bison
+Air Force Falcons,Wyoming Cowboys
+UC Irvine Anteaters,Cal State Fullerton Titans
+UC Santa Barbara Gauchos,CSUN Matadors
+Boise State Broncos,UNLV Runnin' Rebels
+Saint Francis U Red Flash,Central Connecticut State Blue Devils
+Sacred Heart Pioneers,Fairleigh Dickinson Knights
+Cleveland State Vikings,Green Bay Phoenix
+Delaware Fightin' Blue Hens,Charleston Cougars
+Drexel Dragons,UNCW Seahawks
+East Tennessee State Buccaneers,Wofford Terriers
+Hofstra Pride,Elon Phoenix
+LIU Brooklyn Blackbirds,Mount St. Mary's Mountaineers
+UNCG Spartans,Samford Bulldogs
+Northeastern Huskies,William & Mary Tribe
+Presbyterian Blue Hose,UNC Asheville Bulldogs
+Robert Morris Colonials,Bryant Bulldogs
+St. Francis Brooklyn Terriers,Wagner Seahawks
+Saint Peter's Peacocks,Monmouth Hawks
+Troy Trojans,Little Rock Trojans
+VMI Keydets,Chattanooga Mocs
+Wright State Raiders,Oakland Golden Grizzlies
+Youngstown State Penguins,Milwaukee Panthers
+Hampton Pirates,Radford Highlanders
+Purdue Fort Wayne Mastodons,Western Illinois Leathernecks
+High Point Panthers,Campbell Fighting Camels
+Longwood Lancers,Gardner-Webb Runnin' Bulldogs
+Northern Kentucky Norse,Detroit Titans
+Charleston Southern Buccaneers,Winthrop Eagles
+Eastern Kentucky Colonels,Belmont Bruins
+Western Carolina Catamounts,Furman Paladins
+Morehead State Eagles,Tennessee State Tigers
+Murray State Racers,Eastern Illinois Panthers
+Oral Roberts Golden Eagles,Denver Pioneers
+South Alabama Jaguars,Arkansas State Red Wolves
+Texas State Bobcats,Appalachian State Mountaineers
+UT Arlington Mavericks,Coastal Carolina Chanticleers
+South Dakota Coyotes,Omaha Mavericks
+Austin Peay Governors,SIUE Cougars
+Northern Arizona Lumberjacks,Idaho State Bengals
+Southern Utah Thunderbirds,Weber State Wildcats
+UT Martin Skyhawks,Jacksonville State Gamecocks
+Southeast Missouri State Redhawks,Tennessee Tech Golden Eagles
+Grand Canyon Antelopes,UT Rio Grande Valley Vaqueros
+Montana Grizzlies,Idaho Vandals
+Montana State Bobcats,Eastern Washington Eagles
+Northern Colorado Bears,Portland State Vikings
+Cal Poly Mustangs,UC Davis Aggies
+Long Beach State 49ers,Hawaii Rainbow Warriors
+Loyola Marymount Lions,San Diego Toreros
+Pepperdine Waves,Santa Clara Broncos
+California Baptist Lancers,Chicago State Cougars
+Bakersfield Roadrunners,New Mexico State Aggies
+Portland Pilots,BYU Cougars
+Saint Mary's Gaels,Pacific Tigers
