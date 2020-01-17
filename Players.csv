@@ -1,17 +1,17 @@
 PlayerName,PlayerTeam
-A.J. Banks,Wyoming Cowboys
-A.J. Caldwell,Chattanooga Mocs
-A.J. Lawson,McNeese State Cowboys
-A.J. Oliver II,Old Dominion Monarchs
-A.J. Reeves,Providence Friars
-A.J. Turner,Northwestern Wildcats
-A.J. Walker,Air Force Falcons
+AJ Banks,Wyoming Cowboys
+AJ Caldwell,Chattanooga Mocs
+AJ Lawson,McNeese State Cowboys
+AJ Oliver II,Old Dominion Monarchs
+AJ Reeves,Providence Friars
+AJ Turner,Northwestern Wildcats
+AJ Walker,Air Force Falcons
 Aamahne Santos,Jacksonville Dolphins
 Aamir Simms,Clemson Tigers
 Aanen Moody,North Dakota Fighting Hawks
 Aaron Carver,Old Dominion Monarchs
 Aaron Clarke,Sacred Heart Pioneers
-Aaron Cook Jr.,Southern Illinois Salukis
+Aaron Cook Jr,Southern Illinois Salukis
 Aaron Deloney,Vermont Catamounts
 Aaron Estrada,Saint Peter's Peacocks
 Aaron Falzon,Quinnipiac Bobcats
@@ -123,12 +123,12 @@ Alex King,Army West Point Black Knights
 Alex Lomax,Memphis Tigers
 Alex Morales,Wagner Seahawks
 Alex Nunnally,Bluefield State Big Blues
-Alex O'Connell,Duke Blue Devils
+Alex OConnell,Duke Blue Devils
 Alex Olesinski,UCLA Bruins
 Alex Pantelic,Flagler Saints
 Alex Reed,Citadel Bulldogs
 Alex Reese,Alabama Crimson Tide
-Alex Tabor Jr.,SMU Mustangs
+Alex Tabor Jr,SMU Mustangs
 Alex Vilarino,Boston University Terriers
 Alexander Gorton,Palm Beach Atlantic Sailfish
 Alexander Strating,Colorado Buffaloes
@@ -142,7 +142,7 @@ Alimamy Koroma,Cal Poly Mustangs
 Aljami Durham,Indiana Hoosiers
 Aljaz Kunc,Washington State Cougars
 Allan Jeanne-Rose,Fairfield Stags
-Allante' Pickens,Flagler Saints
+Allante Pickens,Flagler Saints
 Allen Betrand,Towson Tigers
 Allen Flanigan,Auburn Tigers
 Allen Powell,Rider Broncs
@@ -180,7 +180,7 @@ Anand Hundal,Seattle Redhawks
 Anderson McCoy,Delta State Statesmen
 Andre Adams,Southern Utah Thunderbirds
 Andre Arissol,Chaminade Silverswords
-Andre Charles Jr.,Houston Baptist Huskies
+Andre Charles Jr,Houston Baptist Huskies
 Andre Fox,South Alabama Jaguars
 Andre Gordon,Texas A&M Aggies
 Andre Gustavson,Richmond Spiders
@@ -222,7 +222,7 @@ Antavion Collum,Ole Miss Rebels
 Anthony Bratton,UT Rio Grande Valley Vaqueros
 Anthony Christian,Lindenwood Lions
 Anthony Cooper,Caldwell Cougars
-Anthony Cowan Jr.,Maryland Terrapins
+Anthony Cowan Jr,Maryland Terrapins
 Anthony Crump,Middle Tennessee Blue Raiders
 Anthony Davis Jr,UAPB Golden Lions
 Anthony Edwards,Georgia Bulldogs
@@ -249,7 +249,7 @@ Anto Keshgegian,Temple Owls
 Antoine Davis,Detroit Titans
 Antoine Vernon,Oregon State Beavers
 Anton Watson,Gonzaga Bulldogs
-"Antonio Daye, Jr.",FIU Panthers
+"Antonio Daye, Jr",FIU Panthers
 Antonio Gordon,Kansas State Wildcats
 Antonio Green,Middle Tennessee Blue Raiders
 Antonio Pilipovic,Drake Bulldogs
@@ -298,7 +298,7 @@ Atakan Sahinkaya,Troy Trojans
 Atem Bior,UTSA Roadrunners
 Atiba Taylor,Wagner Seahawks
 Aubrey Johnson,Oklahoma Christian Eagles
-Au'Diese Toney,Pittsburgh Panthers
+AuDiese Toney,Pittsburgh Panthers
 August Mahoney,Yale Bulldogs
 Augustine Ene,UIW Cardinals
 Aundre Hyatt,LSU Tigers
@@ -337,10 +337,10 @@ Ayo Dada,Bryant Bulldogs
 Ayo Dosunmu,Illinois Fighting Illini
 Ayoub Nouhi,UT Arlington Mavericks
 Azar Swain,Yale Bulldogs
-B. Artis White,Western Michigan Broncos
-B.J. Mack,South Florida Bulls
-B.J. Maxwell,Detroit Titans
-B.J. Shaw,UC Davis Aggies
+B Artis White,Western Michigan Broncos
+BJ Mack,South Florida Bulls
+BJ Maxwell,Detroit Titans
+BJ Shaw,UC Davis Aggies
 Babacar Thiombane,Idaho Vandals
 Babatunde Akingbola,Auburn Tigers
 Babatunde Sowunmi,Oakland Golden Grizzlies
@@ -351,11 +351,11 @@ Bam Bowman,Miami (OH) RedHawks
 Barret Benson,Southern Illinois Salukis
 Barron Nease,Maryville (TN) Fighting Scots
 Bas Leyte,UNCG Spartans
-Bassel Saliba Jr.,Fairleigh Dickinson Knights
+Bassel Saliba Jr,Fairleigh Dickinson Knights
 Bates Jones,Davidson Wildcats
 Baylee Steele,Duquesne Dukes
 Baylor Scheierman,South Dakota State Jackrabbits
-Ben Coupet Jr.,Little Rock Trojans
+Ben Coupet Jr,Little Rock Trojans
 Ben Drake,Presbyterian Blue Hose
 Ben Hendriks,Ball State Cardinals
 Ben Jordan,Kentucky Wildcats
@@ -377,7 +377,7 @@ Bentiu Panoam,North Dakota Fighting Hawks
 Bernardo da Silva,Hawaii Rainbow Warriors
 Bernie Andre,Northern Arizona Lumberjacks
 Bill Awet,Chaminade Silverswords
-Bill Muse Jr.,Southern Miss Golden Eagles
+Bill Muse Jr,Southern Miss Golden Eagles
 Bill Wampler,Wright State Raiders
 Billy Brown,North Dakota Fighting Hawks
 Bitumba Baruti,East Carolina Pirates
@@ -390,7 +390,7 @@ Blake Williams,Toledo Rockets
 Blondeau Tchoukuiengo,New Hampshire Wildcats
 Bo Hodges,East Tennessee State Buccaneers
 Boban Jacdonmi,Southern Miss Golden Eagles
-Bobby Arthur-Williams Jr.,Milwaukee Panthers
+Bobby Arthur-Williams Jr,Milwaukee Panthers
 Bobby Planutis,St. Bonaventure Bonnies
 Bodie Hume,Northern Colorado Bears
 Boe Nguidjol,Detroit Titans
@@ -438,7 +438,7 @@ Brandon Horvath,UMBC Retrievers
 Brandon Houston,Alabama A&M Bulldogs
 Brandon Huffman,North Carolina Tar Heels
 Brandon Jackson,SIUE Cougars
-Brandon Johns Jr.,Michigan Wolverines
+Brandon Johns Jr,Michigan Wolverines
 Brandon Johnson,Western Michigan Broncos
 Brandon Kamga,Cal State Fullerton Titans
 Brandon Key,South Dakota State Jackrabbits
@@ -450,7 +450,7 @@ Brandon Martin,USC Upstate Spartans
 Brandon McKissic,Kansas City Roos
 Brandon Meadows,Eastern New Mexico Greyhounds
 Brandon Miller,Alabama A&M Bulldogs
-Brandon Moore Jr.,Nicholls Colonels
+Brandon Moore Jr,Nicholls Colonels
 Brandon Morley,Utah Valley Wolverines
 Brandon Porter,Wyoming Cowboys
 Brandon Powell,Fairleigh Dickinson Knights
@@ -552,18 +552,18 @@ Buddy Boeheim,Syracuse Orange
 Byron Breland III,NJIT Highlanders
 Byron Frohnen,UTSA Roadrunners
 Byron Smith,Southeastern Louisiana Lions
-C.J. Baird,Michigan Wolverines
-C.J. Bobbitt,New Mexico State Aggies
-C.J. Brim,North Alabama Lions
-C.J. Bryce,North Carolina State Wolfpack
-C.J. Duff,Western Illinois Leathernecks
-C.J. Hyder,Fresno State Bulldogs
-C.J. Jones,Middle Tennessee Blue Raiders
-C.J. Jones (Northwestern State Demons),Northwestern State Demons
-C.J. Keyser,North Carolina Central Eagles
-C.J. Walker,Oregon Ducks
-C.J. Washington,Kennesaw State Owls
-C.J. Wilbourn,Milwaukee Panthers
+CJ Baird,Michigan Wolverines
+CJ Bobbitt,New Mexico State Aggies
+CJ Brim,North Alabama Lions
+CJ Bryce,North Carolina State Wolfpack
+CJ Duff,Western Illinois Leathernecks
+CJ Hyder,Fresno State Bulldogs
+CJ Jones,Middle Tennessee Blue Raiders
+CJ Jones (Northwestern State Demons),Northwestern State Demons
+CJ Keyser,North Carolina Central Eagles
+CJ Walker,Oregon Ducks
+CJ Washington,Kennesaw State Owls
+CJ Wilbourn,Milwaukee Panthers
 Cade Crosland,Tennessee Tech Golden Eagles
 Caden Sanchez,High Point Panthers
 Cainan McClelland,Jackson State Tigers
@@ -641,9 +641,9 @@ Carlo Marble,Chicago State Cougars
 Carlos Curry,Ole Miss Rebels
 Carlos Dotson,Western Carolina Catamounts
 Carlos Johnson,Grand Canyon Antelopes
-Carlos Marshall Jr.,Tennessee State Tigers
+Carlos Marshall Jr,Tennessee State Tigers
 Carlos Paez,Austin Peay Governors
-Carlton Bragg Jr.,New Mexico Lobos
+Carlton Bragg Jr,New Mexico Lobos
 Carrington McCaskill,Florida Atlantic Owls
 Carson Cary,Lipscomb Bisons
 Carson Newsome,Texas-Permian Basin Falcons
@@ -664,10 +664,10 @@ Cassius Stanley,Duke Blue Devils
 Cassius Winston,Michigan State Spartans
 Casson Rouse,Eastern Washington Eagles
 Ceasar DeJesus,UCF Knights
-Cedric Henderson Jr.,Campbell Fighting Camels
+Cedric Henderson Jr,Campbell Fighting Camels
 Cedric Jackson,Montevallo Falcons
 Cedric Russell,Louisiana Ragin' Cajuns
-Cedrick Alley Jr.,Houston Cougars
+Cedrick Alley Jr,Houston Cougars
 Chad Bowie,Sam Houston State Bearkats
 Chad Lott,South Alabama Jaguars
 Chance Anderson,Keiser Seahawks
@@ -684,10 +684,10 @@ Charles Bassey,Western Kentucky Hilltoppers
 Charles Bohannon,New Orleans Privateers
 Charles Coleman,East Carolina Pirates
 Charles Falden,Winthrop Eagles
-Charles Manning Jr.,LSU Tigers
+Charles Manning Jr,LSU Tigers
 Charles Minlend,San Francisco Dons
 Charles Norman,Troy Trojans
-Charles O'Bannon Jr.,USC Trojans
+Charles OBannon Jr,USC Trojans
 Charles Pride,Bryant Bulldogs
 Charles Smith IV,SMU Mustangs
 Charles Thompson,Towson Tigers
@@ -696,7 +696,7 @@ Charlie Bagin,Princeton Tigers
 Charlie Daniels,Stephen F. Austin Lumberjacks
 Charlie Easley,Nebraska Cornhuskers
 Charlie Moore,DePaul Blue Demons
-Charlie Russell Jr.,Tulane Green Wave
+Charlie Russell Jr,Tulane Green Wave
 Chase Adams,Portland Pilots
 Chase Barrs,Western Michigan Broncos
 Chase Claxton,Winthrop Eagles
@@ -717,7 +717,7 @@ Cheikh Mbacke Diong,UNLV Runnin' Rebels
 Chereef Knox,Saint Joseph's Hawks
 Chevez Goodwin,Wofford Terriers
 Chibueze Jacobs,Sacramento State Hornets
-Chico Carter Jr.,Murray State Racers
+Chico Carter Jr,Murray State Racers
 Chidozie Collin Nnamene,Mount St. Mary's Mountaineers
 Chier Maker,Idaho State Bengals
 Chol Marial,Maryland Terrapins
@@ -735,9 +735,9 @@ Chris Efretuei,Louisiana-Monroe Warhawks
 Chris Ford,Norfolk State Spartans
 Chris Freeman,UT Rio Grande Valley Vaqueros
 Chris Harris,Southeast Missouri State Redhawks
-Chris Harris Jr.,Oklahoma State Cowboys
-Chris Harris Jr. (Houston Cougars),Houston Cougars
-Chris Herren Jr.,Boston College Eagles
+Chris Harris Jr,Oklahoma State Cowboys
+Chris Harris Jr (Houston Cougars),Houston Cougars
+Chris Herren Jr,Boston College Eagles
 Chris James,Eastern Michigan Eagles
 Chris Joyce,Air Force Falcons
 Chris Knight,Dartmouth Big Green
@@ -811,8 +811,8 @@ Clay Weatherspoon,Southern Miss Golden Eagles
 Cletrell Pope,Bethune-Cookman Wildcats
 Cleveland Yates,Florida State Seminoles
 Clevon Brown,Vanderbilt Commodores
-Cle'von Greene,Radford Highlanders
-Cliff Thomas Jr.,High Point Panthers
+Clevon Greene,Radford Highlanders
+Cliff Thomas Jr,High Point Panthers
 Clyde Trapp,Clemson Tigers
 Cobe Williams,Louisiana Tech Bulldogs
 Cobie Barnes,Indiana State Sycamores
@@ -873,7 +873,7 @@ Coryon Mason,Abilene Christian Wildcats
 Coty Jude,UNC Asheville Bulldogs
 Courtese Cooper,LSU Tigers
 Courtland Cuevas,Wisconsin Badgers
-Courtney Brown Jr.,Milwaukee Panthers
+Courtney Brown Jr,Milwaukee Panthers
 Courtney Ramey,Texas Longhorns
 Craig Beaudion,Cleveland State Vikings
 Craig LeCesne,San Jose State Spartans
@@ -882,25 +882,25 @@ Cress Worthy,UNC Asheville Bulldogs
 Curran Scott,Clemson Tigers
 Curtis Cobb III,Wagner Seahawks
 Curtis Holland III,High Point Panthers
-Curtis Jones Jr.,Penn State Nittany Lions
+Curtis Jones Jr,Penn State Nittany Lions
 Cyriaque Foucart,Stetson Hatters
 Cyril Langevine,Rhode Island Rams
 Cyrus Barnes,Lindenwood Lions
 Cyrus Largie,FGCU Eagles
 Czar Perry,Bakersfield Roadrunners
-D.J. Burns,Winthrop Eagles
-D.J. Bustos,New Mexico Highlands Cowboys
-D.J. Carton,Ohio State Buckeyes
-D.J. Funderburk,North Carolina State Wolfpack
-D.J. Jeffries,Memphis Tigers
-D.J. Mitchell,Hartford Hawks
-D.J. Myers,Western Carolina Catamounts
-D.J. Robertson,Florida Atlantic Owls
-D.J. Stewart Jr.,Mississippi State Bulldogs
-D.J. Thorpe,California Golden Bears
-D.J. Walter,Oklahoma Christian Eagles
-D.J. Wilkins,Drake Bulldogs
-Dachon Burke Jr.,Nebraska Cornhuskers
+DJ Burns,Winthrop Eagles
+DJ Bustos,New Mexico Highlands Cowboys
+DJ Carton,Ohio State Buckeyes
+DJ Funderburk,North Carolina State Wolfpack
+DJ Jeffries,Memphis Tigers
+DJ Mitchell,Hartford Hawks
+DJ Myers,Western Carolina Catamounts
+DJ Robertson,Florida Atlantic Owls
+DJ Stewart Jr,Mississippi State Bulldogs
+DJ Thorpe,California Golden Bears
+DJ Walter,Oklahoma Christian Eagles
+DJ Wilkins,Drake Bulldogs
+Dachon Burke Jr,Nebraska Cornhuskers
 Dadou Traore,Louisiana-Monroe Warhawks
 Dae Dae Grant,Miami (OH) RedHawks
 Daejon Davis,Stanford Cardinal
@@ -938,18 +938,18 @@ Damion Squire,UC Davis Aggies
 Damir Hadzic,Flagler Saints
 Damiree Burns,Southern University Jaguars
 Damon Wilson,Georgia State Panthers
-Da'Monte Williams,Illinois Fighting Illini
+DaMonte Williams,Illinois Fighting Illini
 Dan Fotu,Saint Mary's Gaels
 Dan Friday,Brown Bears
 Dan Henry,Saint Francis U Red Flash
 Dan Petcash,Binghamton Bearcats
 Dan Sheets,Saint Mary's Gaels
 Dana Tate,Rhode Island Rams
-D'Andre Bernard,Louisiana-Monroe Warhawks
+DAndre Bernard,Louisiana-Monroe Warhawks
 Dane Goodwin,Notre Dame Fighting Irish
 Dane Quest,Tennessee Tech Golden Eagles
-D'angelo Fields,Saint Katherine College Firebirds
-D'Angelo Hunter,Nicholls Colonels
+Dangelo Fields,Saint Katherine College Firebirds
+DAngelo Hunter,Nicholls Colonels
 Daniel Akin,UMBC Retrievers
 Daniel Banister,Hampton Pirates
 Daniel Giddens,Vermont Catamounts
@@ -972,7 +972,7 @@ Danny Dixon,North Carolina State Wolfpack
 Danny Hummer,Ohio State Buckeyes
 Danny Lewis,Kennesaw State Owls
 Danny Pippen,Kent State Golden Flashes
-Dantai St. Louis,Canisius Golden Griffins
+Dantai St Louis,Canisius Golden Griffins
 Dante Treacy,Robert Morris Colonials
 Dante Wilcox,FIU Panthers
 Dantez Walton,Northern Kentucky Norse
@@ -985,7 +985,7 @@ Darian Adams,Troy Trojans
 Darian Pierce,Texas Wesleyan Rams
 Darian Scott,Missouri State Bears
 Darien Jackson,Tulsa Golden Hurricane
-Darin Green Jr.,UCF Knights
+Darin Green Jr,UCF Knights
 Darin Minniefield,Our Lady of the Lake Saints
 Dario Milojevic,Mississippi Valley State Delta Devils
 Darion Jordan-Thomas,Wagner Seahawks
@@ -1013,15 +1013,15 @@ Darnell Rogers,UMBC Retrievers
 Daron Henson,Washington State Cougars
 Darrell Brown,Bradley Braves
 Darrian Wilson,Jackson State Tigers
-Darrin Person Jr.,Bakersfield Roadrunners
+Darrin Person Jr,Bakersfield Roadrunners
 Darrious Agnew,Southeast Missouri State Redhawks
 Darrius Hughes,Omaha Mavericks
 Darryl Morsell,Maryland Terrapins
-Darryl Polk Jr.,Pepperdine Waves
+Darryl Polk Jr,Pepperdine Waves
 Darus Maddox,North Carolina A&T Aggies
 Daryl Banks III,Saint Peter's Peacocks
 Daryl Edwards,UTEP Miners
-Da'Shawn Phillip,Maryland Eastern Shore Hawks
+DaShawn Phillip,Maryland Eastern Shore Hawks
 Datavian Porter,Tougaloo Bulldogs
 David Appelgren,Wofford Terriers
 David Azore,UT Arlington Mavericks
@@ -1046,7 +1046,7 @@ David McCormack,Kansas Jayhawks
 David McCoy,Southern Miss Golden Eagles
 David Mitchell,Brown Bears
 David Muoka,Lamar Cardinals
-David N'Diaye,Southern Utah Thunderbirds
+David NDiaye,Southern Utah Thunderbirds
 David Nickelberry,Buffalo Bulls
 David Nzekwesi,Denver Pioneers
 David Roddy,Colorado State Rams
@@ -1055,11 +1055,11 @@ David Shepard,Texas Wesleyan Rams
 David Simmons,Campbellsville Tigers
 David Singleton,UCLA Bruins
 David Sloan,Kansas State Wildcats
-David Syfax Jr.,Morgan State Bears
+David Syfax Jr,Morgan State Bears
 David Thompson,Santa Clara Broncos
 David Wingett,South Dakota State Jackrabbits
 Davide Moretti,Texas Tech Red Raiders
-David-Lee Jones Jr.,Georgia Southern Eagles
+David-Lee Jones Jr,Georgia Southern Eagles
 Davids Atelbauers,North Dakota Fighting Hawks
 Davin Zeigler,Bowling Green Falcons
 Davion Buster,Lamar Cardinals
@@ -1086,7 +1086,7 @@ Deante Johnson,Cleveland State Vikings
 DeAnthony McCallum,Jacksonville Dolphins
 DeAntoni Gordon,Wichita State Shockers
 Dearon Tucker,Oregon State Beavers
-De'Avion Washington,Indiana State Sycamores
+DeAvion Washington,Indiana State Sycamores
 Decardo Day,Alabama State Hornets
 Dedrian Parmer,Oklahoma Christian Eagles
 Dedric Boyd,Illinois State Redbirds
@@ -1096,7 +1096,7 @@ Deion Hammond,Monmouth Hawks
 Deion James,Washington State Cougars
 Deivydas Kuzavas,Saint Francis U Red Flash
 Dejan Vasiljevic,Miami (FL) Hurricanes
-De'jon Davis,California Baptist Lancers
+Dejon Davis,California Baptist Lancers
 DeJon Jarreau,Houston Cougars
 Dejuan Clayton,Coppin State Eagles
 Dekedran Thorn,Alcorn State Braves
@@ -1108,7 +1108,7 @@ Demetrice Clopton,William Carey Crusaders
 Demi Adelekun,Dartmouth Big Green
 DeMierre Black,Purdue Fort Wayne Mastodons
 Demond Robinson,Murray State Racers
-De'Monte Buckingham,Bakersfield Roadrunners
+DeMonte Buckingham,Bakersfield Roadrunners
 Deng Gak,Miami (FL) Hurricanes
 Deng Geu,North Texas Mean Green
 Deng James Bol Yol,Wayland Baptist Pioneers
@@ -1122,20 +1122,20 @@ Denzel Mahoney,Creighton Bluejays
 Deon Ejim,UIC Flames
 Deon Stroud,UTEP Miners
 Deondre Burns,Oral Roberts Golden Eagles
-De'Ondre Jackson,Palm Beach Atlantic Sailfish
+DeOndre Jackson,Palm Beach Atlantic Sailfish
 Deontaye Buskey,Charleston Southern Buccaneers
 Deonte Billups,Purdue Fort Wayne Mastodons
 Deovaunta Williams,Loyola Marymount Lions
 Dequan Morris,UAPB Golden Lions
-Derek Ballard Jr.,Eastern Michigan Eagles
+Derek Ballard Jr,Eastern Michigan Eagles
 Derek Culver,West Virginia Mountaineers
-"Derek Hawthorne, Jr.",UT Martin Skyhawks
-Derek St. Hilaire,Jacksonville State Gamecocks
+"Derek Hawthorne, Jr",UT Martin Skyhawks
+Derek St Hilaire,Jacksonville State Gamecocks
 Derek Van Vlerah,UIW Cardinals
-De'Riante Jenkins,VCU Rams
-De'Ron Davis,Indiana Hoosiers
+DeRiante Jenkins,VCU Rams
+DeRon Davis,Indiana Hoosiers
 Derric Jean,Louisiana Tech Bulldogs
-Derrick Alston Jr.,Boise State Broncos
+Derrick Alston Jr,Boise State Broncos
 Derrick Carter-Hollinger,Montana Grizzlies
 Derrick Cook,Jacksonville State Gamecocks
 Derrick Ellis,Flagler Saints
@@ -1146,7 +1146,7 @@ Derrik Smits,Butler Bulldogs
 Derryck Thornton,Boston College Eagles
 Des Balentine,UIW Cardinals
 Deschon Winston,Central Michigan Chippewas
-De'Sean Allen-Eikens,North Dakota Fighting Hawks
+DeSean Allen-Eikens,North Dakota Fighting Hawks
 Desean Enzor,Thomas University Night Hawks
 Deshaw Andrews,Alcorn State Braves
 DeShawn Davidson,Texas State Bobcats
@@ -1157,8 +1157,8 @@ Desmond Carpenter,New Mexico Highlands Cowboys
 Desmond Freeman,Bluefield State Big Blues
 Destin Barnes,Jacksonville Dolphins
 Desure Buie,Hofstra Pride
-De'Torrion Ware,Jacksonville State Gamecocks
-De'Undra Singleton,Campbellsville Tigers
+DeTorrion Ware,Jacksonville State Gamecocks
+DeUndra Singleton,Campbellsville Tigers
 Devan Cambridge,Auburn Tigers
 Devante Carter,Norfolk State Spartans
 DeVante Jackson,Grambling State Tigers
@@ -1179,19 +1179,19 @@ Devin Morgan,Youngstown State Penguins
 Devin Pullum,Eastern New Mexico Greyhounds
 Devin Vassell,Florida State Seminoles
 Devine Eke,Radford Highlanders
-De'Vion Harmon,Oklahoma Sooners
+DeVion Harmon,Oklahoma Sooners
 Devlon Noble,Wiley Wildcats
 Devon Andrews,FIU Panthers
 DeVon Baker,UNC Asheville Bulldogs
 Devon Brewer,Alcorn State Braves
-De'Von Cooper,Morehead State Eagles
+DeVon Cooper,Morehead State Eagles
 Devon Daniels,North Carolina State Wolfpack
 Devon Dotson,Kansas Jayhawks
 Devon Dunn,Fairleigh Dickinson Knights
 Devon Flowers,James Madison Dukes
 Devon Goodman,Penn Quakers
 Devonaire Doutrive,Arizona Wildcats
-De'Vondre Perry,Temple Owls
+DeVondre Perry,Temple Owls
 Devonnte Holland,Radford Highlanders
 Devontae Lane,Central Michigan Chippewas
 Devontae Shuler,Ole Miss Rebels
@@ -1227,9 +1227,9 @@ DJ Russell,Robert Morris Colonials
 Djery Baptiste,Massachusetts Minutemen
 Djimon Henson,Morehead State Eagles
 Djordje Dimitrijevic,Mercer Bears
-D'Mauria Jones,Oral Roberts Golden Eagles
-D'Michael Stribling,Tougaloo Bulldogs
-D'Mitrik Trice,Wisconsin Badgers
+DMauria Jones,Oral Roberts Golden Eagles
+DMichael Stribling,Tougaloo Bulldogs
+DMitrik Trice,Wisconsin Badgers
 Dominic Brewton,Alcorn State Braves
 Dominic Johnson,Buffalo Bulls
 Dominic Laravie,Chicago Maroons
@@ -1244,7 +1244,7 @@ Donavan Moore,Toledo Rockets
 Dondre Duffus,Eastern Illinois Panthers
 Dondre Griffin,Hampton Pirates
 Donel Cathcart III,Youngstown State Penguins
-Donnell Gresham Jr.,Georgia Bulldogs
+Donnell Gresham Jr,Georgia Bulldogs
 Donnie Malone,Tennessee State Tigers
 Donnie Tillman,UNLV Runnin' Rebels
 Donovan Clay,Valparaiso Crusaders
@@ -1268,7 +1268,7 @@ DQ Nicholas,Southeast Missouri State Redhawks
 Dragan Elkaz,UC Riverside Highlanders
 Drake London,USC Trojans
 Drayton Whiteside,Texas Longhorns
-Dre Fuller Jr.,UCF Knights
+Dre Fuller Jr,UCF Knights
 Dre Marin,Southern Utah Thunderbirds
 Drew Buggs,Hawaii Rainbow Warriors
 Drew Cobb,Long Beach State Beach
@@ -1283,15 +1283,15 @@ Drew Timme,Gonzaga Bulldogs
 Drew Weikert,Vanderbilt Commodores
 Dru Kuxhausen,McNeese State Cowboys
 Dru Smith,Missouri Tigers
-D'Shawn Schwartz,Colorado Buffaloes
-Duane Washington Jr.,Ohio State Buckeyes
+DShawn Schwartz,Colorado Buffaloes
+Duane Washington Jr,Ohio State Buckeyes
 Duncan Demuth,Vermont Catamounts
 Duncan LeXander,Charleston Southern Buccaneers
 Dwayne Cohill,Dayton Flyers
 Dwayne Morgan,Southern Utah Thunderbirds
-Dwayne Rose Jr.,Detroit Titans
+Dwayne Rose Jr,Detroit Titans
 Dwayne Sutton,Louisville Cardinals
-Dwight Murray Jr.,UIW Cardinals
+Dwight Murray Jr,UIW Cardinals
 Dwight Wilson,James Madison Dukes
 Dylan Alderson,Toledo Rockets
 Dylan Carl,Purdue Fort Wayne Mastodons
@@ -1302,10 +1302,10 @@ Dylan Smith,Arizona Wildcats
 Dylan Swingle,Bowling Green Falcons
 Dylan van Eyck,Iona Gaels
 Dzmitry Ryuny,San Francisco Dons
-E.J. Anosike,Sacred Heart Pioneers
-E.J. Crawford,Iona Gaels
-E.J. Liddell,Ohio State Buckeyes
-E.J. Stephens,Lafayette Leopards
+EJ Anosike,Sacred Heart Pioneers
+EJ Crawford,Iona Gaels
+EJ Liddell,Ohio State Buckeyes
+EJ Stephens,Lafayette Leopards
 Ebby Asamoah,Delaware Fightin' Blue Hens
 Ebrima Dibba,Coastal Carolina Chanticleers
 Ed Croswell,La Salle Explorers
@@ -1320,7 +1320,7 @@ Eddy Kayouloud,Central Arkansas Bears
 Eden Ewing,Texas Southern Tigers
 Edgars Kaufmanis,Texas A&M-Corpus Christi Islanders
 Edra Luster,East Carolina Pirates
-Edric Dennis Jr.,TCU Horned Frogs
+Edric Dennis Jr,TCU Horned Frogs
 Edrick Alsworth,Alcorn State Braves
 Eduardo Lane,San Jose State Spartans
 Edward Oliver-Hampton,Hampton Pirates
@@ -1368,7 +1368,7 @@ Elijah Thomas,Saint Mary's Gaels
 Elijah Weaver,USC Trojans
 Ellis Jefferson,Lamar Cardinals
 Ellis Magnuson,Eastern Washington Eagles
-Elvis Harvey Jr.,Nicholls Colonels
+Elvis Harvey Jr,Nicholls Colonels
 Elyjah Goss,IUPUI Jaguars
 Elyjah Williams,Fairleigh Dickinson Knights
 Eman Sertovic,UT Martin Skyhawks
@@ -1387,15 +1387,15 @@ Emmanuel Nzekwesi,Oral Roberts Golden Eagles
 Emmanuel Olojakpoke,Utah Valley Wolverines
 Emmanuel Ugboh,Tulsa Golden Hurricane
 Emmitt Holt,Providence Friars
-Emmitt Matthews Jr.,West Virginia Mountaineers
+Emmitt Matthews Jr,West Virginia Mountaineers
 Emmitt Williams,LSU Tigers
 Eric Ayala,Maryland Terrapins
 Eric Beckett,Vermont Catamounts
-Eric Coleman Jr.,High Point Panthers
+Eric Coleman Jr,High Point Panthers
 Eric Graham,Columbia International Rams
 Eric Hamilton,Pittsburgh Panthers
-Eric Hunter Jr.,Purdue Boilermakers
-Eric Jamison Jr.,Gardner-Webb Runnin' Bulldogs
+Eric Hunter Jr,Purdue Boilermakers
+Eric Jamison Jr,Gardner-Webb Runnin' Bulldogs
 Eric Johnson Alford,Caldwell Cougars
 Eric Lovett,FIU Panthers
 Eric McGill,Southern Illinois Salukis
@@ -1450,14 +1450,14 @@ Ezekiel Balogun,North Florida Ospreys
 Ezekiel Richards,Santa Clara Broncos
 Ezra Manjon,UC Davis Aggies
 Ezra Swell,Chicago Maroons
-Fabian White Jr.,Houston Cougars
+Fabian White Jr,Houston Cougars
 Faite Williams,Prairie View A&M Panthers
 Fatts Russell,Rhode Island Rams
 Federico Poser,Elon Phoenix
 Felix Uadiale,Maryville (TN) Fighting Scots
 Fermandez Jones,Texas-Permian Basin Falcons
 Feron Hunt,SMU Mustangs
-Ferron Flavors Jr.,California Baptist Lancers
+Ferron Flavors Jr,California Baptist Lancers
 Festus Ndumanya,CSUN Matadors
 Filip Petrusev,Gonzaga Bulldogs
 Filip Rebraca,North Dakota Fighting Hawks
@@ -1468,7 +1468,7 @@ Fletcher Abee,Citadel Bulldogs
 Fletcher Tynen,Boston University Terriers
 Flo Thamba,Baylor Bears
 Flynn Cameron,DePaul Blue Demons
-Ford Cooper Jr.,Missouri State Bears
+Ford Cooper Jr,Missouri State Bears
 Foster Loyer,Michigan State Spartans
 Fousseyni Drame,Saint Peter's Peacocks
 Francis Lacis,Oral Roberts Golden Eagles
@@ -1476,18 +1476,18 @@ Francis Okoro,Oregon Ducks
 Francisco Caffaro,Virginia Cavaliers
 Francisco Farabello,TCU Horned Frogs
 Franck Kamgain,Kansas City Roos
-Franco Miller Jr.,Ole Miss Rebels
+Franco Miller Jr,Ole Miss Rebels
 Frank Bertz,UCF Knights
 Frank Ryder,Colorado Buffaloes
 Frankie Gutierrez,San Diego Christian Hawks
 Franklin Agunanne,Loyola Chicago Ramblers
-Franklyn Penn Jr.,Cleveland State Vikings
+Franklyn Penn Jr,Cleveland State Vikings
 Franz Wagner,Michigan Wolverines
-Fred Cleveland Jr.,North Carolina A&T Aggies
-Fred Thatch Jr.,Saint Louis Billikens
+Fred Cleveland Jr,North Carolina A&T Aggies
+Fred Thatch Jr,Saint Louis Billikens
 Freddie Gillespie,Baylor Bears
 Freddie Ricks,St. Thomas (TX) Celts
-Freddy Reeves Jr.,Florida Memorial Lions
+Freddy Reeves Jr,Florida Memorial Lions
 Frederick Scott,Rider Broncs
 Gabe Brown,Michigan State Spartans
 Gabe Grant,Buffalo Bulls
@@ -1516,7 +1516,7 @@ Garrett Sturtz,Drake Bulldogs
 Garrick Green,Coastal Carolina Chanticleers
 Garrison Brooks,North Carolina Tar Heels
 Garrison Wade,Dartmouth Big Green
-"Gary Harris, Jr.",Siena Saints
+"Gary Harris, Jr",Siena Saints
 Gatdoar Kueth,Northwestern State Demons
 Gavin Antoine,Keiser Seahawks
 Gavin Bizeau,Toledo Rockets
@@ -1533,7 +1533,7 @@ George Papas,Monmouth Hawks
 George Tinsley,Binghamton Bearcats
 George Willborn III,UC Riverside Highlanders
 Georgie Pacheco-Ortiz,Liberty Flames
-Gerald Drumgoole Jr.,Pittsburgh Panthers
+Gerald Drumgoole Jr,Pittsburgh Panthers
 Gerald Liddell,Texas Longhorns
 Gerard Andrus,Prairie View A&M Panthers
 Germele Florent,Keiser Seahawks
@@ -1585,7 +1585,7 @@ Greg Purnell,Bluefield State Big Blues
 Greg Smith,Saint Joseph's Hawks
 Greg Summers,Navy Midshipmen
 Greg Tribble,Akron Zips
-Greg Williams Jr.,St. John's Red Storm
+Greg Williams Jr,St. John's Red Storm
 Gregory Hammond,Rhode Island Rams
 Guglielmo Caruso,Santa Clara Broncos
 Haanif Cheatham,Nebraska Cornhuskers
@@ -1741,16 +1741,16 @@ Ivan Raut,Fordham Rams
 Ivan Smith,Montevallo Falcons
 Ivan Tomic,Thomas University Night Hawks
 Iverson Molinar,Mississippi State Bulldogs
-Ivy Smith Jr.,Grambling State Tigers
+Ivy Smith Jr,Grambling State Tigers
 Izaiah Brockington,Penn State Nittany Lions
-Izayah Mauriohooho-Le'afa,Sacramento State Hornets
+Izayah Mauriohooho-Leafa,Sacramento State Hornets
 Iziah James,SIUE Cougars
-J.J. Culver,Wayland Baptist Pioneers
-J.J. Matthews,Arkansas State Red Wolves
-J.J. Miles,East Carolina Pirates
-J.J. Rhymes,Grand Canyon Antelopes
-J.P. Moorman II,Temple Owls
-J.P. Robinson,Samford Bulldogs
+JJ Culver,Wayland Baptist Pioneers
+JJ Matthews,Arkansas State Red Wolves
+JJ Miles,East Carolina Pirates
+JJ Rhymes,Grand Canyon Antelopes
+JP Moorman II,Temple Owls
+JP Robinson,Samford Bulldogs
 Jaalam Hill,Cleveland State Vikings
 Jabari Narcis,UT Arlington Mavericks
 Jabari Rice,New Mexico State Aggies
@@ -1794,10 +1794,10 @@ Jacob Young,Rutgers Scarlet Knights
 Jacobi Gordon,California Golden Bears
 Jacoby Ross,Alabama State Hornets
 JaColby Pemberton,Louisiana Tech Bulldogs
-Ja'Cor Nelson,Campbell Fighting Camels
+JaCor Nelson,Campbell Fighting Camels
 JacQuess Hobbs,Eastern Kentucky Colonels
-Ja'Darius Harris,UT Martin Skyhawks
-Jade' Smith,Pepperdine Waves
+JaDarius Harris,UT Martin Skyhawks
+Jade Smith,Pepperdine Waves
 Jaden Bediako,Santa Clara Broncos
 Jaden McDaniels,Washington Huskies
 Jaden Robinson,Georgetown Hoyas
@@ -1819,13 +1819,13 @@ Jahmari Etienne,South Carolina State Bulldogs
 Jahmel Myers,New Orleans Privateers
 Jahmiah Simmons,North Texas Mean Green
 Jahmir Young,Charlotte 49ers
-Jahmi'us Ramsey,Texas Tech Red Raiders
+Jahmius Ramsey,Texas Tech Red Raiders
 Jahshire Hardnett,Kansas City Roos
 Jahvon Blair,Georgetown Hoyas
 Jaiden Delaire,Stanford Cardinal
 Jailyn Ingram,Florida Atlantic Owls
 Jaime Echenique,Wichita State Shockers
-Jaime Jaquez Jr.,UCLA Bruins
+Jaime Jaquez Jr,UCLA Bruins
 Jair Bolden,South Carolina Gamecocks
 Jaire Grayer,TCU Horned Frogs
 Jairus Hamilton,Boston College Eagles
@@ -1878,7 +1878,7 @@ Jalen Jackson,North Texas Mean Green
 Jalen Jefferson,Mount St. Mary's Mountaineers
 Jalen Johnson,Tennessee Volunteers
 Jalen Johnson (Alabama A&M Bulldogs),Alabama A&M Bulldogs
-Jalen Johnson (Louisiana Ragin' Cajuns),Louisiana Ragin' Cajuns
+Jalen Johnson (Louisiana Ragin Cajuns),Louisiana Ragin' Cajuns
 Jalen King,Eastern Michigan Eagles
 Jalen Newsom,Lindenwood Lions
 Jalen Pickett,Siena Saints
@@ -1910,7 +1910,7 @@ Jamal King,Winthrop Eagles
 Jamal Smith,Cal Poly Mustangs
 Jamal Wright,High Point Panthers
 Jamar Brown,Morgan State Bears
-Ja'Mare Redus,Texas Southern Tigers
+JaMare Redus,Texas Southern Tigers
 Jamaree Bouyea,San Francisco Dons
 Jamari Blackmon,North Alabama Lions
 Jamari Wheeler,Penn State Nittany Lions
@@ -1918,7 +1918,7 @@ JaMario Harris,San Diego Christian Hawks
 Jamarius Burton,Wichita State Shockers
 Jamaure Gregg,Northwestern State Demons
 Jameel Alausa,Yale Bulldogs
-Jameer Nelson Jr.,George Washington Colonials
+Jameer Nelson Jr,George Washington Colonials
 James Akinjo,Georgetown Hoyas
 James Ametepe,FIU Panthers
 James Anderson II,North Alabama Lions
@@ -1947,8 +1947,8 @@ James Towns,Niagara Purple Eagles
 James Wiseman,Memphis Tigers
 Jamie Ahale,UIC Flames
 Jamie Lewis,Kennesaw State Owls
-Ja'Mier Fletcher,Wagner Seahawks
-Jamil Jackson Jr.,IUPUI Jaguars
+JaMier Fletcher,Wagner Seahawks
+Jamil Jackson Jr,IUPUI Jaguars
 Jamil Wilson,UAPB Golden Lions
 Jamir Chaplin,South Florida Bulls
 Jamir Cheek,Wiley Wildcats
@@ -1959,7 +1959,7 @@ Jamir Williams,Florida A&M Rattlers
 Jamison Battle,George Washington Colonials
 Jamison Overton,Utah Valley Wolverines
 Jamon Battle,UNC Asheville Bulldogs
-Ja'Monta Black,Missouri State Bears
+JaMonta Black,Missouri State Bears
 Jamorko Pickett,Georgetown Hoyas
 Jan Zidek,Pepperdine Waves
 Jannson Williams,Marshall Thundering Herd
@@ -1986,7 +1986,7 @@ Jared Sherfield,Tennessee Tech Golden Eagles
 Jared Strate,Saint Katherine College Firebirds
 Jared Stutzman,Idaho State Bengals
 Jared Wulbrun,Purdue Boilermakers
-Jare'l Spellman,Sacred Heart Pioneers
+Jarel Spellman,Sacred Heart Pioneers
 Jaren English,St. Bonaventure Bonnies
 Jaret Griffith,Stetson Hatters
 Jarod Lucas,Oregon State Beavers
@@ -2007,7 +2007,7 @@ Jase Townsend,Denver Pioneers
 Jasen West,Temple Owls
 Jashaun Agosto,LIU Sharks
 Jashawn Talton-Thomas,Texas A&M-Corpus Christi Islanders
-Ja'Shon Henry,Bradley Braves
+JaShon Henry,Bradley Braves
 Jason Amador,Saint Katherine College Firebirds
 Jason Carter,Xavier Musketeers
 Jason Crandall,Washington Huskies
@@ -2049,7 +2049,7 @@ Jaxon Etter,Georgia Bulldogs
 Jaxon Knotek,North Dakota State Bison
 Jaxson Baker,Central Arkansas Bears
 Jaxson Strates,Lipscomb Bisons
-Jay Estime',UNCW Seahawks
+Jay Estime,UNCW Seahawks
 Jay Heath,Boston College Eagles
 Jay Huff,Virginia Cavaliers
 Jay Jay Chandler,Texas A&M Aggies
@@ -2100,7 +2100,7 @@ Jeffrey Steel,Ave Maria Gyrenes
 Jeffrey Yan,Long Beach State Beach
 Jehloni James,Georgia Tech Yellow Jackets
 Jelani Simmons,Youngstown State Penguins
-Jemarl Baker Jr.,Arizona Wildcats
+Jemarl Baker Jr,Arizona Wildcats
 Jeremiah Buford,Nicholls Colonels
 Jeremiah Davenport,Cincinnati Bearcats
 Jeremiah Francis,North Carolina Tar Heels
@@ -2120,7 +2120,7 @@ Jermaine Couisnard,South Carolina Gamecocks
 Jermaine Haley,West Virginia Mountaineers
 Jermaine Hamlin,Illinois Fighting Illini
 Jermaine Harris,Rhode Island Rams
-Jermaine Jackson Jr.,LIU Sharks
+Jermaine Jackson Jr,LIU Sharks
 Jermaine Marrow,Hampton Pirates
 Jermaine Miranda,Hofstra Pride
 Jermaine Samuels,Villanova Wildcats
@@ -2132,7 +2132,7 @@ Jerrell Doorbal,Wiley Wildcats
 Jerrick Harding,Weber State Wildcats
 Jerrod Rigby,Southern Miss Golden Eagles
 Jerry Higgins III,Citadel Bulldogs
-Jerry Johnson Jr.,Arkansas State Red Wolves
+Jerry Johnson Jr,Arkansas State Red Wolves
 Jervae Robinson,Washington State Cougars
 Jervay Green,Nebraska Cornhuskers
 Jesse Edwards,Syracuse Orange
@@ -2147,19 +2147,19 @@ Jibrael Washington,Wayland Baptist Pioneers
 Jibri Blount,North Carolina Central Eagles
 Jihar Williams,William & Mary Tribe
 Jimbo Lull,San Francisco Dons
-Jimmy Bell Jr.,Saint Louis Billikens
+Jimmy Bell Jr,Saint Louis Billikens
 Jimmy Boeheim,Cornell Big Red
 Jimmy Clark III,VCU Rams
-Jimmy Nichols Jr.,Providence Friars
+Jimmy Nichols Jr,Providence Friars
 Jimmy Ratliff,Siena Saints
 Jimmy Sotos,Bucknell Bison
 Jimmy Sylvain,Keiser Seahawks
-Jimmy Whitt Jr.,Arkansas Razorbacks
+Jimmy Whitt Jr,Arkansas Razorbacks
 JJ Caldwell,New Mexico Lobos
 JJ Murray,North Texas Mean Green
 Job Alexander,Cal Poly Mustangs
 Jock Perry,Saint Mary's Gaels
-Joe Bryant Jr.,Norfolk State Spartans
+Joe Bryant Jr,Norfolk State Spartans
 Joe Cook-Green,Texas Wesleyan Rams
 Joe French,Bethune-Cookman Wildcats
 Joe Hedstrom,Wisconsin Badgers
@@ -2183,10 +2183,10 @@ Joey Calcaterra,San Diego Toreros
 Joey Downes,Rutgers Scarlet Knights
 Joey Glynn,UMass Lowell River Hawks
 John Bowen,UNCW Seahawks
-John Carter Jr.,Navy Midshipmen
+John Carter Jr,Navy Midshipmen
 John Comeaux,Stephen F. Austin Lumberjacks
 John Crosby,Delaware State Hornets
-John Edgar Jr.,UC Irvine Anteaters
+John Edgar Jr,UC Irvine Anteaters
 John Fulkerson,Tennessee Volunteers
 John Hall,Evansville Aces
 John Harrar,Penn State Nittany Lions
@@ -2203,7 +2203,7 @@ John Ogwuche,Kennesaw State Owls
 John Ojiako,Virginia Tech Hokies
 John Olmsted,Arizona State Sun Devils
 John Pettway,South Alabama Jaguars
-John Petty Jr.,Alabama Crimson Tide
+John Petty Jr,Alabama Crimson Tide
 John Scully,Army West Point Black Knights
 John Stansbury,Delaware State Hornets
 John Stubbs,Elon Phoenix
@@ -2369,14 +2369,14 @@ Josiah Allick,Kansas City Roos
 Josiah Wallace,Eastern Illinois Panthers
 Josiah-Jordan James,Tennessee Volunteers
 Josip Vrankic,Santa Clara Broncos
-Jovan Blacksher Jr.,Grand Canyon Antelopes
+Jovan Blacksher Jr,Grand Canyon Antelopes
 Jovan Grujicic,Ave Maria Gyrenes
 Jovan Stulic,Little Rock Trojans
 Jovan Zelenbaba,Northwestern State Demons
-Jo'Vontae Millner,Middle Tennessee Blue Raiders
+JoVontae Millner,Middle Tennessee Blue Raiders
 JP McGhee,Maryville (TN) Fighting Scots
 JR Sanders,Maryville (TN) Fighting Scots
-Jr. Clay,Tennessee Tech Golden Eagles
+Jr Clay,Tennessee Tech Golden Eagles
 JT Escobar,North Florida Ospreys
 JT Gibson,Omaha Mavericks
 Juan Cardenas,Bryant Bulldogs
@@ -2443,14 +2443,14 @@ Juwan Durham,Notre Dame Fighting Irish
 Juwan Gray,Towson Tigers
 Juwan Perdue,Jacksonville State Gamecocks
 Jvari Thigpen,William Carey Crusaders
-J'Von McCormick,Auburn Tigers
-Jy'lan Washington,Tennessee State Tigers
-K.J. Hymes,Nevada Wolf Pack
-K.J. Jackson,UMBC Retrievers
-K.J. Lawson,Tulane Green Wave
-K.J. Riley,Evansville Aces
-K.J. Smith,North Carolina Tar Heels
-K.J. Walton,Ball State Cardinals
+JVon McCormick,Auburn Tigers
+Jylan Washington,Tennessee State Tigers
+KJ Hymes,Nevada Wolf Pack
+KJ Jackson,UMBC Retrievers
+KJ Lawson,Tulane Green Wave
+KJ Riley,Evansville Aces
+KJ Smith,North Carolina Tar Heels
+KJ Walton,Ball State Cardinals
 Kabir Mohammed,Missouri State Bears
 Kace Kitchel,Lindenwood Lions
 Kadeem Webb,Thomas University Night Hawks
@@ -2521,7 +2521,7 @@ Keegan Records,Colgate Raiders
 Keenan Fitzmorris,Stanford Cardinal
 Keenon Cole,Northern Illinois Huskies
 Keeshawn Kellman,Princeton Tigers
-Keion Brooks Jr.,Kentucky Wildcats
+Keion Brooks Jr,Kentucky Wildcats
 Keishawn Brewton,Coastal Carolina Chanticleers
 Keishawn Davidson,Tennessee Tech Golden Eagles
 Keith Braxton,Saint Francis U Red Flash
@@ -2550,12 +2550,12 @@ Kennedy Koehler,UC Davis Aggies
 Kenneth Jones,Loyola Maryland Greyhounds
 Kenny Aninye,Stetson Hatters
 Kenny Foster,Wyoming Cowboys
-Kenny Pittman Jr.,Oakland Golden Grizzlies
+Kenny Pittman Jr,Oakland Golden Grizzlies
 Kenyon Duling,SIUE Cougars
 Keon Clergeot,Massachusetts Minutemen
 Keondre Kennedy,UMBC Retrievers
-Kerry Blackshear Jr.,Florida Gators
-Ke'Sean Davis,Chicago State Cougars
+Kerry Blackshear Jr,Florida Gators
+KeSean Davis,Chicago State Cougars
 Keshad Johnson,San Diego State Aztecs
 Keshaun Saunders,Toledo Rockets
 KeShawn Curry,VCU Rams
@@ -2564,7 +2564,7 @@ Kessler Edwards,Pepperdine Waves
 Kevin Anderson,Delaware Fightin' Blue Hens
 Kevin Chong,Maryville (TN) Fighting Scots
 Kevin Cross,Nebraska Cornhuskers
-Kevin Granger Jr.,Texas Southern Tigers
+Kevin Granger Jr,Texas Southern Tigers
 Kevin Hamlet,Central Michigan Chippewas
 Kevin Holston,Alabama State Hornets
 Kevin Johnson,Nicholls Colonels
@@ -2610,12 +2610,12 @@ Khyre Thompson,UNCG Spartans
 Kienan Walter,North Dakota Fighting Hawks
 Kihei Clark,Virginia Cavaliers
 Killian Tillie,Gonzaga Bulldogs
-Kim Aiken Jr.,Eastern Washington Eagles
+Kim Aiken Jr,Eastern Washington Eagles
 Kimani Lawrence,Arizona State Sun Devils
 Kimar Williams,Rider Broncs
 Kinnon LaRose,Sacred Heart Pioneers
 Kipper Nichols,Illinois Fighting Illini
-Kira Lewis Jr.,Alabama Crimson Tide
+Kira Lewis Jr,Alabama Crimson Tide
 KJ Buffen,Ole Miss Rebels
 KJ Cunningham,Weber State Wildcats
 KJ Feagin,San Diego State Aztecs
@@ -2694,7 +2694,7 @@ Kylor Kelley,Oregon State Beavers
 Kyonze Chavis,Norfolk State Spartans
 Kyrin Galloway,UNCG Spartans
 Kyson Rawls,Morgan State Bears
-L.J. Owens,UMBC Retrievers
+LJ Owens,UMBC Retrievers
 Lacey James,Northern Illinois Huskies
 Lachlan Anderson,Eastern Kentucky Colonels
 Ladan Ricketts,Montana State Bobcats
@@ -2702,12 +2702,12 @@ LaDavius Draine,Southern Miss Golden Eagles
 Lagio Grantsaan,Morgan State Bears
 Lahat Thioune,Utah Runnin' Utes
 Lamar Hamrick,Portland State Vikings
-Lamar Norman Jr.,Duquesne Dukes
+Lamar Norman Jr,Duquesne Dukes
 Lamar Stevens,Penn State Nittany Lions
 Lamar Wright,SIUE Cougars
 Lamarcus Lee,Southern University Jaguars
 Lamarr Kimble,Louisville Cardinals
-La'Mel Robinson,Omaha Mavericks
+LaMel Robinson,Omaha Mavericks
 Lamont Berzat,New Orleans Privateers
 LaMont Simmons,Texas Wesleyan Rams
 Lamont Strickland,Bluefield State Big Blues
@@ -2732,7 +2732,7 @@ Larry Wise,North Texas Mean Green
 Lars Thiemann,California Golden Bears
 LaTerrance Reed,Northwestern State Demons
 Laurence Merritt,Midland Lutheran Warriors
-Lavar Batts Jr.,UNC Asheville Bulldogs
+Lavar Batts Jr,UNC Asheville Bulldogs
 Lavar Harewood,Portland Pilots
 Lavelle Scottie,Air Force Falcons
 Lawrence Slim,Flagler Saints
@@ -2749,7 +2749,7 @@ Lennard Robinson,St. Thomas (TX) Celts
 Lenorris Mincey,Campbellsville Tigers
 Leo Behrend,Ave Maria Gyrenes
 Leo Gallagher,Binghamton Bearcats
-Leo O'Boyle,Lafayette Leopards
+Leo OBoyle,Lafayette Leopards
 Leo Toussaint,Southwestern University Pirates
 Leon Daniels,Alabama State Hornets
 Leon Redd,Bethune-Cookman Wildcats
@@ -2794,7 +2794,7 @@ Louis Bangai,Grand Canyon Antelopes
 Louis Tang,VMI Keydets
 Lucas Kroft,Ball State Cardinals
 Lucas Monroe,Penn Quakers
-Lucas N'Guessan,East Tennessee State Buccaneers
+Lucas NGuessan,East Tennessee State Buccaneers
 Lucas Siewert,Colorado Buffaloes
 Lucas Uzdavinis,Ave Maria Gyrenes
 Lucas Williamson,Loyola Chicago Ramblers
@@ -2832,7 +2832,7 @@ Luke Wilson,Michigan Wolverines
 Lunden McDay,Ohio Bobcats
 Luther Muhammad,Ohio State Buckeyes
 Luwane Pipkins,Providence Friars
-M.J. Walker,Florida State Seminoles
+MJ Walker,Florida State Seminoles
 Mac McClung,Georgetown Hoyas
 Maceo Austin,Duquesne Dukes
 Maceo Jack,George Washington Colonials
@@ -2900,7 +2900,7 @@ Marc Combs,San Diego Christian Hawks
 Marc Dadika,Fairleigh Dickinson Knights
 Marcellus Earlington,St. John's Red Storm
 Marcellus Ross,Caldwell Cougars
-Marcus Bingham Jr.,Michigan State Spartans
+Marcus Bingham Jr,Michigan State Spartans
 Marcus Blackwell,Oklahoma Christian Eagles
 Marcus Burk,IUPUI Jaguars
 Marcus Carr,Minnesota Golden Gophers
@@ -2928,7 +2928,7 @@ Marcus Zegarowski,Creighton Bluejays
 Marek Dolezaj,Syracuse Orange
 Marek Welsch,Jacksonville State Gamecocks
 Mario Archuleta,New Mexico Highlands Cowboys
-Mario McKinney Jr.,Missouri Tigers
+Mario McKinney Jr,Missouri Tigers
 Marion Humphrey,San Diego Toreros
 Mark Calleja,South Florida Bulls
 Mark Carbone,New Hampshire Wildcats
@@ -2983,7 +2983,7 @@ Martynas Arlauskas,Gonzaga Bulldogs
 Marvin Cannon,Washington State Cougars
 Marvin Johnson,Eastern Illinois Panthers
 Marvin Mapaga,Eastern New Mexico Greyhounds
-Marvin Nesbitt Jr.,Kansas City Roos
+Marvin Nesbitt Jr,Kansas City Roos
 Marvin Price,Ohio Bobcats
 Masai Olowokere,Central Arkansas Bears
 Mason Faulkner,Western Carolina Catamounts
@@ -3090,7 +3090,7 @@ Michael Flowers,Western Michigan Broncos
 Michael Forrest,Florida Atlantic Owls
 Michael Green,Mississippi Valley State Delta Devils
 Michael Green III,Bryant Bulldogs
-Michael Hueitt Jr.,UNCG Spartans
+Michael Hueitt Jr,UNCG Spartans
 Michael Hughes,Duquesne Dukes
 Michael Hurt,Minnesota Golden Gophers
 Michael Isler,Presbyterian Blue Hose
@@ -3128,7 +3128,7 @@ Mike Smith,Columbia Lions
 Mike Stone,Alabama State Hornets
 Mike Watkins,Penn State Nittany Lions
 Mikel Beyers,Marshall Thundering Herd
-Mike'L Simms,VCU Rams
+MikeL Simms,VCU Rams
 Mikey Watkins,Merrimack Warriors
 Miks Antoms,Maine Black Bears
 Milan Acquaah,California Baptist Lancers
@@ -3204,7 +3204,7 @@ Myreon Jones,Penn State Nittany Lions
 Myron Gardner,Georgetown Hoyas
 Mysta Goodloe,USC Upstate Spartans
 Nahiem Alleyne,Virginia Tech Hokies
-Nah'Shon Hyland,VCU Rams
+NahShon Hyland,VCU Rams
 Nahziah Carter,Washington Huskies
 Naim Miller,Mount St. Mary's Mountaineers
 Naji Marshall,Xavier Musketeers
@@ -3255,7 +3255,7 @@ Nelson Phillips,Georgia State Panthers
 Nemanja Tosic,Ave Maria Gyrenes
 Nevin Zink,USC Upstate Spartans
 New Williams,Fresno State Bulldogs
-N'Faly Dante,Oregon Ducks
+NFaly Dante,Oregon Ducks
 Nic Thomas,Tulane Green Wave
 Nic Zeil,Creighton Bluejays
 Nicholas Jones,UAPB Golden Lions
@@ -3350,7 +3350,7 @@ Omar Silverio,Hofstra Pride
 Omari Moore,San Jose State Spartans
 Omari Peek-Green,Delaware State Hornets
 Omer Yurtseven,Georgetown Hoyas
-O'Neil McBride,Clemson Tigers
+ONeil McBride,Clemson Tigers
 Onno Steger,Western Carolina Catamounts
 Onyebuchi Ezeakudo,Pittsburgh Panthers
 Onyeka Okongwu,USC Trojans
@@ -3360,10 +3360,10 @@ Osa Wilson,Southern University Jaguars
 Osasumwen Osaghae,FIU Panthers
 Oscar da Silva,Stanford Cardinal
 Oscar Kao,Southeast Missouri State Redhawks
-Oscar Lopez Jr.,DePaul Blue Demons
+Oscar Lopez Jr,DePaul Blue Demons
 Oscar Okeke,Fairleigh Dickinson Knights
 Oscar Tshiebwe,West Virginia Mountaineers
-O'Showen Williams,Appalachian State Mountaineers
+OShowen Williams,Appalachian State Mountaineers
 Osi Nwachukwu,Sacramento State Hornets
 Osinachi Smart,Charleston Cougars
 Osun Osunniyi,St. Bonaventure Bonnies
@@ -3373,8 +3373,8 @@ Owen King,South Dakota State Jackrabbits
 Owen McCormack,Presbyterian Blue Hose
 Owen McGlashan,Denver Pioneers
 Ozante Fields,South Carolina State Bulldogs
-P.J. Hardy,Louisiana Ragin' Cajuns
-P.J. Horne,Virginia Tech Hokies
+PJ Hardy,Louisiana Ragin' Cajuns
+PJ Horne,Virginia Tech Hokies
 Pape Diop,Southeastern Louisiana Lions
 Paris Austin,California Golden Bears
 Parker Braun,Missouri Tigers
@@ -3425,7 +3425,7 @@ Peyton Sallee,Texas Wesleyan Rams
 Peyton Smith,Texas A&M-Corpus Christi Islanders
 Philip McKenzie,Houston Baptist Huskies
 Philip Whittington,Kent State Golden Flashes
-Phlandrous Fleming Jr.,Charleston Southern Buccaneers
+Phlandrous Fleming Jr,Charleston Southern Buccaneers
 Phoenix Ford,UTSA Roadrunners
 Pierre Sarr,Binghamton Bearcats
 Pierson McAtee,Kansas State Wildcats
@@ -3478,13 +3478,13 @@ Quinton Morton-Robertson,Radford Highlanders
 Quinton Rose,Temple Owls
 Quishon Harris,Old Dominion Monarchs
 Qwanzi Samuels,FGCU Eagles
-R.J. Eytle-Rock,UMBC Retrievers
-R.J. Fuqua,Oral Roberts Golden Eagles
-R.J. McGee,Tulane Green Wave
+RJ Eytle-Rock,UMBC Retrievers
+RJ Fuqua,Oral Roberts Golden Eagles
+RJ McGee,Tulane Green Wave
 Race Thompson,Indiana Hoosiers
 Radshad Davis,UT Arlington Mavericks
 RaeQuan Battle,Washington Huskies
-Rafael Cruz Jr.,Western Michigan Broncos
+Rafael Cruz Jr,Western Michigan Broncos
 Raheem Solomon,Niagara Purple Eagles
 Rahmir Moore,Saint Joseph's Hawks
 Rahsaan Edwards,South Carolina State Bulldogs
@@ -3498,10 +3498,10 @@ Ramiir Dixon-Conover,Saint Francis U Red Flash
 Ramiro Arrillaga,Columbia International Rams
 Ramon Singh,Xavier Musketeers
 Ramon Vila,Chattanooga Mocs
-Randall Gaskins Jr.,Saint Francis U Red Flash
-Randall Leath Jr.,Florida A&M Rattlers
+Randall Gaskins Jr,Saint Francis U Red Flash
+Randall Leath Jr,Florida A&M Rattlers
 Randy Brumant,Columbia Lions
-Randy Miller Jr.,North Carolina Central Eagles
+Randy Miller Jr,North Carolina Central Eagles
 Rapolas Ivanauskas,Colgate Raiders
 Raquan Brown,New Orleans Privateers
 Raquan Mitchell,New Mexico Highlands Cowboys
@@ -3516,7 +3516,7 @@ Ray Kowalski,Denver Pioneers
 Ray Ona Embo,Tulane Green Wave
 Ray Salnave,Monmouth Hawks
 RayJ Dennis,Boise State Broncos
-Raymond Bethea Jr.,Howard Bison
+Raymond Bethea Jr,Howard Bison
 Raymone Lampkin,Southern-New Orleans Knights
 Rayquan Evans,Florida State Seminoles
 Rayshaun Hammonds,Georgia Bulldogs
@@ -3541,17 +3541,17 @@ Rex Pflueger,Notre Dame Fighting Irish
 Rey Idowu,Illinois State Redbirds
 Ricco Williams,UNCG Spartans
 Rich Kelly,Quinnipiac Bobcats
-Richard Caldwell Jr.,Binghamton Bearcats
+Richard Caldwell Jr,Binghamton Bearcats
 Richard Jones,Mississippi Valley State Delta Devils
 Richard Njoku,Navy Midshipmen
-Richard Rivers Jr.,Mississippi Valley State Delta Devils
+Richard Rivers Jr,Mississippi Valley State Delta Devils
 Richard Washington,San Jose State Spartans
 Richardson Maitre,Florida Atlantic Owls
 Richie Mitchell,Campbellsville Tigers
 Richmond Aririguzoh,Princeton Tigers
 Rick Newman,Columbia International Rams
 Ricky Council II,UMBC Retrievers
-Ricky Lindo Jr.,Maryland Terrapins
+Ricky Lindo Jr,Maryland Terrapins
 Ricky Torres,Illinois State Redbirds
 Rico Ozuna-Harrison,Michigan Wolverines
 Riley Abercrombie,Boise State Broncos
@@ -3568,7 +3568,7 @@ RJ Smith,Sam Houston State Bearkats
 RJ Williams,Boise State Broncos
 Rob Edwards,Arizona State Sun Devils
 Rob Higgins,St. Francis Brooklyn Terriers
-Rob McClain Jr.,UT Rio Grande Valley Vaqueros
+Rob McClain Jr,UT Rio Grande Valley Vaqueros
 Rob Montgomery,Central Michigan Chippewas
 Rob Perry,Stetson Hatters
 Rob Peterson III,High Point Panthers
@@ -3583,7 +3583,7 @@ Robert Boyd,UAPB Golden Lions
 Robert Braswell,Syracuse Orange
 Robert Brown,New Mexico State Aggies
 Robert Chougkaz,Northwestern State Demons
-Robert Flint Jr.,South Carolina State Bulldogs
+Robert Flint Jr,South Carolina State Bulldogs
 Robert Gregg,Oklahoma Christian Eagles
 Robert Jones,Denver Pioneers
 Robert Martin,Rice Owls
@@ -3598,15 +3598,15 @@ Rocket Watts,Michigan State Spartans
 Rocky Kreuser,North Dakota State Bison
 Rod Henry-Hayes,Northern Illinois Huskies
 Rod Johnson,Chattanooga Mocs
-Rod Melton Jr.,Florida A&M Rattlers
+Rod Melton Jr,Florida A&M Rattlers
 Roderick Smith,Western Illinois Leathernecks
-Rodney Carson Jr.,New Orleans Privateers
+Rodney Carson Jr,New Orleans Privateers
 Rodney Chatman,Dayton Flyers
-Rodney Henderson Jr.,CSUN Matadors
+Rodney Henderson Jr,CSUN Matadors
 Rodney Herenton,Stanford Cardinal
 Rodney Howard,Georgia Bulldogs
 Rodney Mallett,William Carey Crusaders
-Rodney Miller Jr.,Miami (FL) Hurricanes
+Rodney Miller Jr,Miami (FL) Hurricanes
 Rodrick McCobb,Northern Colorado Bears
 Roland Griffin,Jackson State Tigers
 Romain Boxus,Hartford Hawks
@@ -3621,20 +3621,20 @@ Romello White,Arizona State Sun Devils
 Romelo Burrell,Central Michigan Chippewas
 Romeo Weems,DePaul Blue Demons
 Ron Artest III,CSUN Matadors
-Ron Harper Jr.,Rutgers Scarlet Knights
+Ron Harper Jr,Rutgers Scarlet Knights
 Ron Mitchell,UMass Lowell River Hawks
 Ronald Jackson,North Carolina A&T Aggies
 Ronald Lucas,Delaware State Hornets
 Ronald Taylor,Campbellsville Tigers
 Ronaldo Segu,Buffalo Bulls
 Ronne Readus,Bakersfield Roadrunners
-Ronnie Suggs Jr.,Southern Illinois Salukis
+Ronnie Suggs Jr,Southern Illinois Salukis
 Roosevelt Smart,North Texas Mean Green
 Roscoe Eastmond,Denver Pioneers
 Rosel Hurley,St. Francis Brooklyn Terriers
 Ross Cummings,Mercer Bears
 Roti Ware,Stephen F. Austin Lumberjacks
-Royce Hamm Jr.,Texas Longhorns
+Royce Hamm Jr,Texas Longhorns
 Roydell Brown,McNeese State Cowboys
 Ruben Monzon,Our Lady of the Lake Saints
 Rudy Fitzgibbons III,Citadel Bulldogs
@@ -3705,7 +3705,7 @@ Sam Timmins,Washington Huskies
 Sam Waardenburg,Miami (FL) Hurricanes
 Sam Weining,Campbellsville Tigers
 Samari Curtis,Nebraska Cornhuskers
-Sama'Zha Hart,Stephen F. Austin Lumberjacks
+SamaZha Hart,Stephen F. Austin Lumberjacks
 Samba Diallo,Massachusetts Minutemen
 Samir Doughty,Auburn Tigers
 Samm Jones,Drake Bulldogs
@@ -3736,7 +3736,7 @@ Scott Meredith,Saint Francis U Red Flash
 Scott Spencer,La Salle Explorers
 Scottie James,Liberty Flames
 Scottie Lewis,Florida Gators
-Scotty Pippen Jr.,Vanderbilt Commodores
+Scotty Pippen Jr,Vanderbilt Commodores
 Sean Atwater,Tougaloo Bulldogs
 Sean Bairstow,Utah State Aggies
 Sean Conway,VMI Keydets
@@ -3758,7 +3758,7 @@ Sekou Dembele,Southern Illinois Salukis
 Sekou Toure,UC Santa Barbara Gauchos
 Seneca Knight,San Jose State Spartans
 Sergio El Darwich,Maine Black Bears
-Serrel Smith Jr.,Maryland Terrapins
+Serrel Smith Jr,Maryland Terrapins
 Seth Adelsperger,Belmont Bruins
 Seth LeDay,East Carolina Pirates
 Seth Lundy,Penn State Nittany Lions
@@ -3770,23 +3770,23 @@ Shakur Juiston,Oregon Ducks
 Shamar Dillard,Eastern Michigan Eagles
 Shamar Givance,Evansville Aces
 Shamar Wright,SIUE Cougars
-Sha'markus Kennedy,McNeese State Cowboys
+Shamarkus Kennedy,McNeese State Cowboys
 Shandon Brown,Niagara Purple Eagles
 Shane Gatling,Colorado Buffaloes
 ShanQuan Hemphill,Green Bay Phoenix
 Shaq Carter,Rutgers Scarlet Knights
 Shaquille Holley,Thomas University Night Hawks
 Shaquille Walters,Northeastern Huskies
-Shareef O'Neal,UCLA Bruins
+Shareef ONeal,UCLA Bruins
 Shareef Smith,Eastern Illinois Panthers
-Sharone Wright Jr.,Wake Forest Demon Deacons
+Sharone Wright Jr,Wake Forest Demon Deacons
 Shaun Belbey,Syracuse Orange
 Shaun Doss,UAPB Golden Lions
 Shaun Rost,Texas Wesleyan Rams
 Shaun Williams,Kansas State Wildcats
-"Shavar Reynolds, Jr.",Seton Hall Pirates
+"Shavar Reynolds, Jr",Seton Hall Pirates
 Shawn Stith,Bakersfield Roadrunners
-Shawn Walker Jr.,George Washington Colonials
+Shawn Walker Jr,George Washington Colonials
 Shawn Williams,New Mexico State Aggies
 Shayne Scruggs,North Carolina A&T Aggies
 Shea Rush,North Carolina Tar Heels
@@ -3859,11 +3859,11 @@ Sy Chatman,Massachusetts Minutemen
 Sylvester Ogbonda,Ohio Bobcats
 Symir Torrence,Marquette Golden Eagles
 Syvon Holland,Columbia International Rams
-T.J. Atwood,Lamar Cardinals
-T.J. Bickerstaff,Drexel Dragons
-T.J. Gibbs,Notre Dame Fighting Irish
-T.J. Smith,Toledo Rockets
-T.J. Weeks,Massachusetts Minutemen
+TJ Atwood,Lamar Cardinals
+TJ Bickerstaff,Drexel Dragons
+TJ Gibbs,Notre Dame Fighting Irish
+TJ Smith,Toledo Rockets
+TJ Weeks,Massachusetts Minutemen
 Taavi Jurkatamm,San Francisco Dons
 Tadas Kararinas,Drexel Dragons
 Taelyr Gatlin,Denver Pioneers
@@ -3881,7 +3881,7 @@ Tajion Jones,UNC Asheville Bulldogs
 Taj-Maal Toney,Bluefield State Big Blues
 Tajuan Agee,Iona Gaels
 Takiula Fahrensohn,Portland Pilots
-Ta'lon Cooper,Morehead State Eagles
+Talon Cooper,Morehead State Eagles
 Tamell Pearson,UAB Blazers
 Tamenang Choh,Brown Bears
 Tamir Bynum,Prairie View A&M Panthers
@@ -3914,10 +3914,10 @@ Taylor Schildroth,Maine Black Bears
 Taz Sherman,West Virginia Mountaineers
 Taze Moore,Bakersfield Roadrunners
 Ted McCree,Northern Arizona Lumberjacks
-Te'Jon Lucas,Milwaukee Panthers
+TeJon Lucas,Milwaukee Panthers
 Telly Davenport,Chaminade Silverswords
 Temi Aiyegbusi,UConn Huskies
-Terence Porter Jr.,Charleston Southern Buccaneers
+Terence Porter Jr,Charleston Southern Buccaneers
 Terrance Banyard,UAPB Golden Lions
 Terrance Collins,Southern-New Orleans Knights
 Terrance McBride,Cornell Big Red
@@ -3928,9 +3928,9 @@ Terrell Brown (Seattle Redhawks),Seattle Redhawks
 Terrell Burden,Kennesaw State Owls
 Terrell Curtis II,Little Rock Trojans
 Terrell Gomez,CSUN Matadors
-Terrence Hargrove Jr.,Saint Louis Billikens
+Terrence Hargrove Jr,Saint Louis Billikens
 Terrence Lewis,Iowa State Cyclones
-Terrence Shannon Jr.,Texas Tech Red Raiders
+Terrence Shannon Jr,Texas Tech Red Raiders
 Terreon Randolph,Grambling State Tigers
 Terry Ivery,Stetson Hatters
 Terry Taylor,Austin Peay Governors
@@ -3951,7 +3951,7 @@ Thomas Binelli,Eastern Michigan Eagles
 Thomas Booker,USC Upstate Spartans
 Thomas Dziagwa,Oklahoma State Cowboys
 Thomas Kithier,Michigan State Spartans
-Thomas O'Connell,St. John's Red Storm
+Thomas OConnell,St. John's Red Storm
 Thomasi Gilgeous-Alexander,Evansville Aces
 Thorir Thorbjarnarson,Nebraska Cornhuskers
 Thurston McCarty,Cornell Big Red
@@ -3959,12 +3959,12 @@ TiAndre Jackson-Young,UT Arlington Mavericks
 Tim Ceaser,Coastal Carolina Chanticleers
 Tim Fuller,Weber State Wildcats
 Tim Harrison,Rice Owls
-Tim Perry Jr.,Drexel Dragons
+Tim Perry Jr,Drexel Dragons
 Tim Waddington,Temple Owls
 Timmy Allen,Utah Runnin' Utes
 Timmy Falls,Montana Grizzlies
 Timothy Ighoefe,Georgetown Hoyas
-Timothy Palmer Jr.,Caldwell Cougars
+Timothy Palmer Jr,Caldwell Cougars
 Tionne Rollins,Purdue Fort Wayne Mastodons
 Tirus Smith,Louisiana Ragin' Cajuns
 Titus Wright,Western Michigan Broncos
@@ -3989,7 +3989,7 @@ Tommy Kuhse,Saint Mary's Gaels
 Tommy Luce,Purdue Boilermakers
 Tommy McCarthy,Rice Owls
 Tommy Rutherford,UC Irvine Anteaters
-Tony Johnson Jr.,UCF Knights
+Tony Johnson Jr,UCF Knights
 Tony Lewis,Texas A&M-Corpus Christi Islanders
 Tony Miller,Washington State Cougars
 Torico Simmons,Mississippi Valley State Delta Devils
@@ -4000,7 +4000,7 @@ Tosan Evbuomwan,Princeton Tigers
 Toumani Camara,Georgia Bulldogs
 Trace Arbuckle,Vanderbilt Commodores
 Traci Carter,Hartford Hawks
-Tracy Hector Jr.,FGCU Eagles
+Tracy Hector Jr,FGCU Eagles
 Trae Berhow,UNI Panthers
 Trae Hannibal,South Carolina Gamecocks
 Trajan Wesley,Louisiana Ragin' Cajuns
@@ -4009,7 +4009,7 @@ Travion McCray,Western Carolina Catamounts
 Travious Grubbs,Wiley Wildcats
 Travis Anderson,Charleston Southern Buccaneers
 Travis Evee,VMI Keydets
-"Travis Fields, Jr.",Radford Highlanders
+"Travis Fields, Jr",Radford Highlanders
 Travis Glover,Oklahoma Christian Eagles
 Travis Light,Florida State Seminoles
 Travis Rice,Washington Huskies
@@ -4020,7 +4020,7 @@ Tray Boyd III,East Tennessee State Buccaneers
 Tray Buchanan,South Dakota State Jackrabbits
 Tray Hollowell,Wofford Terriers
 Tray Jackson,Missouri Tigers
-Tray Maddox Jr.,Oakland Golden Grizzlies
+Tray Maddox Jr,Oakland Golden Grizzlies
 Trayce Jackson-Davis,Indiana Hoosiers
 Tre Armstrong,California Baptist Lancers
 Tre Clark,Furman Paladins
@@ -4033,7 +4033,7 @@ Tre Mann,Florida Gators
 Tre Mitchell,Massachusetts Minutemen
 Tre Scott,Cincinnati Bearcats
 Tre Williams,Indiana State Sycamores
-Tre' Williams,Minnesota Golden Gophers
+Tre Williams,Minnesota Golden Gophers
 Treavon Martin,SIUE Cougars
 Trejon Jacob,FIU Panthers
 Tremere Brown,Alabama A&M Bulldogs
@@ -4049,7 +4049,7 @@ Trent Stephney,UNC Asheville Bulldogs
 Trenton Garrett,Southwestern University Pirates
 Trenton Massner,Northwestern State Demons
 Tres Tinkle,Oregon State Beavers
-Tre'Shon Smoots,Northern Colorado Bears
+TreShon Smoots,Northern Colorado Bears
 Trevante Anderson,San Francisco Dons
 Trevelin Queen,New Mexico State Aggies
 Trevell Cunningham,Grambling State Tigers
@@ -4211,13 +4211,13 @@ Udoka Azubuike,Kansas Jayhawks
 Ugo Obineke,Kennesaw State Owls
 Umoja Gibson,North Texas Mean Green
 Unique McLean,St. Francis Brooklyn Terriers
-V.J. Holmes,Lamar Cardinals
+VJ Holmes,Lamar Cardinals
 Vado Morse,Mount St. Mary's Mountaineers
 Vance Jackson,New Mexico Lobos
 Vante Hendrix,New Mexico Lobos
 Vaughn Covington,Caldwell Cougars
 Venjie Wallis,Jackson State Tigers
-Vernon Carey Jr.,Duke Blue Devils
+Vernon Carey Jr,Duke Blue Devils
 Victor Bafutto,Mercer Bears
 Victor Iwuakor,Oklahoma Sooners
 Victor Ohia Obioha,Pepperdine Waves
@@ -4242,19 +4242,19 @@ Wali Parks,Bethune-Cookman Wildcats
 Walker Miller,North Carolina Tar Heels
 Walt McGrory,Wisconsin Badgers
 Walter Ellis,Bucknell Bison
-Walter Jones Jr.,Alabama A&M Bulldogs
+Walter Jones Jr,Alabama A&M Bulldogs
 Walter Prevost,Maryland Eastern Shore Hawks
 Walter Whyte,Boston University Terriers
 Wanjang Tut,Omaha Mavericks
 Warith Alatishe,Nicholls Colonels
 Wassef Methnani,Fairfield Stags
 Wayne Arnold,Cal State Fullerton Titans
-Wayne Bristol Jr.,Howard Bison
+Wayne Bristol Jr,Howard Bison
 Webster Filmore,North Carolina A&T Aggies
 Weijie Zhang,San Diego Christian Hawks
 Wells Hoag,Clemson Tigers
 Wendell Mitchell,Texas A&M Aggies
-Wendell Moore Jr.,Duke Blue Devils
+Wendell Moore Jr,Duke Blue Devils
 Wes Slajchert,Dartmouth Big Green
 Wesley Harris,Tennessee State Tigers
 Wheza Panzo,Stetson Hatters
@@ -4276,7 +4276,7 @@ William McNair,New Mexico State Aggies
 Willie Herenton,Miami (FL) Hurricanes
 Willie Jackson,Toledo Rockets
 Willy Isiani,Detroit Titans
-Willy Nunez Jr.,Rider Broncs
+Willy Nunez Jr,Rider Broncs
 Wyatt Wilkes,Florida State Seminoles
 Xaiver Armstead,Louisiana Tech Bulldogs
 Xander Rice,Bucknell Bison
